@@ -1,0 +1,1501 @@
+{
+ "category": "nourriture",
+ "cards": [
+  {
+   "word": "Croissant",
+   "taboo": [
+    "Boulangerie",
+    "Beurre",
+    "Petit-déjeuner",
+    "Viennoiserie",
+    "Café"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Pizza",
+   "taboo": [
+    "Italie",
+    "Fromage",
+    "Tomate",
+    "Pâte",
+    "Four"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Baguette",
+   "taboo": [
+    "Pain",
+    "Boulangerie",
+    "Française",
+    "Croûte",
+    "Longue"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Fromage",
+   "taboo": [
+    "Lait",
+    "Vache",
+    "Camembert",
+    "Croûte",
+    "Plateau"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Chocolat",
+   "taboo": [
+    "Cacao",
+    "Noir",
+    "Lait",
+    "Tablette",
+    "Pâques"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Banane",
+   "taboo": [
+    "Jaune",
+    "Singe",
+    "Fruit",
+    "Peau",
+    "Glisser"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Pomme",
+   "taboo": [
+    "Fruit",
+    "Rouge",
+    "Arbre",
+    "Newton",
+    "Tarte"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Fraise",
+   "taboo": [
+    "Rouge",
+    "Fruit",
+    "Chantilly",
+    "Tagada",
+    "Confiture"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Carotte",
+   "taboo": [
+    "Orange",
+    "Lapin",
+    "Légume",
+    "Yeux",
+    "Râpée"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Tomate",
+   "taboo": [
+    "Rouge",
+    "Ketchup",
+    "Salade",
+    "Légume",
+    "Fruit"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Frites",
+   "taboo": [
+    "Pomme de terre",
+    "Belgique",
+    "Huile",
+    "Ketchup",
+    "Moules"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Crêpe",
+   "taboo": [
+    "Chandeleur",
+    "Bretagne",
+    "Poêle",
+    "Farine",
+    "Nutella"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Glace",
+   "taboo": [
+    "Froid",
+    "Été",
+    "Cornet",
+    "Boule",
+    "Vanille"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Gâteau",
+   "taboo": [
+    "Anniversaire",
+    "Bougies",
+    "Dessert",
+    "Four",
+    "Sucré"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Œuf",
+   "taboo": [
+    "Poule",
+    "Coquille",
+    "Jaune",
+    "Blanc",
+    "Omelette"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Pain",
+   "taboo": [
+    "Boulangerie",
+    "Baguette",
+    "Mie",
+    "Tartine",
+    "Farine"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Café",
+   "taboo": [
+    "Boisson",
+    "Tasse",
+    "Noir",
+    "Matin",
+    "Expresso"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Hamburger",
+   "taboo": [
+    "Steak",
+    "Pain",
+    "McDonald's",
+    "Américain",
+    "Fast-food"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Spaghetti",
+   "taboo": [
+    "Pâtes",
+    "Italie",
+    "Bolognaise",
+    "Longs",
+    "Sauce"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Sushi",
+   "taboo": [
+    "Japon",
+    "Poisson",
+    "Riz",
+    "Cru",
+    "Baguettes"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Pop-corn",
+   "taboo": [
+    "Cinéma",
+    "Maïs",
+    "Sucré",
+    "Salé",
+    "Éclater"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Citron",
+   "taboo": [
+    "Jaune",
+    "Acide",
+    "Agrume",
+    "Jus",
+    "Tarte"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Orange",
+   "taboo": [
+    "Couleur",
+    "Agrume",
+    "Jus",
+    "Vitamine",
+    "Fruit"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Salade",
+   "taboo": [
+    "Laitue",
+    "Vert",
+    "Vinaigrette",
+    "Feuilles",
+    "Légume"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Poulet",
+   "taboo": [
+    "Volaille",
+    "Rôti",
+    "Cuisse",
+    "Ailes",
+    "Nuggets"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Miel",
+   "taboo": [
+    "Abeille",
+    "Ruche",
+    "Pot",
+    "Sucré",
+    "Ours"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Bonbon",
+   "taboo": [
+    "Sucre",
+    "Enfants",
+    "Halloween",
+    "Dentiste",
+    "Haribo"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Soupe",
+   "taboo": [
+    "Légumes",
+    "Potage",
+    "Chaud",
+    "Cuillère",
+    "Hiver"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Pâtes",
+   "taboo": [
+    "Italie",
+    "Spaghetti",
+    "Coquillettes",
+    "Al dente",
+    "Cuisson"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Cerise",
+   "taboo": [
+    "Rouge",
+    "Noyau",
+    "Clafoutis",
+    "Gâteau",
+    "Queue"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Pastèque",
+   "taboo": [
+    "Été",
+    "Rouge",
+    "Pépins",
+    "Grosse",
+    "Melon"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Ananas",
+   "taboo": [
+    "Tropical",
+    "Couronne",
+    "Jaune",
+    "Pizza",
+    "Hawaï"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Raisin",
+   "taboo": [
+    "Vigne",
+    "Grappe",
+    "Vin",
+    "Grain",
+    "Sec"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Pomme de terre",
+   "taboo": [
+    "Patate",
+    "Frites",
+    "Purée",
+    "Légume",
+    "Éplucher"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Bière",
+   "taboo": [
+    "Mousse",
+    "Alcool",
+    "Bar",
+    "Pinte",
+    "Houblon"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Vin",
+   "taboo": [
+    "Rouge",
+    "Raisin",
+    "Bouteille",
+    "Verre",
+    "Bordeaux"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Sandwich",
+   "taboo": [
+    "Pain",
+    "Jambon",
+    "Pique-nique",
+    "Baguette",
+    "Midi"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Steak",
+   "taboo": [
+    "Viande",
+    "Bœuf",
+    "Saignant",
+    "Grillé",
+    "Frites"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Jambon",
+   "taboo": [
+    "Cochon",
+    "Tranche",
+    "Rose",
+    "Sandwich",
+    "Bayonne"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Beurre",
+   "taboo": [
+    "Lait",
+    "Tartine",
+    "Doux",
+    "Salé",
+    "Margarine"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Confiture",
+   "taboo": [
+    "Fraise",
+    "Pot",
+    "Tartine",
+    "Sucre",
+    "Abricot"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Raclette",
+   "taboo": [
+    "Fromage",
+    "Fondre",
+    "Pommes de terre",
+    "Savoie",
+    "Appareil"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Chips",
+   "taboo": [
+    "Pommes de terre",
+    "Croustillantes",
+    "Paquet",
+    "Apéritif",
+    "Salées"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Gaufre",
+   "taboo": [
+    "Carreaux",
+    "Belgique",
+    "Fête foraine",
+    "Chantilly",
+    "Nutella"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Petit-déjeuner",
+   "taboo": [
+    "Matin",
+    "Café",
+    "Céréales",
+    "Tartine",
+    "Croissant"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Pique-nique",
+   "taboo": [
+    "Herbe",
+    "Nappe",
+    "Panier",
+    "Sandwich",
+    "Fourmis"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Barbecue",
+   "taboo": [
+    "Grillades",
+    "Saucisses",
+    "Charbon",
+    "Été",
+    "Jardin"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Champagne",
+   "taboo": [
+    "Bulles",
+    "Fête",
+    "Bouteille",
+    "Reims",
+    "Coupe"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Nutella",
+   "taboo": [
+    "Pâte à tartiner",
+    "Noisette",
+    "Chocolat",
+    "Pot",
+    "Crêpe"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Ketchup",
+   "taboo": [
+    "Tomate",
+    "Rouge",
+    "Sauce",
+    "Frites",
+    "Hamburger"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Omelette",
+   "taboo": [
+    "Œufs",
+    "Poêle",
+    "Battre",
+    "Baveuse",
+    "Jambon"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Hot-dog",
+   "taboo": [
+    "Saucisse",
+    "Pain",
+    "Moutarde",
+    "Américain",
+    "Ketchup"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Kebab",
+   "taboo": [
+    "Turc",
+    "Viande",
+    "Pain",
+    "Sauce blanche",
+    "Frites"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Sucre",
+   "taboo": [
+    "Blanc",
+    "Doux",
+    "Morceau",
+    "Café",
+    "Canne"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Sel",
+   "taboo": [
+    "Poivre",
+    "Mer",
+    "Salé",
+    "Blanc",
+    "Guérande"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Moutarde",
+   "taboo": [
+    "Dijon",
+    "Jaune",
+    "Forte",
+    "Nez",
+    "Vinaigrette"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Mayonnaise",
+   "taboo": [
+    "Œufs",
+    "Huile",
+    "Sauce",
+    "Frites",
+    "Monter"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Fondue",
+   "taboo": [
+    "Fromage",
+    "Savoie",
+    "Pain",
+    "Caquelon",
+    "Suisse"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Tartiflette",
+   "taboo": [
+    "Reblochon",
+    "Savoie",
+    "Pommes de terre",
+    "Lardons",
+    "Gratin"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Ratatouille",
+   "taboo": [
+    "Légumes",
+    "Courgette",
+    "Aubergine",
+    "Provence",
+    "Pixar"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Couscous",
+   "taboo": [
+    "Semoule",
+    "Maroc",
+    "Merguez",
+    "Légumes",
+    "Pois chiches"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Paella",
+   "taboo": [
+    "Espagne",
+    "Riz",
+    "Fruits de mer",
+    "Safran",
+    "Poêle"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Tacos",
+   "taboo": [
+    "Mexique",
+    "Tortilla",
+    "Viande",
+    "Sauce",
+    "Piquant"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Quiche",
+   "taboo": [
+    "Lorraine",
+    "Lardons",
+    "Pâte",
+    "Œufs",
+    "Tarte"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Croque-monsieur",
+   "taboo": [
+    "Jambon",
+    "Fromage",
+    "Pain de mie",
+    "Grillé",
+    "Madame"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Bœuf bourguignon",
+   "taboo": [
+    "Vin",
+    "Mijoter",
+    "Carottes",
+    "Viande",
+    "Cocotte"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Choucroute",
+   "taboo": [
+    "Alsace",
+    "Saucisses",
+    "Allemagne",
+    "Fermenté",
+    "Strasbourg"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Foie gras",
+   "taboo": [
+    "Canard",
+    "Oie",
+    "Noël",
+    "Gavage",
+    "Toast"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Bûche de Noël",
+   "taboo": [
+    "Dessert",
+    "Décembre",
+    "Réveillon",
+    "Chocolat",
+    "Bois"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Galette des rois",
+   "taboo": [
+    "Fève",
+    "Couronne",
+    "Frangipane",
+    "Épiphanie",
+    "Janvier"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Macaron",
+   "taboo": [
+    "Coloré",
+    "Amande",
+    "Pâtisserie",
+    "Ladurée",
+    "Rond"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Éclair",
+   "taboo": [
+    "Pâtisserie",
+    "Chocolat",
+    "Café",
+    "Choux",
+    "Orage"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Tiramisu",
+   "taboo": [
+    "Italie",
+    "Café",
+    "Mascarpone",
+    "Biscuits",
+    "Cacao"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Crème brûlée",
+   "taboo": [
+    "Caramel",
+    "Chalumeau",
+    "Vanille",
+    "Dessert",
+    "Ramequin"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Madeleine",
+   "taboo": [
+    "Proust",
+    "Coquillage",
+    "Goûter",
+    "Gâteau",
+    "Bosse"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Barbe à papa",
+   "taboo": [
+    "Fête foraine",
+    "Rose",
+    "Sucre",
+    "Bâton",
+    "Nuage"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Pain au chocolat",
+   "taboo": [
+    "Viennoiserie",
+    "Croissant",
+    "Sud-Ouest",
+    "Goûter",
+    "Barres"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Brioche",
+   "taboo": [
+    "Viennoiserie",
+    "Moelleux",
+    "Beurre",
+    "Tranche",
+    "Marie-Antoinette"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Chantilly",
+   "taboo": [
+    "Crème",
+    "Fouetter",
+    "Blanche",
+    "Bombe",
+    "Sucrée"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Caramel",
+   "taboo": [
+    "Sucre",
+    "Beurre salé",
+    "Bonbon",
+    "Collant",
+    "Doré"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Lasagnes",
+   "taboo": [
+    "Couches",
+    "Italie",
+    "Béchamel",
+    "Bolognaise",
+    "Garfield"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Huître",
+   "taboo": [
+    "Coquillage",
+    "Perle",
+    "Mer",
+    "Couteau",
+    "Noël"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Saumon",
+   "taboo": [
+    "Rose",
+    "Fumé",
+    "Poisson",
+    "Norvège",
+    "Sushi"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Avocat",
+   "taboo": [
+    "Vert",
+    "Noyau",
+    "Guacamole",
+    "Tribunal",
+    "Tartine"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Aubergine",
+   "taboo": [
+    "Violet",
+    "Ratatouille",
+    "Légume",
+    "Moussaka",
+    "Grillée"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Oignon",
+   "taboo": [
+    "Pleurer",
+    "Couper",
+    "Soupe",
+    "Rondelles",
+    "Ail"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Ail",
+   "taboo": [
+    "Gousse",
+    "Vampire",
+    "Haleine",
+    "Odeur",
+    "Provence"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Cornichon",
+   "taboo": [
+    "Vert",
+    "Bocal",
+    "Vinaigre",
+    "Petit",
+    "Idiot"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Cacahuète",
+   "taboo": [
+    "Apéritif",
+    "Salée",
+    "Arachide",
+    "Éléphant",
+    "Beurre"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Pêche",
+   "taboo": [
+    "Noyau",
+    "Duvet",
+    "Fruit",
+    "Été",
+    "Forme"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Citrouille",
+   "taboo": [
+    "Halloween",
+    "Orange",
+    "Cendrillon",
+    "Potiron",
+    "Soupe"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Épinards",
+   "taboo": [
+    "Popeye",
+    "Vert",
+    "Muscles",
+    "Légume",
+    "Fer"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Camembert",
+   "taboo": [
+    "Normandie",
+    "Fromage",
+    "Boîte",
+    "Coulant",
+    "Odeur"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Apéritif",
+   "taboo": [
+    "Verre",
+    "Chips",
+    "Amis",
+    "Trinquer",
+    "Saucisson"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Recette",
+   "taboo": [
+    "Cuisine",
+    "Ingrédients",
+    "Livre",
+    "Grand-mère",
+    "Étapes"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Goûter",
+   "taboo": [
+    "Quatre heures",
+    "Enfants",
+    "Après-midi",
+    "Biscuits",
+    "École"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Saucisson",
+   "taboo": [
+    "Cochon",
+    "Apéro",
+    "Tranches",
+    "Couteau",
+    "Sec"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Régime",
+   "taboo": [
+    "Maigrir",
+    "Kilos",
+    "Poids",
+    "Minceur",
+    "Bananes"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Thé",
+   "taboo": [
+    "Tasse",
+    "Chine",
+    "Infusion",
+    "Anglais",
+    "Sachet"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Chewing-gum",
+   "taboo": [
+    "Mâcher",
+    "Bulle",
+    "Menthe",
+    "Collé",
+    "Hollywood"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Donut",
+   "taboo": [
+    "Homer",
+    "Trou",
+    "Beignet",
+    "Glaçage",
+    "Rose"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Chou de Bruxelles",
+   "taboo": [
+    "Belgique",
+    "Vert",
+    "Petit",
+    "Détesté",
+    "Cantine"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Pot-au-feu",
+   "taboo": [
+    "Bouillon",
+    "Légumes",
+    "Viande",
+    "Hiver",
+    "Os à moelle"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Cassoulet",
+   "taboo": [
+    "Haricots",
+    "Toulouse",
+    "Saucisses",
+    "Canard",
+    "Sud-Ouest"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Mille-feuille",
+   "taboo": [
+    "Couches",
+    "Crème",
+    "Glaçage",
+    "Pâtisserie",
+    "Vanille"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Tarte Tatin",
+   "taboo": [
+    "Pommes",
+    "Renversée",
+    "Caramel",
+    "Sœurs",
+    "Dessert"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Clafoutis",
+   "taboo": [
+    "Cerises",
+    "Flan",
+    "Four",
+    "Limousin",
+    "Dessert"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Pain d'épices",
+   "taboo": [
+    "Miel",
+    "Noël",
+    "Cannelle",
+    "Dijon",
+    "Bonhomme"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Gratin dauphinois",
+   "taboo": [
+    "Pommes de terre",
+    "Crème",
+    "Four",
+    "Tranches",
+    "Ail"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Poireau",
+   "taboo": [
+    "Soupe",
+    "Légume",
+    "Vinaigrette",
+    "Attendre",
+    "Vert"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Artichaut",
+   "taboo": [
+    "Cœur",
+    "Feuilles",
+    "Vinaigrette",
+    "Bretagne",
+    "Foin"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Endive",
+   "taboo": [
+    "Belgique",
+    "Chicon",
+    "Amère",
+    "Jambon",
+    "Blanche"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Roquefort",
+   "taboo": [
+    "Brebis",
+    "Bleu",
+    "Aveyron",
+    "Moisissure",
+    "Fromage"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Gourmand",
+   "taboo": [
+    "Manger",
+    "Sucreries",
+    "Péché",
+    "Dessert",
+    "Glouton"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Cannelle",
+   "taboo": [
+    "Bâton",
+    "Épice",
+    "Noël",
+    "Roulé",
+    "Vin chaud"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Vanille",
+   "taboo": [
+    "Gousse",
+    "Glace",
+    "Arôme",
+    "Madagascar",
+    "Sucre"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Mojito",
+   "taboo": [
+    "Menthe",
+    "Rhum",
+    "Cuba",
+    "Citron vert",
+    "Glaçons"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Pastis",
+   "taboo": [
+    "Marseille",
+    "Anis",
+    "Eau",
+    "Jaune",
+    "Ricard"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Réglisse",
+   "taboo": [
+    "Noir",
+    "Bonbon",
+    "Bâton",
+    "Rouleau",
+    "Anis"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Nougat",
+   "taboo": [
+    "Montélimar",
+    "Amandes",
+    "Miel",
+    "Collant",
+    "Blanc"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Crumble",
+   "taboo": [
+    "Pommes",
+    "Anglais",
+    "Four",
+    "Miettes",
+    "Dessert"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Profiteroles",
+   "taboo": [
+    "Choux",
+    "Chocolat chaud",
+    "Glace",
+    "Vanille",
+    "Dessert"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Pain perdu",
+   "taboo": [
+    "Rassis",
+    "Œufs",
+    "Lait",
+    "Poêle",
+    "Sucre"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Moussaka",
+   "taboo": [
+    "Grèce",
+    "Aubergine",
+    "Viande hachée",
+    "Béchamel",
+    "Gratin"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Chili con carne",
+   "taboo": [
+    "Haricots rouges",
+    "Mexique",
+    "Piquant",
+    "Viande",
+    "Texas"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Risotto",
+   "taboo": [
+    "Riz",
+    "Italie",
+    "Crémeux",
+    "Parmesan",
+    "Champignons"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Gaspacho",
+   "taboo": [
+    "Soupe froide",
+    "Espagne",
+    "Tomate",
+    "Été",
+    "Concombre"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Tajine",
+   "taboo": [
+    "Maroc",
+    "Terre cuite",
+    "Couvercle",
+    "Mijoter",
+    "Pruneaux"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Houmous",
+   "taboo": [
+    "Pois chiches",
+    "Liban",
+    "Pita",
+    "Purée",
+    "Tremper"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Tartare",
+   "taboo": [
+    "Cru",
+    "Viande",
+    "Hachée",
+    "Œuf",
+    "Câpres"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Bouillabaisse",
+   "taboo": [
+    "Marseille",
+    "Poissons",
+    "Soupe",
+    "Rouille",
+    "Safran"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Saignant",
+   "taboo": [
+    "Cuisson",
+    "Steak",
+    "Rouge",
+    "À point",
+    "Bleu"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Mouillette",
+   "taboo": [
+    "Œuf à la coque",
+    "Tremper",
+    "Pain",
+    "Jaune",
+    "Beurre"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Wasabi",
+   "taboo": [
+    "Vert",
+    "Piquant",
+    "Sushi",
+    "Japon",
+    "Nez"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Flan",
+   "taboo": [
+    "Caramel",
+    "Œufs",
+    "Tremblote",
+    "Dessert",
+    "Boulangerie"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Champignon",
+   "taboo": [
+    "Forêt",
+    "Chapeau",
+    "Cueillir",
+    "Vénéneux",
+    "Mario"
+   ],
+   "level": 2
+  }
+ ]
+}

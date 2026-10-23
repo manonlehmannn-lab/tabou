@@ -1,0 +1,1446 @@
+{
+ "category": "quotidien",
+ "cards": [
+  {
+   "word": "Grasse matinée",
+   "taboo": [
+    "Dormir",
+    "Lit",
+    "Tard",
+    "Dimanche",
+    "Réveil"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Embouteillage",
+   "taboo": [
+    "Voiture",
+    "Bouchon",
+    "Route",
+    "Bloqué",
+    "Klaxon"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Lessive",
+   "taboo": [
+    "Linge",
+    "Machine",
+    "Laver",
+    "Sale",
+    "Vêtements"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Déménagement",
+   "taboo": [
+    "Cartons",
+    "Maison",
+    "Camion",
+    "Appartement",
+    "Nouveau"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Anniversaire",
+   "taboo": [
+    "Gâteau",
+    "Bougies",
+    "Cadeau",
+    "Fête",
+    "Âge"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Soldes",
+   "taboo": [
+    "Magasin",
+    "Prix",
+    "Réduction",
+    "Janvier",
+    "Acheter"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Ménage",
+   "taboo": [
+    "Nettoyer",
+    "Aspirateur",
+    "Poussière",
+    "Propre",
+    "Balai"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Sieste",
+   "taboo": [
+    "Dormir",
+    "Après-midi",
+    "Repos",
+    "Canapé",
+    "Fatigue"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Vaisselle",
+   "taboo": [
+    "Assiettes",
+    "Laver",
+    "Évier",
+    "Éponge",
+    "Couverts"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Douche",
+   "taboo": [
+    "Eau",
+    "Savon",
+    "Salle de bain",
+    "Laver",
+    "Shampoing"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Courses",
+   "taboo": [
+    "Supermarché",
+    "Liste",
+    "Caddie",
+    "Acheter",
+    "Magasin"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Vacances",
+   "taboo": [
+    "Été",
+    "Plage",
+    "Voyage",
+    "Partir",
+    "Repos"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Week-end",
+   "taboo": [
+    "Samedi",
+    "Dimanche",
+    "Repos",
+    "Semaine",
+    "Travail"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Rentrée scolaire",
+   "taboo": [
+    "Septembre",
+    "École",
+    "Cartable",
+    "Vacances",
+    "Fournitures"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Bain",
+   "taboo": [
+    "Mousse",
+    "Eau",
+    "Chaud",
+    "Savon",
+    "Détente"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Jardinage",
+   "taboo": [
+    "Plantes",
+    "Fleurs",
+    "Arroser",
+    "Terre",
+    "Potager"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Bricolage",
+   "taboo": [
+    "Marteau",
+    "Outils",
+    "Réparer",
+    "Vis",
+    "Perceuse"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Apéro",
+   "taboo": [
+    "Boire",
+    "Amis",
+    "Chips",
+    "Verre",
+    "Soir"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Mariage",
+   "taboo": [
+    "Robe",
+    "Église",
+    "Mairie",
+    "Alliance",
+    "Témoin"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Coupe de cheveux",
+   "taboo": [
+    "Coiffeur",
+    "Ciseaux",
+    "Salon",
+    "Courte",
+    "Frange"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Dîner",
+   "taboo": [
+    "Soir",
+    "Repas",
+    "Table",
+    "Manger",
+    "Famille"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Rhume",
+   "taboo": [
+    "Nez",
+    "Mouchoir",
+    "Malade",
+    "Éternuer",
+    "Hiver"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Bronzer",
+   "taboo": [
+    "Soleil",
+    "Plage",
+    "Serviette",
+    "Allongé",
+    "Peau"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Faire son lit",
+   "taboo": [
+    "Draps",
+    "Couette",
+    "Oreiller",
+    "Matin",
+    "Ranger"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Mettre la table",
+   "taboo": [
+    "Assiettes",
+    "Couverts",
+    "Verres",
+    "Repas",
+    "Nappe"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Cauchemar",
+   "taboo": [
+    "Rêve",
+    "Peur",
+    "Nuit",
+    "Monstre",
+    "Sursaut"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Rêve",
+   "taboo": [
+    "Dormir",
+    "Nuit",
+    "Cauchemar",
+    "Imaginer",
+    "Sommeil"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Permis de conduire",
+   "taboo": [
+    "Voiture",
+    "Examen",
+    "Code",
+    "Moniteur",
+    "Auto-école"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Devoirs",
+   "taboo": [
+    "École",
+    "Maîtresse",
+    "Cahier",
+    "Maison",
+    "Exercices"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Tricot",
+   "taboo": [
+    "Laine",
+    "Aiguilles",
+    "Pull",
+    "Grand-mère",
+    "Pelote"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Dispute",
+   "taboo": [
+    "Crier",
+    "Colère",
+    "Couple",
+    "Désaccord",
+    "Réconcilier"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Saint-Valentin",
+   "taboo": [
+    "Amoureux",
+    "Février",
+    "Cœur",
+    "Roses",
+    "Couple"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Ranger sa chambre",
+   "taboo": [
+    "Désordre",
+    "Bazar",
+    "Parents",
+    "Jouets",
+    "Vêtements"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Promener le chien",
+   "taboo": [
+    "Laisse",
+    "Trottoir",
+    "Balade",
+    "Crottes",
+    "Sortir"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Câlin",
+   "taboo": [
+    "Bras",
+    "Serrer",
+    "Tendresse",
+    "Bisou",
+    "Doux"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Pause café",
+   "taboo": [
+    "Machine",
+    "Collègues",
+    "Bureau",
+    "Discuter",
+    "Tasse"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Météo",
+   "taboo": [
+    "Pluie",
+    "Soleil",
+    "Temps",
+    "Prévisions",
+    "Télévision"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Randonnée",
+   "taboo": [
+    "Marcher",
+    "Montagne",
+    "Sac à dos",
+    "Chemin",
+    "Chaussures"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Shopping",
+   "taboo": [
+    "Magasins",
+    "Acheter",
+    "Vêtements",
+    "Sacs",
+    "Boutique"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Fièvre",
+   "taboo": [
+    "Thermomètre",
+    "Chaud",
+    "Malade",
+    "Degrés",
+    "Grippe"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Rendez-vous chez le dentiste",
+   "taboo": [
+    "Carie",
+    "Fauteuil",
+    "Peur",
+    "Roulette",
+    "Bouche"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Covoiturage",
+   "taboo": [
+    "Voiture",
+    "Partager",
+    "Trajet",
+    "BlaBlaCar",
+    "Passagers"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Télétravail",
+   "taboo": [
+    "Maison",
+    "Ordinateur",
+    "Bureau",
+    "Pyjama",
+    "Visio"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Brunch",
+   "taboo": [
+    "Dimanche",
+    "Matin",
+    "Déjeuner",
+    "Œufs",
+    "Pancakes"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Facture",
+   "taboo": [
+    "Payer",
+    "Électricité",
+    "Argent",
+    "Mois",
+    "Courrier"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Loyer",
+   "taboo": [
+    "Appartement",
+    "Payer",
+    "Propriétaire",
+    "Mois",
+    "Locataire"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Impôts",
+   "taboo": [
+    "Argent",
+    "État",
+    "Déclaration",
+    "Payer",
+    "Taxe"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Salaire",
+   "taboo": [
+    "Argent",
+    "Travail",
+    "Mois",
+    "Paie",
+    "Banque"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Retraite",
+   "taboo": [
+    "Vieux",
+    "Travail",
+    "Âge",
+    "Pension",
+    "Arrêter"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Heure de pointe",
+   "taboo": [
+    "Métro",
+    "Foule",
+    "Bouchons",
+    "Travail",
+    "Soir"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Jour férié",
+   "taboo": [
+    "Congé",
+    "Travail",
+    "Repos",
+    "Fête",
+    "Calendrier"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Réunion",
+   "taboo": [
+    "Bureau",
+    "Collègues",
+    "Salle",
+    "Patron",
+    "Ennuyeux"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Entretien d'embauche",
+   "taboo": [
+    "Travail",
+    "CV",
+    "Poste",
+    "Recruteur",
+    "Stress"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Arrêt maladie",
+   "taboo": [
+    "Médecin",
+    "Travail",
+    "Grippe",
+    "Lit",
+    "Repos"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Vide-grenier",
+   "taboo": [
+    "Brocante",
+    "Vendre",
+    "Dimanche",
+    "Objets",
+    "Stand"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Soirée pyjama",
+   "taboo": [
+    "Dormir",
+    "Amis",
+    "Nuit",
+    "Enfants",
+    "Film"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Tri sélectif",
+   "taboo": [
+    "Poubelle",
+    "Recyclage",
+    "Plastique",
+    "Verre",
+    "Jaune"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Sortir les poubelles",
+   "taboo": [
+    "Ordures",
+    "Trottoir",
+    "Soir",
+    "Sac",
+    "Corvée"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Repas de famille",
+   "taboo": [
+    "Dimanche",
+    "Parents",
+    "Grand-mère",
+    "Table",
+    "Déjeuner"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Insomnie",
+   "taboo": [
+    "Dormir",
+    "Nuit",
+    "Moutons",
+    "Fatigue",
+    "Réveillé"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Prise de sang",
+   "taboo": [
+    "Piqûre",
+    "Aiguille",
+    "Infirmière",
+    "Analyse",
+    "Bras"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Vaccin",
+   "taboo": [
+    "Piqûre",
+    "Bras",
+    "Médecin",
+    "Virus",
+    "Rappel"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Excès de vitesse",
+   "taboo": [
+    "Radar",
+    "Route",
+    "Rapide",
+    "Amende",
+    "Limite"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Mots croisés",
+   "taboo": [
+    "Grille",
+    "Cases",
+    "Journal",
+    "Définitions",
+    "Lettres"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Soirée jeux",
+   "taboo": [
+    "Plateau",
+    "Cartes",
+    "Amis",
+    "Dés",
+    "Monopoly"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Argent de poche",
+   "taboo": [
+    "Enfants",
+    "Parents",
+    "Semaine",
+    "Billet",
+    "Dépenser"
+   ],
+   "level": 2
+  },
+  {
+   "word": "File d'attente",
+   "taboo": [
+    "Queue",
+    "Patience",
+    "Guichet",
+    "Longue",
+    "Monde"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Livraison",
+   "taboo": [
+    "Colis",
+    "Facteur",
+    "Commande",
+    "Internet",
+    "Carton"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Sortie d'école",
+   "taboo": [
+    "Parents",
+    "Enfants",
+    "Portail",
+    "Cartable",
+    "Attendre"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Naissance",
+   "taboo": [
+    "Bébé",
+    "Maternité",
+    "Accouchement",
+    "Nouveau-né",
+    "Hôpital"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Divorce",
+   "taboo": [
+    "Mariage",
+    "Séparation",
+    "Avocat",
+    "Couple",
+    "Garde"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Visioconférence",
+   "taboo": [
+    "Écran",
+    "Caméra",
+    "Zoom",
+    "Réunion",
+    "Micro"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Tondre la pelouse",
+   "taboo": [
+    "Herbe",
+    "Jardin",
+    "Machine",
+    "Dimanche",
+    "Bruit"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Canicule",
+   "taboo": [
+    "Chaleur",
+    "Été",
+    "Ventilateur",
+    "Soleil",
+    "Température"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Gastro",
+   "taboo": [
+    "Ventre",
+    "Virus",
+    "Malade",
+    "Hiver",
+    "Toilettes"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Étendre le linge",
+   "taboo": [
+    "Séchoir",
+    "Pinces",
+    "Mouillé",
+    "Soleil",
+    "Vêtements"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Addition",
+   "taboo": [
+    "Payer",
+    "Restaurant",
+    "Serveur",
+    "Note",
+    "Partager"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Pourboire",
+   "taboo": [
+    "Serveur",
+    "Argent",
+    "Restaurant",
+    "Laisser",
+    "Pièce"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Travaux",
+   "taboo": [
+    "Bruit",
+    "Perceuse",
+    "Chantier",
+    "Ouvriers",
+    "Rénovation"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Panne de courant",
+   "taboo": [
+    "Électricité",
+    "Noir",
+    "Bougie",
+    "Lumière",
+    "Coupure"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Faire la bise",
+   "taboo": [
+    "Joue",
+    "Embrasser",
+    "Bonjour",
+    "Saluer",
+    "Bisou"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Poignée de main",
+   "taboo": [
+    "Serrer",
+    "Bonjour",
+    "Saluer",
+    "Doigts",
+    "Politesse"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Maquillage",
+   "taboo": [
+    "Rouge à lèvres",
+    "Mascara",
+    "Visage",
+    "Fond de teint",
+    "Femme"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Rasage",
+   "taboo": [
+    "Barbe",
+    "Mousse",
+    "Lame",
+    "Visage",
+    "Matin"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Épilation",
+   "taboo": [
+    "Cire",
+    "Poils",
+    "Jambes",
+    "Douleur",
+    "Rasoir"
+   ],
+   "level": 2
+  },
+  {
+   "word": "S'habiller",
+   "taboo": [
+    "Vêtements",
+    "Matin",
+    "Mettre",
+    "Pantalon",
+    "Armoire"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Lundi matin",
+   "taboo": [
+    "Semaine",
+    "Travail",
+    "Début",
+    "Fatigue",
+    "Réveil"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Vendredi soir",
+   "taboo": [
+    "Week-end",
+    "Apéro",
+    "Sortir",
+    "Fête",
+    "Travail"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Transports en commun",
+   "taboo": [
+    "Bus",
+    "Métro",
+    "Tram",
+    "Ticket",
+    "Train"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Auto-stop",
+   "taboo": [
+    "Pouce",
+    "Route",
+    "Voiture",
+    "Conducteur",
+    "Gratuit"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Faire ses valises",
+   "taboo": [
+    "Vêtements",
+    "Partir",
+    "Voyage",
+    "Bagages",
+    "Plier"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Chômage",
+   "taboo": [
+    "Travail",
+    "Emploi",
+    "Licencié",
+    "Allocations",
+    "Recherche"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Stage",
+   "taboo": [
+    "Étudiant",
+    "Entreprise",
+    "Expérience",
+    "Photocopies",
+    "École"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Congés payés",
+   "taboo": [
+    "Vacances",
+    "Travail",
+    "Jours",
+    "Été",
+    "Patron"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Révisions",
+   "taboo": [
+    "Examen",
+    "Bac",
+    "Apprendre",
+    "Cours",
+    "Fiches"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Histoire du soir",
+   "taboo": [
+    "Conte",
+    "Livre",
+    "Enfants",
+    "Lit",
+    "Dormir"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Emballer un cadeau",
+   "taboo": [
+    "Papier",
+    "Ruban",
+    "Noël",
+    "Scotch",
+    "Surprise"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Élections",
+   "taboo": [
+    "Urne",
+    "Bulletin",
+    "Candidat",
+    "Président",
+    "Voter"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Grève",
+   "taboo": [
+    "Syndicat",
+    "Métro",
+    "Manifestation",
+    "Travail",
+    "Transports"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Créneau",
+   "taboo": [
+    "Garer",
+    "Voiture",
+    "Place",
+    "Marche arrière",
+    "Parking"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Contravention",
+   "taboo": [
+    "Police",
+    "Amende",
+    "Payer",
+    "Stationnement",
+    "Vitesse"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Découvert",
+   "taboo": [
+    "Banque",
+    "Compte",
+    "Négatif",
+    "Argent",
+    "Rouge"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Fin de mois",
+   "taboo": [
+    "Argent",
+    "Salaire",
+    "Difficile",
+    "Compte",
+    "Fauché"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Économies",
+   "taboo": [
+    "Tirelire",
+    "Argent",
+    "Épargne",
+    "Mettre de côté",
+    "Banque"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Baptême",
+   "taboo": [
+    "Église",
+    "Bébé",
+    "Parrain",
+    "Marraine",
+    "Eau"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Fiançailles",
+   "taboo": [
+    "Bague",
+    "Demande",
+    "Mariage",
+    "Genou",
+    "Promesse"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Cueillette",
+   "taboo": [
+    "Fruits",
+    "Ramasser",
+    "Champignons",
+    "Panier",
+    "Fraises"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Changement d'heure",
+   "taboo": [
+    "Été",
+    "Hiver",
+    "Avancer",
+    "Reculer",
+    "Octobre"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Zapping",
+   "taboo": [
+    "Télécommande",
+    "Chaînes",
+    "Programmes",
+    "Changer",
+    "Canapé"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Politesse",
+   "taboo": [
+    "Merci",
+    "S'il vous plaît",
+    "Bonjour",
+    "Respect",
+    "Éducation"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Heures supplémentaires",
+   "taboo": [
+    "Travail",
+    "Tard",
+    "Payées",
+    "Bureau",
+    "Patron"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Crémaillère",
+   "taboo": [
+    "Pendre",
+    "Appartement",
+    "Fête",
+    "Nouveau",
+    "Amis"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Lèche-vitrine",
+   "taboo": [
+    "Magasins",
+    "Regarder",
+    "Shopping",
+    "Rue",
+    "Acheter"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Corvée",
+   "taboo": [
+    "Obligation",
+    "Ménage",
+    "Vaisselle",
+    "Pénible",
+    "Tâche"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Contrôle technique",
+   "taboo": [
+    "Voiture",
+    "Garage",
+    "Vérifier",
+    "Deux ans",
+    "Mécanicien"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Fourrière",
+   "taboo": [
+    "Voiture",
+    "Police",
+    "Amende",
+    "Garée",
+    "Enlevée"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Métro-boulot-dodo",
+   "taboo": [
+    "Routine",
+    "Travail",
+    "Dormir",
+    "Transport",
+    "Parisien"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Routine",
+   "taboo": [
+    "Habitude",
+    "Tous les jours",
+    "Répéter",
+    "Quotidien",
+    "Matin"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Paperasse",
+   "taboo": [
+    "Administration",
+    "Formulaire",
+    "Dossier",
+    "Documents",
+    "Démarches"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Fête des voisins",
+   "taboo": [
+    "Immeuble",
+    "Apéro",
+    "Rencontrer",
+    "Mai",
+    "Quartier"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Black Friday",
+   "taboo": [
+    "Soldes",
+    "Novembre",
+    "Promotions",
+    "Américain",
+    "Achats"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Manucure",
+   "taboo": [
+    "Ongles",
+    "Vernis",
+    "Mains",
+    "Lime",
+    "Institut"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Décalage horaire",
+   "taboo": [
+    "Avion",
+    "Fatigue",
+    "Fuseau",
+    "Voyage",
+    "Heures"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Compost",
+   "taboo": [
+    "Épluchures",
+    "Jardin",
+    "Déchets",
+    "Bac",
+    "Écologie"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Afterwork",
+   "taboo": [
+    "Collègues",
+    "Bar",
+    "Boire",
+    "Travail",
+    "Soir"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Pot de départ",
+   "taboo": [
+    "Collègues",
+    "Retraite",
+    "Cadeau",
+    "Discours",
+    "Bureau"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Bonnes résolutions",
+   "taboo": [
+    "Janvier",
+    "Nouvel an",
+    "Sport",
+    "Promesse",
+    "Tenir"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Kermesse",
+   "taboo": [
+    "École",
+    "Fête",
+    "Stands",
+    "Juin",
+    "Enfants"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Bénévolat",
+   "taboo": [
+    "Association",
+    "Gratuit",
+    "Aider",
+    "Volontaire",
+    "Restos du cœur"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Don du sang",
+   "taboo": [
+    "Aiguille",
+    "Bras",
+    "Poche",
+    "Sauver",
+    "Groupe"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Réservation",
+   "taboo": [
+    "Restaurant",
+    "Table",
+    "Téléphone",
+    "Hôtel",
+    "Date"
+   ],
+   "level": 3
+  }
+ ]
+}

@@ -1,0 +1,1457 @@
+{
+ "category": "technologie",
+ "cards": [
+  {
+   "word": "Smartphone",
+   "taboo": [
+    "Portable",
+    "Écran",
+    "Tactile",
+    "Applications",
+    "Appeler"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Wi-Fi",
+   "taboo": [
+    "Internet",
+    "Connexion",
+    "Box",
+    "Sans fil",
+    "Réseau"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Mot de passe",
+   "taboo": [
+    "Code",
+    "Secret",
+    "Oublié",
+    "Compte",
+    "Identifiant"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Imprimante",
+   "taboo": [
+    "Papier",
+    "Encre",
+    "Cartouche",
+    "Scanner",
+    "Bourrage"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Emoji",
+   "taboo": [
+    "Smiley",
+    "Message",
+    "Visage",
+    "Icône",
+    "Texto"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Instagram",
+   "taboo": [
+    "Photos",
+    "Filtres",
+    "Stories",
+    "Influenceurs",
+    "Abonnés"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Clé USB",
+   "taboo": [
+    "Stocker",
+    "Fichiers",
+    "Brancher",
+    "Mémoire",
+    "Ordinateur"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Selfie",
+   "taboo": [
+    "Photo",
+    "Bras",
+    "Perche",
+    "Soi-même",
+    "Pose"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Robot",
+   "taboo": [
+    "Machine",
+    "Métal",
+    "Androïde",
+    "Mécanique",
+    "Science-fiction"
+   ],
+   "level": 1
+  },
+  {
+   "word": "GPS",
+   "taboo": [
+    "Itinéraire",
+    "Carte",
+    "Satellite",
+    "Voiture",
+    "Perdu"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Mario",
+   "taboo": [
+    "Plombier",
+    "Nintendo",
+    "Moustache",
+    "Champignon",
+    "Luigi"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Ordinateur",
+   "taboo": [
+    "Écran",
+    "Clavier",
+    "Souris",
+    "Internet",
+    "Windows"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Clavier",
+   "taboo": [
+    "Touches",
+    "Taper",
+    "Lettres",
+    "Azerty",
+    "Ordinateur"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Écran",
+   "taboo": [
+    "Télévision",
+    "Image",
+    "Pixels",
+    "Tactile",
+    "Ordinateur"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Internet",
+   "taboo": [
+    "Web",
+    "Réseau",
+    "Google",
+    "Wi-Fi",
+    "Connexion"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Google",
+   "taboo": [
+    "Recherche",
+    "Moteur",
+    "Internet",
+    "Gmail",
+    "Maps"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Facebook",
+   "taboo": [
+    "Zuckerberg",
+    "Like",
+    "Profil",
+    "Amis",
+    "Réseau social"
+   ],
+   "level": 1
+  },
+  {
+   "word": "YouTube",
+   "taboo": [
+    "Vidéos",
+    "Chaîne",
+    "Abonnés",
+    "Publicité",
+    "Créateur"
+   ],
+   "level": 1
+  },
+  {
+   "word": "TikTok",
+   "taboo": [
+    "Danse",
+    "Vidéos",
+    "Courtes",
+    "Ados",
+    "Défis"
+   ],
+   "level": 1
+  },
+  {
+   "word": "WhatsApp",
+   "taboo": [
+    "Messages",
+    "Groupe",
+    "Vert",
+    "Vocal",
+    "Discussion"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Netflix",
+   "taboo": [
+    "Séries",
+    "Films",
+    "Abonnement",
+    "Streaming",
+    "Canapé"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Tablette",
+   "taboo": [
+    "Écran",
+    "Tactile",
+    "Chocolat",
+    "Ordinateur",
+    "Enfants"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Télécommande",
+   "taboo": [
+    "Zapper",
+    "Chaînes",
+    "Canapé",
+    "Piles",
+    "Boutons"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Casque audio",
+   "taboo": [
+    "Écouter",
+    "Oreilles",
+    "Musique",
+    "Bluetooth",
+    "Bruit"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Appareil photo",
+   "taboo": [
+    "Objectif",
+    "Flash",
+    "Zoom",
+    "Pellicule",
+    "Souriez"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Caméra",
+   "taboo": [
+    "Filmer",
+    "Vidéo",
+    "Tournage",
+    "Surveillance",
+    "Action"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Console",
+   "taboo": [
+    "Jeux vidéo",
+    "Manette",
+    "PlayStation",
+    "Nintendo",
+    "Xbox"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Manette",
+   "taboo": [
+    "Jouer",
+    "Boutons",
+    "Console",
+    "Joystick",
+    "Vibrer"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Chargeur",
+   "taboo": [
+    "Batterie",
+    "Câble",
+    "Prise",
+    "Téléphone",
+    "Brancher"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Calculatrice",
+   "taboo": [
+    "Maths",
+    "Chiffres",
+    "Touches",
+    "Additionner",
+    "Casio"
+   ],
+   "level": 1
+  },
+  {
+   "word": "SMS",
+   "taboo": [
+    "Message",
+    "Texto",
+    "Écrire",
+    "Portable",
+    "Envoyer"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Bug",
+   "taboo": [
+    "Erreur",
+    "Planter",
+    "Insecte",
+    "Écran noir",
+    "Problème"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Distributeur de billets",
+   "taboo": [
+    "Argent",
+    "Retirer",
+    "Carte bleue",
+    "Code",
+    "Banque"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Snapchat",
+   "taboo": [
+    "Fantôme",
+    "Jaune",
+    "Filtres",
+    "Éphémère",
+    "Photo"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Apple",
+   "taboo": [
+    "Pomme",
+    "Steve Jobs",
+    "Mac",
+    "Croquée",
+    "Samsung"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Amazon",
+   "taboo": [
+    "Livraison",
+    "Colis",
+    "Commander",
+    "Bezos",
+    "Prime"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Pac-Man",
+   "taboo": [
+    "Fantômes",
+    "Jaune",
+    "Labyrinthe",
+    "Avaler",
+    "Pastilles"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Tetris",
+   "taboo": [
+    "Blocs",
+    "Lignes",
+    "Tomber",
+    "Formes",
+    "Russe"
+   ],
+   "level": 1
+  },
+  {
+   "word": "E-mail",
+   "taboo": [
+    "Message",
+    "Adresse",
+    "Arobase",
+    "Envoyer",
+    "Spam"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Télécharger",
+   "taboo": [
+    "Fichier",
+    "Internet",
+    "Pirater",
+    "Installer",
+    "Attendre"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Radar",
+   "taboo": [
+    "Vitesse",
+    "Flash",
+    "Amende",
+    "Route",
+    "Points"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Alarme",
+   "taboo": [
+    "Voleur",
+    "Sirène",
+    "Sécurité",
+    "Déclencher",
+    "Maison"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Drone",
+   "taboo": [
+    "Voler",
+    "Hélices",
+    "Télécommande",
+    "Ciel",
+    "Militaire"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Intelligence artificielle",
+   "taboo": [
+    "ChatGPT",
+    "Robot",
+    "Ordinateur",
+    "Algorithme",
+    "Cerveau"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Microsoft",
+   "taboo": [
+    "Bill Gates",
+    "Windows",
+    "Word",
+    "Excel",
+    "Xbox"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Bluetooth",
+   "taboo": [
+    "Sans fil",
+    "Connecter",
+    "Enceinte",
+    "Écouteurs",
+    "Appareils"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Enceinte",
+   "taboo": [
+    "Musique",
+    "Haut-parleur",
+    "Volume",
+    "Bluetooth",
+    "Bébé"
+   ],
+   "level": 2
+  },
+  {
+   "word": "PlayStation",
+   "taboo": [
+    "Sony",
+    "Console",
+    "Manette",
+    "Xbox",
+    "Japon"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Nintendo",
+   "taboo": [
+    "Mario",
+    "Japon",
+    "Console",
+    "Switch",
+    "Zelda"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Minecraft",
+   "taboo": [
+    "Cubes",
+    "Construire",
+    "Creeper",
+    "Pioche",
+    "Survie"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Fortnite",
+   "taboo": [
+    "Battle royale",
+    "Danses",
+    "Skins",
+    "Construire",
+    "Tempête"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Les Sims",
+   "taboo": [
+    "Maison",
+    "Personnages",
+    "Piscine",
+    "Famille",
+    "Virtuel"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Candy Crush",
+   "taboo": [
+    "Bonbons",
+    "Aligner",
+    "Niveaux",
+    "Couleurs",
+    "Addictif"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Angry Birds",
+   "taboo": [
+    "Oiseaux",
+    "Cochons",
+    "Lance-pierre",
+    "Énervés",
+    "Rouge"
+   ],
+   "level": 2
+  },
+  {
+   "word": "GTA",
+   "taboo": [
+    "Voitures",
+    "Vol",
+    "Gangster",
+    "Ville",
+    "Police"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Wikipédia",
+   "taboo": [
+    "Encyclopédie",
+    "Articles",
+    "Internet",
+    "Sources",
+    "Gratuit"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Spam",
+   "taboo": [
+    "Indésirables",
+    "Courriels",
+    "Publicité",
+    "Arnaque",
+    "Corbeille"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Pièce jointe",
+   "taboo": [
+    "E-mail",
+    "Fichier",
+    "Attacher",
+    "Trombone",
+    "Envoyer"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Hacker",
+   "taboo": [
+    "Pirate",
+    "Virus",
+    "Cagoule",
+    "Mot de passe",
+    "Informatique"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Mise à jour",
+   "taboo": [
+    "Version",
+    "Installer",
+    "Redémarrer",
+    "Logiciel",
+    "Nouveauté"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Twitter",
+   "taboo": [
+    "Oiseau",
+    "Tweet",
+    "Musk",
+    "Bleu",
+    "Caractères"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Streaming",
+   "taboo": [
+    "Netflix",
+    "Direct",
+    "Twitch",
+    "Vidéo",
+    "En ligne"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Podcast",
+   "taboo": [
+    "Écouter",
+    "Émission",
+    "Radio",
+    "Épisodes",
+    "Audio"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Câble",
+   "taboo": [
+    "Fil",
+    "Brancher",
+    "Prise",
+    "Emmêlé",
+    "Électrique"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Scanner",
+   "taboo": [
+    "Numériser",
+    "Document",
+    "Photocopie",
+    "Hôpital",
+    "Imprimante"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Cassette",
+   "taboo": [
+    "VHS",
+    "Bande",
+    "Magnétoscope",
+    "Vidéo",
+    "Rembobiner"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Répondeur",
+   "taboo": [
+    "Message",
+    "Bip",
+    "Laisser",
+    "Téléphone",
+    "Absent"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Sonnerie",
+   "taboo": [
+    "Téléphone",
+    "Mélodie",
+    "Appel",
+    "Vibreur",
+    "Silencieux"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Mode avion",
+   "taboo": [
+    "Vol",
+    "Réseau",
+    "Décollage",
+    "Couper",
+    "Téléphone"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Copier-coller",
+   "taboo": [
+    "Raccourci",
+    "Dupliquer",
+    "Texte",
+    "Plagiat",
+    "Clavier"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Capture d'écran",
+   "taboo": [
+    "Photo",
+    "Screenshot",
+    "Image",
+    "Preuve",
+    "Conversation"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Code-barres",
+   "taboo": [
+    "Caisse",
+    "Bip",
+    "Prix",
+    "Lignes",
+    "Supermarché"
+   ],
+   "level": 2
+  },
+  {
+   "word": "QR code",
+   "taboo": [
+    "Carré",
+    "Flasher",
+    "Scanner",
+    "Menu",
+    "Lien"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Tesla",
+   "taboo": [
+    "Électrique",
+    "Voiture",
+    "Musk",
+    "Recharge",
+    "Autonome"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Webcam",
+   "taboo": [
+    "Ordinateur",
+    "Visio",
+    "Scotch",
+    "Appel vidéo",
+    "Skype"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Siri",
+   "taboo": [
+    "Apple",
+    "Assistant",
+    "Voix",
+    "Question",
+    "Alexa"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Mème",
+   "taboo": [
+    "Image",
+    "Drôle",
+    "Internet",
+    "Viral",
+    "Partager"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Fake news",
+   "taboo": [
+    "Fausse",
+    "Rumeur",
+    "Mensonge",
+    "Trump",
+    "Info"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Tutoriel",
+   "taboo": [
+    "Vidéo",
+    "Apprendre",
+    "Étapes",
+    "YouTube",
+    "Expliquer"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Avatar",
+   "taboo": [
+    "Profil",
+    "Personnage",
+    "Image",
+    "Bleus",
+    "Jeu"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Pseudo",
+   "taboo": [
+    "Surnom",
+    "Internet",
+    "Identifiant",
+    "Anonyme",
+    "Profil"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Notification",
+   "taboo": [
+    "Alerte",
+    "Message",
+    "Pastille",
+    "Rouge",
+    "Ding"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Donkey Kong",
+   "taboo": [
+    "Gorille",
+    "Nintendo",
+    "Tonneaux",
+    "Mario",
+    "Bananes"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Wii",
+   "taboo": [
+    "Nintendo",
+    "Manette",
+    "Bouger",
+    "Sport",
+    "Console"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Game Boy",
+   "taboo": [
+    "Nintendo",
+    "Console",
+    "Portable",
+    "Tetris",
+    "Pokémon"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Uber",
+   "taboo": [
+    "Taxi",
+    "Chauffeur",
+    "Application",
+    "VTC",
+    "Course"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Airbnb",
+   "taboo": [
+    "Location",
+    "Logement",
+    "Vacances",
+    "Hôte",
+    "Appartement"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Spotify",
+   "taboo": [
+    "Musique",
+    "Playlist",
+    "Vert",
+    "Suédois",
+    "Écouter"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Tinder",
+   "taboo": [
+    "Rencontres",
+    "Swiper",
+    "Célibataire",
+    "Match",
+    "Flamme"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Polaroïd",
+   "taboo": [
+    "Photo",
+    "Instantanée",
+    "Secouer",
+    "Vintage",
+    "Carré"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Game over",
+   "taboo": [
+    "Perdu",
+    "Fin",
+    "Partie",
+    "Vies",
+    "Écran"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Sauvegarder",
+   "taboo": [
+    "Enregistrer",
+    "Fichier",
+    "Disquette",
+    "Perdre",
+    "Copie"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Samsung",
+   "taboo": [
+    "Coréen",
+    "Galaxy",
+    "Smartphone",
+    "Android",
+    "Apple"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Talkie-walkie",
+   "taboo": [
+    "Radio",
+    "Parler",
+    "Antenne",
+    "Terminé",
+    "Enfants"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Babyphone",
+   "taboo": [
+    "Bébé",
+    "Écouter",
+    "Chambre",
+    "Pleurer",
+    "Surveiller"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Interphone",
+   "taboo": [
+    "Immeuble",
+    "Porte",
+    "Parler",
+    "Code",
+    "Visiteur"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Digicode",
+   "taboo": [
+    "Immeuble",
+    "Porte",
+    "Chiffres",
+    "Touches",
+    "Entrée"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Sonic",
+   "taboo": [
+    "Hérisson",
+    "Bleu",
+    "Vitesse",
+    "Sega",
+    "Anneaux"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Bitcoin",
+   "taboo": [
+    "Cryptomonnaie",
+    "Argent",
+    "Virtuel",
+    "Minage",
+    "Blockchain"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Cloud",
+   "taboo": [
+    "Nuage",
+    "Stockage",
+    "En ligne",
+    "Serveur",
+    "Données"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Cookie",
+   "taboo": [
+    "Biscuit",
+    "Accepter",
+    "Site",
+    "Données",
+    "Navigateur"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Navigateur",
+   "taboo": [
+    "Internet",
+    "Chrome",
+    "Firefox",
+    "Safari",
+    "Onglets"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Hashtag",
+   "taboo": [
+    "Dièse",
+    "Mot-clé",
+    "Twitter",
+    "Instagram",
+    "Tendance"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Vidéoprojecteur",
+   "taboo": [
+    "Écran",
+    "Mur",
+    "Présentation",
+    "Image",
+    "Réunion"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Logiciel",
+   "taboo": [
+    "Programme",
+    "Ordinateur",
+    "Installer",
+    "Application",
+    "Code"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Pixel",
+   "taboo": [
+    "Écran",
+    "Carré",
+    "Image",
+    "Résolution",
+    "Point"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Zelda",
+   "taboo": [
+    "Link",
+    "Princesse",
+    "Épée",
+    "Hyrule",
+    "Nintendo"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Arobase",
+   "taboo": [
+    "E-mail",
+    "Symbole",
+    "Adresse",
+    "Commercial",
+    "Rond"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Algorithme",
+   "taboo": [
+    "Calcul",
+    "Programme",
+    "Étapes",
+    "Ordinateur",
+    "Recommandations"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Fax",
+   "taboo": [
+    "Envoyer",
+    "Document",
+    "Papier",
+    "Bureau",
+    "Démodé"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Minitel",
+   "taboo": [
+    "Ancêtre",
+    "Internet",
+    "France Télécom",
+    "3615",
+    "Années 80"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Walkman",
+   "taboo": [
+    "Cassette",
+    "Sony",
+    "Baladeur",
+    "Musique",
+    "Écouteurs"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Captcha",
+   "taboo": [
+    "Robot",
+    "Humain",
+    "Images",
+    "Vérifier",
+    "Cocher"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Windows",
+   "taboo": [
+    "Microsoft",
+    "Fenêtres",
+    "Bill Gates",
+    "Ordinateur",
+    "Écran bleu"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Excel",
+   "taboo": [
+    "Tableau",
+    "Cellules",
+    "Microsoft",
+    "Formules",
+    "Calculs"
+   ],
+   "level": 3
+  },
+  {
+   "word": "PowerPoint",
+   "taboo": [
+    "Diapositives",
+    "Présentation",
+    "Microsoft",
+    "Réunion",
+    "Slides"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Réalité virtuelle",
+   "taboo": [
+    "Casque",
+    "Lunettes",
+    "Immersion",
+    "Métavers",
+    "Jeu vidéo"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Hologramme",
+   "taboo": [
+    "Projection",
+    "Lumière",
+    "Star Wars",
+    "Relief",
+    "Laser"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Processeur",
+   "taboo": [
+    "Ordinateur",
+    "Puce",
+    "Intel",
+    "Cerveau",
+    "Vitesse"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Disque dur",
+   "taboo": [
+    "Stockage",
+    "Mémoire",
+    "Données",
+    "Ordinateur",
+    "Externe"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Programmation",
+   "taboo": [
+    "Code",
+    "Langage",
+    "Développeur",
+    "Python",
+    "Lignes"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Binaire",
+   "taboo": [
+    "Zéro",
+    "Un",
+    "Code",
+    "Ordinateur",
+    "Deux"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Tamagotchi",
+   "taboo": [
+    "Virtuel",
+    "Animal",
+    "Nourrir",
+    "Œuf",
+    "Années 90"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Borne d'arcade",
+   "taboo": [
+    "Pièces",
+    "Joystick",
+    "Pac-Man",
+    "Salle",
+    "Rétro"
+   ],
+   "level": 3
+  },
+  {
+   "word": "LinkedIn",
+   "taboo": [
+    "CV",
+    "Professionnel",
+    "Réseau",
+    "Emploi",
+    "Recruteur"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Photoshop",
+   "taboo": [
+    "Retouche",
+    "Image",
+    "Modifier",
+    "Adobe",
+    "Montage"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Fibre optique",
+   "taboo": [
+    "Internet",
+    "Débit",
+    "Câble",
+    "Rapide",
+    "Lumière"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Reconnaissance faciale",
+   "taboo": [
+    "Visage",
+    "Caméra",
+    "Déverrouiller",
+    "Identifier",
+    "Sécurité"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Disquette",
+   "taboo": [
+    "Sauvegarder",
+    "Carrée",
+    "Icône",
+    "Ancêtre",
+    "Ordinateur"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Liseuse",
+   "taboo": [
+    "Livres",
+    "Kindle",
+    "Écran",
+    "Numérique",
+    "Pages"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Pong",
+   "taboo": [
+    "Tennis",
+    "Balle",
+    "Arcade",
+    "Atari",
+    "Rebonds"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Space Invaders",
+   "taboo": [
+    "Extraterrestres",
+    "Arcade",
+    "Vaisseau",
+    "Tirer",
+    "Pixels"
+   ],
+   "level": 3
+  }
+ ]
+}

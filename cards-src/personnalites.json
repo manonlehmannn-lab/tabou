@@ -1,0 +1,1666 @@
+{
+ "category": "personnalites",
+ "cards": [
+  {
+   "word": "Napoléon",
+   "taboo": [
+    "Empereur",
+    "Bonaparte",
+    "Waterloo",
+    "Corse",
+    "Joséphine"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Jeanne d'Arc",
+   "taboo": [
+    "Pucelle",
+    "Orléans",
+    "Bûcher",
+    "Anglais",
+    "Sainte"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Cléopâtre",
+   "taboo": [
+    "Égypte",
+    "Reine",
+    "César",
+    "Serpent",
+    "Antoine"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Louis XIV",
+   "taboo": [
+    "Soleil",
+    "Versailles",
+    "Roi",
+    "Quatorze",
+    "Château"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Einstein",
+   "taboo": [
+    "Relativité",
+    "Physicien",
+    "Génie",
+    "Langue",
+    "Formule"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Marie Curie",
+   "taboo": [
+    "Radioactivité",
+    "Nobel",
+    "Polonaise",
+    "Scientifique",
+    "Pierre"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Picasso",
+   "taboo": [
+    "Peintre",
+    "Espagnol",
+    "Cubisme",
+    "Guernica",
+    "Tableau"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Victor Hugo",
+   "taboo": [
+    "Misérables",
+    "Écrivain",
+    "Notre-Dame",
+    "Poète",
+    "Barbe"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Molière",
+   "taboo": [
+    "Théâtre",
+    "Avare",
+    "Comédie",
+    "Tartuffe",
+    "Langue"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Zinédine Zidane",
+   "taboo": [
+    "Football",
+    "Zizou",
+    "Marseille",
+    "Coup de boule",
+    "Real Madrid"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Kylian Mbappé",
+   "taboo": [
+    "Football",
+    "PSG",
+    "Bondy",
+    "Rapide",
+    "Bleus"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Usain Bolt",
+   "taboo": [
+    "Jamaïque",
+    "Sprint",
+    "Éclair",
+    "Rapide",
+    "Record"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Johnny Hallyday",
+   "taboo": [
+    "Chanteur",
+    "Rock",
+    "Idole",
+    "Allumer le feu",
+    "Harley"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Édith Piaf",
+   "taboo": [
+    "Chanteuse",
+    "Môme",
+    "Vie en rose",
+    "Moineau",
+    "Regrette"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Michael Jackson",
+   "taboo": [
+    "Moonwalk",
+    "Thriller",
+    "Pop",
+    "Danseur",
+    "Gant"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Les Beatles",
+   "taboo": [
+    "Liverpool",
+    "Lennon",
+    "McCartney",
+    "Groupe",
+    "Anglais"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Charlie Chaplin",
+   "taboo": [
+    "Charlot",
+    "Muet",
+    "Moustache",
+    "Canne",
+    "Chapeau"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Louis de Funès",
+   "taboo": [
+    "Acteur",
+    "Gendarme",
+    "Grimaces",
+    "Comique",
+    "Fantômas"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Mozart",
+   "taboo": [
+    "Compositeur",
+    "Autriche",
+    "Amadeus",
+    "Prodige",
+    "Piano"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Léonard de Vinci",
+   "taboo": [
+    "Joconde",
+    "Peintre",
+    "Italien",
+    "Inventeur",
+    "Renaissance"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Jules César",
+   "taboo": [
+    "Rome",
+    "Brutus",
+    "Gaule",
+    "Cléopâtre",
+    "Vercingétorix"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Christophe Colomb",
+   "taboo": [
+    "Amérique",
+    "Explorateur",
+    "1492",
+    "Caravelle",
+    "Indes"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Coco Chanel",
+   "taboo": [
+    "Mode",
+    "Parfum",
+    "Couture",
+    "Numéro 5",
+    "Tailleur"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Elvis Presley",
+   "taboo": [
+    "Rock",
+    "King",
+    "Chanteur",
+    "Banane",
+    "Memphis"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Marilyn Monroe",
+   "taboo": [
+    "Blonde",
+    "Actrice",
+    "Robe blanche",
+    "Kennedy",
+    "Hollywood"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Neil Armstrong",
+   "taboo": [
+    "Lune",
+    "Astronaute",
+    "Américain",
+    "Apollo",
+    "Premier pas"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Gandhi",
+   "taboo": [
+    "Inde",
+    "Non-violence",
+    "Paix",
+    "Lunettes",
+    "Jeûne"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Nelson Mandela",
+   "taboo": [
+    "Afrique du Sud",
+    "Apartheid",
+    "Prison",
+    "Président",
+    "Madiba"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Charles de Gaulle",
+   "taboo": [
+    "Général",
+    "18 Juin",
+    "Résistance",
+    "Président",
+    "Londres"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Marie-Antoinette",
+   "taboo": [
+    "Reine",
+    "Guillotine",
+    "Brioche",
+    "Louis XVI",
+    "Autrichienne"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Roger Federer",
+   "taboo": [
+    "Tennis",
+    "Suisse",
+    "Wimbledon",
+    "Raquette",
+    "Nadal"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Lionel Messi",
+   "taboo": [
+    "Football",
+    "Argentine",
+    "Barcelone",
+    "Ballon d'or",
+    "PSG"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Céline Dion",
+   "taboo": [
+    "Québec",
+    "Titanic",
+    "Chanteuse",
+    "René",
+    "Las Vegas"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Claude François",
+   "taboo": [
+    "Cloclo",
+    "Chanteur",
+    "Alexandrie",
+    "Comme d'habitude",
+    "Danseuses"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Madonna",
+   "taboo": [
+    "Chanteuse",
+    "Pop",
+    "Like a Virgin",
+    "Reine",
+    "Américaine"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Bob Marley",
+   "taboo": [
+    "Reggae",
+    "Jamaïque",
+    "Rasta",
+    "Dreadlocks",
+    "Chanteur"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Omar Sy",
+   "taboo": [
+    "Intouchables",
+    "Lupin",
+    "Acteur",
+    "Netflix",
+    "Trappes"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Leonardo DiCaprio",
+   "taboo": [
+    "Titanic",
+    "Acteur",
+    "Oscar",
+    "Jack",
+    "Inception"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Walt Disney",
+   "taboo": [
+    "Mickey",
+    "Dessin animé",
+    "Studio",
+    "Parc",
+    "Blanche-Neige"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Isaac Newton",
+   "taboo": [
+    "Pomme",
+    "Gravité",
+    "Physicien",
+    "Arbre",
+    "Anglais"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Van Gogh",
+   "taboo": [
+    "Oreille",
+    "Tournesols",
+    "Peintre",
+    "Néerlandais",
+    "Nuit étoilée"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Shakespeare",
+   "taboo": [
+    "Roméo et Juliette",
+    "Hamlet",
+    "Anglais",
+    "Théâtre",
+    "Être ou ne pas être"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Jean de La Fontaine",
+   "taboo": [
+    "Fables",
+    "Corbeau",
+    "Renard",
+    "Cigale",
+    "Morale"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Lady Diana",
+   "taboo": [
+    "Princesse",
+    "Charles",
+    "Accident",
+    "Galles",
+    "Angleterre"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Elizabeth II",
+   "taboo": [
+    "Reine",
+    "Angleterre",
+    "Corgis",
+    "Buckingham",
+    "Couronne"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Barack Obama",
+   "taboo": [
+    "Président",
+    "États-Unis",
+    "Michelle",
+    "Yes We Can",
+    "Maison-Blanche"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Steve Jobs",
+   "taboo": [
+    "Apple",
+    "Pomme",
+    "iPhone",
+    "Col roulé",
+    "Fondateur"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Bill Gates",
+   "taboo": [
+    "Microsoft",
+    "Windows",
+    "Milliardaire",
+    "Informatique",
+    "Fondation"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Pelé",
+   "taboo": [
+    "Football",
+    "Brésil",
+    "Roi",
+    "Légende",
+    "Santos"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Hergé",
+   "taboo": [
+    "Tintin",
+    "Milou",
+    "Belge",
+    "Bande dessinée",
+    "Haddock"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Mère Teresa",
+   "taboo": [
+    "Calcutta",
+    "Religieuse",
+    "Pauvres",
+    "Inde",
+    "Nobel"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Mark Zuckerberg",
+   "taboo": [
+    "Facebook",
+    "Réseau social",
+    "Meta",
+    "Harvard",
+    "Milliardaire"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Youri Gagarine",
+   "taboo": [
+    "Espace",
+    "Cosmonaute",
+    "Russe",
+    "Premier",
+    "Vostok"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Thomas Pesquet",
+   "taboo": [
+    "Astronaute",
+    "Espace",
+    "Français",
+    "Station",
+    "Fusée"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Martin Luther King",
+   "taboo": [
+    "Rêve",
+    "Pasteur",
+    "Discours",
+    "Droits civiques",
+    "Ségrégation"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Rafael Nadal",
+   "taboo": [
+    "Tennis",
+    "Espagne",
+    "Roland-Garros",
+    "Terre battue",
+    "Federer"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Teddy Riner",
+   "taboo": [
+    "Judo",
+    "Champion",
+    "Géant",
+    "Olympique",
+    "Guadeloupe"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Cristiano Ronaldo",
+   "taboo": [
+    "Football",
+    "Portugal",
+    "CR7",
+    "Real Madrid",
+    "Manchester"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Michael Jordan",
+   "taboo": [
+    "Basket",
+    "Chicago",
+    "NBA",
+    "Nike",
+    "Dunk"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Mohamed Ali",
+   "taboo": [
+    "Boxe",
+    "Papillon",
+    "Abeille",
+    "Cassius Clay",
+    "Champion"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Victor Wembanyama",
+   "taboo": [
+    "Basket",
+    "Géant",
+    "NBA",
+    "San Antonio",
+    "Alien"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Léon Marchand",
+   "taboo": [
+    "Natation",
+    "Paris 2024",
+    "Médailles",
+    "Toulouse",
+    "Or"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Antoine Dupont",
+   "taboo": [
+    "Rugby",
+    "Toulouse",
+    "Mêlée",
+    "Capitaine",
+    "XV de France"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Ayrton Senna",
+   "taboo": [
+    "Formule 1",
+    "Brésil",
+    "Pilote",
+    "Accident",
+    "McLaren"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Yannick Noah",
+   "taboo": [
+    "Tennis",
+    "Roland-Garros",
+    "Chanteur",
+    "Dreadlocks",
+    "Saga Africa"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Jean-Jacques Goldman",
+   "taboo": [
+    "Chanteur",
+    "Enfoirés",
+    "Restos du cœur",
+    "Compositeur",
+    "Discret"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Stromae",
+   "taboo": [
+    "Belge",
+    "Alors on danse",
+    "Papaoutai",
+    "Chanteur",
+    "Formidable"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Mylène Farmer",
+   "taboo": [
+    "Chanteuse",
+    "Rousse",
+    "Libertine",
+    "Mystérieuse",
+    "Désenchantée"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Jacques Brel",
+   "taboo": [
+    "Belge",
+    "Ne me quitte pas",
+    "Chanteur",
+    "Amsterdam",
+    "Marquises"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Serge Gainsbourg",
+   "taboo": [
+    "Chanteur",
+    "Cigarette",
+    "Birkin",
+    "Provocateur",
+    "Charlotte"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Charles Aznavour",
+   "taboo": [
+    "Chanteur",
+    "Arménie",
+    "Bohème",
+    "Emmenez-moi",
+    "Crooner"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Dalida",
+   "taboo": [
+    "Chanteuse",
+    "Égypte",
+    "Paroles paroles",
+    "Bambino",
+    "Gigi l'Amoroso"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Daft Punk",
+   "taboo": [
+    "Casque",
+    "Robots",
+    "Électro",
+    "Duo",
+    "Get Lucky"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Freddie Mercury",
+   "taboo": [
+    "Queen",
+    "Moustache",
+    "Chanteur",
+    "Rock",
+    "Bohemian Rhapsody"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Beyoncé",
+   "taboo": [
+    "Chanteuse",
+    "Jay-Z",
+    "Destiny's Child",
+    "Single Ladies",
+    "Américaine"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Elton John",
+   "taboo": [
+    "Piano",
+    "Lunettes",
+    "Chanteur",
+    "Rocket Man",
+    "Roi lion"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Les Rolling Stones",
+   "taboo": [
+    "Mick Jagger",
+    "Langue",
+    "Rock",
+    "Groupe",
+    "Satisfaction"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Jean Dujardin",
+   "taboo": [
+    "OSS 117",
+    "Oscar",
+    "The Artist",
+    "Brice de Nice",
+    "Acteur"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Jean-Paul Belmondo",
+   "taboo": [
+    "Bébel",
+    "Acteur",
+    "Cascades",
+    "Professionnel",
+    "Magnifique"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Bourvil",
+   "taboo": [
+    "Acteur",
+    "Corniaud",
+    "Grande Vadrouille",
+    "De Funès",
+    "Comique"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Marion Cotillard",
+   "taboo": [
+    "Actrice",
+    "Oscar",
+    "Piaf",
+    "Taxi",
+    "Môme"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Dany Boon",
+   "taboo": [
+    "Ch'tis",
+    "Bienvenue",
+    "Nord",
+    "Acteur",
+    "Humoriste"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Coluche",
+   "taboo": [
+    "Humoriste",
+    "Restos du cœur",
+    "Salopette",
+    "Moto",
+    "Tchao Pantin"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Steven Spielberg",
+   "taboo": [
+    "Réalisateur",
+    "E.T.",
+    "Dents de la mer",
+    "Jurassic Park",
+    "Hollywood"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Charles Darwin",
+   "taboo": [
+    "Évolution",
+    "Espèces",
+    "Galápagos",
+    "Singe",
+    "Naturaliste"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Galilée",
+   "taboo": [
+    "Astronome",
+    "Terre",
+    "Tourne",
+    "Lunette",
+    "Église"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Louis Pasteur",
+   "taboo": [
+    "Vaccin",
+    "Rage",
+    "Microbes",
+    "Lait",
+    "Scientifique"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Stephen Hawking",
+   "taboo": [
+    "Fauteuil roulant",
+    "Trous noirs",
+    "Physicien",
+    "Voix",
+    "Univers"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Archimède",
+   "taboo": [
+    "Eurêka",
+    "Baignoire",
+    "Grec",
+    "Poussée",
+    "Mathématicien"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Pythagore",
+   "taboo": [
+    "Théorème",
+    "Triangle",
+    "Grec",
+    "Hypoténuse",
+    "Mathématicien"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Les frères Lumière",
+   "taboo": [
+    "Cinéma",
+    "Lyon",
+    "Inventeurs",
+    "Projection",
+    "Train"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Gustave Eiffel",
+   "taboo": [
+    "Tour",
+    "Ingénieur",
+    "Paris",
+    "Statue de la Liberté",
+    "Métal"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Jacques-Yves Cousteau",
+   "taboo": [
+    "Océan",
+    "Bonnet rouge",
+    "Calypso",
+    "Plongée",
+    "Commandant"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Marco Polo",
+   "taboo": [
+    "Venise",
+    "Chine",
+    "Explorateur",
+    "Route de la soie",
+    "Voyageur"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Toutânkhamon",
+   "taboo": [
+    "Pharaon",
+    "Égypte",
+    "Masque d'or",
+    "Tombeau",
+    "Jeune"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Louis XVI",
+   "taboo": [
+    "Guillotine",
+    "Marie-Antoinette",
+    "Révolution",
+    "Varennes",
+    "Roi"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Charlemagne",
+   "taboo": [
+    "Empereur",
+    "École",
+    "Barbe fleurie",
+    "Francs",
+    "An 800"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Vercingétorix",
+   "taboo": [
+    "Gaulois",
+    "Alésia",
+    "César",
+    "Chef",
+    "Gergovie"
+   ],
+   "level": 2
+  },
+  {
+   "word": "John F. Kennedy",
+   "taboo": [
+    "Président",
+    "Assassiné",
+    "Dallas",
+    "Marilyn",
+    "États-Unis"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Abraham Lincoln",
+   "taboo": [
+    "Président",
+    "Esclavage",
+    "Barbe",
+    "Haut-de-forme",
+    "Assassiné"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Winston Churchill",
+   "taboo": [
+    "Cigare",
+    "Premier ministre",
+    "Seconde Guerre",
+    "Royaume-Uni",
+    "Discours"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Jules Verne",
+   "taboo": [
+    "Écrivain",
+    "Tour du monde",
+    "Nautilus",
+    "Nantes",
+    "Vingt mille lieues"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Saint-Exupéry",
+   "taboo": [
+    "Petit Prince",
+    "Aviateur",
+    "Écrivain",
+    "Mouton",
+    "Désert"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Émile Zola",
+   "taboo": [
+    "J'accuse",
+    "Germinal",
+    "Écrivain",
+    "Dreyfus",
+    "Naturalisme"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Alexandre Dumas",
+   "taboo": [
+    "Trois Mousquetaires",
+    "Monte-Cristo",
+    "Écrivain",
+    "D'Artagnan",
+    "Roman"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Agatha Christie",
+   "taboo": [
+    "Romans policiers",
+    "Hercule Poirot",
+    "Anglaise",
+    "Crime",
+    "Orient-Express"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Sigmund Freud",
+   "taboo": [
+    "Psychanalyse",
+    "Inconscient",
+    "Divan",
+    "Rêves",
+    "Œdipe"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Socrate",
+   "taboo": [
+    "Philosophe",
+    "Grec",
+    "Ciguë",
+    "Connais-toi",
+    "Platon"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Claude Monet",
+   "taboo": [
+    "Nénuphars",
+    "Impressionnisme",
+    "Giverny",
+    "Peintre",
+    "Soleil levant"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Salvador Dalí",
+   "taboo": [
+    "Moustache",
+    "Surréalisme",
+    "Montres molles",
+    "Espagnol",
+    "Peintre"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Auguste Rodin",
+   "taboo": [
+    "Penseur",
+    "Sculpteur",
+    "Baiser",
+    "Camille Claudel",
+    "Bronze"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Beethoven",
+   "taboo": [
+    "Sourd",
+    "Compositeur",
+    "Symphonie",
+    "Allemand",
+    "Lettre à Élise"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Eddy Merckx",
+   "taboo": [
+    "Cyclisme",
+    "Belge",
+    "Tour de France",
+    "Cannibale",
+    "Vélo"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Sébastien Loeb",
+   "taboo": [
+    "Rallye",
+    "Alsacien",
+    "Champion",
+    "Voiture",
+    "Citroën"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Alain Prost",
+   "taboo": [
+    "Formule 1",
+    "Professeur",
+    "Senna",
+    "Pilote",
+    "Français"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Marie-José Pérec",
+   "taboo": [
+    "Athlétisme",
+    "Gazelle",
+    "400 mètres",
+    "Guadeloupe",
+    "Atlanta"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Pierre de Coubertin",
+   "taboo": [
+    "Jeux olympiques",
+    "Baron",
+    "Participer",
+    "Anneaux",
+    "Sport"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Renaud",
+   "taboo": [
+    "Chanteur",
+    "Mistral gagnant",
+    "Bandana",
+    "Laisse béton",
+    "Titi"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Francis Cabrel",
+   "taboo": [
+    "Chanteur",
+    "Guitare",
+    "Moustache",
+    "Je l'aime à mourir",
+    "Petite Marie"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Ray Charles",
+   "taboo": [
+    "Aveugle",
+    "Piano",
+    "Lunettes noires",
+    "Soul",
+    "Hit the Road Jack"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Audrey Tautou",
+   "taboo": [
+    "Amélie Poulain",
+    "Actrice",
+    "Montmartre",
+    "Da Vinci Code",
+    "Fabuleux destin"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Sophie Marceau",
+   "taboo": [
+    "La Boum",
+    "Actrice",
+    "Vic",
+    "Braveheart",
+    "James Bond"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Alfred Hitchcock",
+   "taboo": [
+    "Suspense",
+    "Psychose",
+    "Oiseaux",
+    "Réalisateur",
+    "Douche"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Thomas Edison",
+   "taboo": [
+    "Ampoule",
+    "Inventeur",
+    "Électricité",
+    "Phonographe",
+    "Américain"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Nikola Tesla",
+   "taboo": [
+    "Inventeur",
+    "Électricité",
+    "Courant alternatif",
+    "Serbe",
+    "Voiture"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Gutenberg",
+   "taboo": [
+    "Imprimerie",
+    "Allemand",
+    "Bible",
+    "Caractères",
+    "Livres"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Louis Braille",
+   "taboo": [
+    "Aveugles",
+    "Alphabet",
+    "Points",
+    "Lecture",
+    "Relief"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Nostradamus",
+   "taboo": [
+    "Prophéties",
+    "Astrologue",
+    "Avenir",
+    "Médecin",
+    "Quatrains"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Vasco de Gama",
+   "taboo": [
+    "Portugal",
+    "Navigateur",
+    "Inde",
+    "Bonne-Espérance",
+    "Explorateur"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Jacques Cartier",
+   "taboo": [
+    "Canada",
+    "Explorateur",
+    "Saint-Malo",
+    "Québec",
+    "Navigateur"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Alexandre le Grand",
+   "taboo": [
+    "Macédoine",
+    "Conquérant",
+    "Bucéphale",
+    "Empire",
+    "Grec"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Attila",
+   "taboo": [
+    "Huns",
+    "Herbe",
+    "Barbare",
+    "Cheval",
+    "Envahisseur"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Spartacus",
+   "taboo": [
+    "Gladiateur",
+    "Esclave",
+    "Révolte",
+    "Rome",
+    "Kirk Douglas"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Clovis",
+   "taboo": [
+    "Roi",
+    "Francs",
+    "Vase de Soissons",
+    "Baptême",
+    "Reims"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Henri IV",
+   "taboo": [
+    "Poule au pot",
+    "Roi",
+    "Ravaillac",
+    "Édit de Nantes",
+    "Navarre"
+   ],
+   "level": 3
+  },
+  {
+   "word": "François Ier",
+   "taboo": [
+    "Marignan",
+    "Chambord",
+    "Roi",
+    "Renaissance",
+    "Salamandre"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Robespierre",
+   "taboo": [
+    "Terreur",
+    "Révolution",
+    "Guillotine",
+    "Jacobins",
+    "Incorruptible"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Jean Moulin",
+   "taboo": [
+    "Résistance",
+    "Préfet",
+    "Écharpe",
+    "Chapeau",
+    "Panthéon"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Joséphine Baker",
+   "taboo": [
+    "Danseuse",
+    "Bananes",
+    "Panthéon",
+    "Résistante",
+    "Music-hall"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Simone Veil",
+   "taboo": [
+    "IVG",
+    "Loi",
+    "Ministre",
+    "Panthéon",
+    "Europe"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Baudelaire",
+   "taboo": [
+    "Fleurs du mal",
+    "Poète",
+    "Albatros",
+    "Spleen",
+    "Charles"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Marcel Proust",
+   "taboo": [
+    "Madeleine",
+    "Écrivain",
+    "Temps perdu",
+    "Souvenirs",
+    "Phrases"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Albert Camus",
+   "taboo": [
+    "L'Étranger",
+    "La Peste",
+    "Écrivain",
+    "Nobel",
+    "Absurde"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Jean-Paul Sartre",
+   "taboo": [
+    "Existentialisme",
+    "Philosophe",
+    "Beauvoir",
+    "Huis clos",
+    "Nobel"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Tolkien",
+   "taboo": [
+    "Seigneur des anneaux",
+    "Hobbit",
+    "Anglais",
+    "Écrivain",
+    "Terre du Milieu"
+   ],
+   "level": 3
+  },
+  {
+   "word": "René Goscinny",
+   "taboo": [
+    "Astérix",
+    "Uderzo",
+    "Petit Nicolas",
+    "Scénariste",
+    "Lucky Luke"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Michel-Ange",
+   "taboo": [
+    "Sixtine",
+    "David",
+    "Sculpteur",
+    "Renaissance",
+    "Plafond"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Frédéric Chopin",
+   "taboo": [
+    "Piano",
+    "Polonais",
+    "Compositeur",
+    "Nocturnes",
+    "George Sand"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Yves Saint Laurent",
+   "taboo": [
+    "Couturier",
+    "YSL",
+    "Smoking",
+    "Mode",
+    "Pierre Bergé"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Jean-Paul Gaultier",
+   "taboo": [
+    "Marinière",
+    "Couturier",
+    "Mode",
+    "Parfum",
+    "Enfant terrible"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Paul Bocuse",
+   "taboo": [
+    "Cuisinier",
+    "Lyon",
+    "Toque",
+    "Gastronomie",
+    "Étoiles"
+   ],
+   "level": 3
+  }
+ ]
+}

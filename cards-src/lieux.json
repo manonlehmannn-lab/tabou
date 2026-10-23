@@ -1,0 +1,1523 @@
+{
+ "category": "lieux",
+ "cards": [
+  {
+   "word": "Plage",
+   "taboo": [
+    "Sable",
+    "Mer",
+    "Soleil",
+    "Vacances",
+    "Serviette"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Hôpital",
+   "taboo": [
+    "Médecin",
+    "Malade",
+    "Infirmière",
+    "Urgences",
+    "Soigner"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Bibliothèque",
+   "taboo": [
+    "Livres",
+    "Lire",
+    "Emprunter",
+    "Silence",
+    "Étagères"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Camping",
+   "taboo": [
+    "Tente",
+    "Caravane",
+    "Vacances",
+    "Plein air",
+    "Emplacement"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Aéroport",
+   "taboo": [
+    "Avion",
+    "Valise",
+    "Décoller",
+    "Voyage",
+    "Douane"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Prison",
+   "taboo": [
+    "Barreaux",
+    "Détenu",
+    "Cellule",
+    "Gardien",
+    "Évasion"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Fête foraine",
+   "taboo": [
+    "Manèges",
+    "Barbe à papa",
+    "Auto-tamponneuses",
+    "Grande roue",
+    "Attractions"
+   ],
+   "level": 2
+  },
+  {
+   "word": "École",
+   "taboo": [
+    "Élèves",
+    "Maîtresse",
+    "Classe",
+    "Récréation",
+    "Cartable"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Gare",
+   "taboo": [
+    "Train",
+    "Quai",
+    "Billet",
+    "Voie",
+    "Contrôleur"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Musée",
+   "taboo": [
+    "Tableaux",
+    "Exposition",
+    "Œuvres",
+    "Visite",
+    "Art"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Cimetière",
+   "taboo": [
+    "Tombes",
+    "Mort",
+    "Enterrement",
+    "Croix",
+    "Fleurs"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Église",
+   "taboo": [
+    "Messe",
+    "Prière",
+    "Curé",
+    "Clocher",
+    "Dieu"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Zoo",
+   "taboo": [
+    "Animaux",
+    "Cages",
+    "Lion",
+    "Visite",
+    "Girafe"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Piscine",
+   "taboo": [
+    "Nager",
+    "Eau",
+    "Maillot",
+    "Bassin",
+    "Plongeoir"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Supermarché",
+   "taboo": [
+    "Courses",
+    "Caddie",
+    "Caisse",
+    "Rayons",
+    "Acheter"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Hôtel",
+   "taboo": [
+    "Chambre",
+    "Nuit",
+    "Réception",
+    "Étoiles",
+    "Clé"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Ferme",
+   "taboo": [
+    "Vaches",
+    "Tracteur",
+    "Agriculteur",
+    "Poules",
+    "Campagne"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Stade",
+   "taboo": [
+    "Match",
+    "Football",
+    "Supporters",
+    "Tribunes",
+    "Pelouse"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Mairie",
+   "taboo": [
+    "Mariage",
+    "Élus",
+    "Commune",
+    "Écharpe",
+    "Conseil"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Bureau de poste",
+   "taboo": [
+    "Lettres",
+    "Colis",
+    "Timbres",
+    "Facteur",
+    "Guichet"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Banque",
+   "taboo": [
+    "Argent",
+    "Compte",
+    "Conseiller",
+    "Prêt",
+    "Coffre"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Restaurant",
+   "taboo": [
+    "Manger",
+    "Serveur",
+    "Menu",
+    "Table",
+    "Chef"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Phare",
+   "taboo": [
+    "Lumière",
+    "Bateaux",
+    "Mer",
+    "Gardien",
+    "Côte"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Port",
+   "taboo": [
+    "Bateaux",
+    "Quai",
+    "Marins",
+    "Amarrer",
+    "Ferry"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Garage",
+   "taboo": [
+    "Voiture",
+    "Mécanicien",
+    "Réparer",
+    "Pneus",
+    "Vidange"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Autoroute",
+   "taboo": [
+    "Péage",
+    "Voitures",
+    "Vitesse",
+    "Bouchons",
+    "Aire de repos"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Commissariat",
+   "taboo": [
+    "Police",
+    "Plainte",
+    "Menottes",
+    "Garde à vue",
+    "Enquête"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Tribunal",
+   "taboo": [
+    "Juge",
+    "Avocat",
+    "Procès",
+    "Accusé",
+    "Justice"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Cabane",
+   "taboo": [
+    "Bois",
+    "Arbre",
+    "Enfants",
+    "Forêt",
+    "Construire"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Boîte de nuit",
+   "taboo": [
+    "Danser",
+    "Musique",
+    "Videur",
+    "Piste",
+    "Soirée"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Casino",
+   "taboo": [
+    "Jeux",
+    "Roulette",
+    "Machines à sous",
+    "Miser",
+    "Jetons"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Parking",
+   "taboo": [
+    "Voitures",
+    "Garer",
+    "Places",
+    "Souterrain",
+    "Ticket"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Station de ski",
+   "taboo": [
+    "Pistes",
+    "Télésiège",
+    "Neige",
+    "Montagne",
+    "Forfait"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Centre commercial",
+   "taboo": [
+    "Magasins",
+    "Boutiques",
+    "Shopping",
+    "Parking",
+    "Galerie"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Colonie de vacances",
+   "taboo": [
+    "Moniteurs",
+    "Enfants",
+    "Été",
+    "Séjour",
+    "Dortoir"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Université",
+   "taboo": [
+    "Étudiants",
+    "Amphithéâtre",
+    "Cours",
+    "Diplôme",
+    "Campus"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Aquarium",
+   "taboo": [
+    "Poissons",
+    "Requins",
+    "Vitre",
+    "Eau",
+    "Bocal"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Labyrinthe",
+   "taboo": [
+    "Perdu",
+    "Sortie",
+    "Chemins",
+    "Minotaure",
+    "Dédale"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Salle d'attente",
+   "taboo": [
+    "Médecin",
+    "Patienter",
+    "Magazines",
+    "Chaises",
+    "Rendez-vous"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Égouts",
+   "taboo": [
+    "Rats",
+    "Canalisations",
+    "Sous-sol",
+    "Odeur",
+    "Tortues Ninja"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Maison de retraite",
+   "taboo": [
+    "Personnes âgées",
+    "Vieux",
+    "Infirmières",
+    "Pensionnaires",
+    "Belote"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Salon de coiffure",
+   "taboo": [
+    "Cheveux",
+    "Ciseaux",
+    "Couper",
+    "Brushing",
+    "Shampoing"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Village",
+   "taboo": [
+    "Campagne",
+    "Église",
+    "Habitants",
+    "Petit",
+    "Clocher"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Gratte-ciel",
+   "taboo": [
+    "Immeuble",
+    "Hauteur",
+    "Étages",
+    "New York",
+    "Tours"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Cabine d'essayage",
+   "taboo": [
+    "Vêtements",
+    "Miroir",
+    "Rideau",
+    "Magasin",
+    "Taille"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Assemblée nationale",
+   "taboo": [
+    "Députés",
+    "Lois",
+    "Hémicycle",
+    "Voter",
+    "Palais Bourbon"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Tour Eiffel",
+   "taboo": [
+    "Paris",
+    "Fer",
+    "Monument",
+    "Gustave",
+    "Haute"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Mont-Saint-Michel",
+   "taboo": [
+    "Normandie",
+    "Marée",
+    "Abbaye",
+    "Bretagne",
+    "Île"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Statue de la Liberté",
+   "taboo": [
+    "New York",
+    "Torche",
+    "États-Unis",
+    "Verte",
+    "Couronne"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Louvre",
+   "taboo": [
+    "Musée",
+    "Joconde",
+    "Pyramide",
+    "Paris",
+    "Tableaux"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Versailles",
+   "taboo": [
+    "Château",
+    "Louis XIV",
+    "Jardins",
+    "Galerie des Glaces",
+    "Marie-Antoinette"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Notre-Dame",
+   "taboo": [
+    "Cathédrale",
+    "Paris",
+    "Incendie",
+    "Quasimodo",
+    "Gothique"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Arc de Triomphe",
+   "taboo": [
+    "Paris",
+    "Napoléon",
+    "Champs-Élysées",
+    "Soldat inconnu",
+    "Étoile"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Champs-Élysées",
+   "taboo": [
+    "Avenue",
+    "Paris",
+    "Arc de Triomphe",
+    "Défilé",
+    "Concorde"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Colisée",
+   "taboo": [
+    "Rome",
+    "Gladiateurs",
+    "Arène",
+    "Antique",
+    "Italie"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Vatican",
+   "taboo": [
+    "Pape",
+    "Rome",
+    "Chapelle Sixtine",
+    "Saint-Pierre",
+    "Catholique"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Montmartre",
+   "taboo": [
+    "Sacré-Cœur",
+    "Peintres",
+    "Butte",
+    "Paris",
+    "Amélie Poulain"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Moulin Rouge",
+   "taboo": [
+    "Cabaret",
+    "French cancan",
+    "Pigalle",
+    "Danseuses",
+    "Paris"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Châteaux de la Loire",
+   "taboo": [
+    "Chambord",
+    "Renaissance",
+    "Rois",
+    "Fleuve",
+    "Touraine"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Grand Canyon",
+   "taboo": [
+    "Arizona",
+    "États-Unis",
+    "Gorges",
+    "Colorado",
+    "Falaises"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Chutes du Niagara",
+   "taboo": [
+    "Cascade",
+    "Canada",
+    "Eau",
+    "États-Unis",
+    "Frontière"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Tour de Pise",
+   "taboo": [
+    "Penchée",
+    "Italie",
+    "Clocher",
+    "Photo",
+    "Toscane"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Big Ben",
+   "taboo": [
+    "Londres",
+    "Horloge",
+    "Cloche",
+    "Parlement",
+    "Angleterre"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Stonehenge",
+   "taboo": [
+    "Pierres",
+    "Angleterre",
+    "Druides",
+    "Cercle",
+    "Mystère"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Maison Blanche",
+   "taboo": [
+    "Président",
+    "Washington",
+    "États-Unis",
+    "Bureau ovale",
+    "Résidence"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Loch Ness",
+   "taboo": [
+    "Monstre",
+    "Écosse",
+    "Lac",
+    "Dinosaure",
+    "Légende"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Taj Mahal",
+   "taboo": [
+    "Inde",
+    "Mausolée",
+    "Marbre",
+    "Blanc",
+    "Épouse"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Grande Muraille",
+   "taboo": [
+    "Chine",
+    "Pierres",
+    "Kilomètres",
+    "Rempart",
+    "Espace"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Dune du Pilat",
+   "taboo": [
+    "Sable",
+    "Arcachon",
+    "Gironde",
+    "Grimper",
+    "Océan"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Carcassonne",
+   "taboo": [
+    "Cité",
+    "Remparts",
+    "Médiévale",
+    "Aude",
+    "Jeu de société"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Lourdes",
+   "taboo": [
+    "Pèlerinage",
+    "Vierge",
+    "Miracles",
+    "Grotte",
+    "Bernadette"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Disneyland",
+   "taboo": [
+    "Mickey",
+    "Parc",
+    "Attractions",
+    "Château",
+    "Marne-la-Vallée"
+   ],
+   "level": 2
+  },
+  {
+   "word": "France",
+   "taboo": [
+    "Hexagone",
+    "Paris",
+    "Marseillaise",
+    "Bleu-blanc-rouge",
+    "Baguette"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Italie",
+   "taboo": [
+    "Pizza",
+    "Rome",
+    "Pâtes",
+    "Botte",
+    "Venise"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Espagne",
+   "taboo": [
+    "Madrid",
+    "Paella",
+    "Flamenco",
+    "Corrida",
+    "Barcelone"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Allemagne",
+   "taboo": [
+    "Berlin",
+    "Bière",
+    "Munich",
+    "Bretzel",
+    "Choucroute"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Angleterre",
+   "taboo": [
+    "Londres",
+    "Thé",
+    "Reine",
+    "Big Ben",
+    "Pluie"
+   ],
+   "level": 1
+  },
+  {
+   "word": "États-Unis",
+   "taboo": [
+    "Amérique",
+    "Washington",
+    "New York",
+    "Hollywood",
+    "Dollar"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Chine",
+   "taboo": [
+    "Pékin",
+    "Muraille",
+    "Asie",
+    "Mandarin",
+    "Panda"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Russie",
+   "taboo": [
+    "Moscou",
+    "Vodka",
+    "Kremlin",
+    "Froid",
+    "Tsar"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Brésil",
+   "taboo": [
+    "Rio",
+    "Football",
+    "Samba",
+    "Carnaval",
+    "Amazonie"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Mexique",
+   "taboo": [
+    "Sombrero",
+    "Tacos",
+    "Tequila",
+    "Mariachis",
+    "Aztèques"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Canada",
+   "taboo": [
+    "Québec",
+    "Érable",
+    "Ottawa",
+    "Froid",
+    "Hockey"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Australie",
+   "taboo": [
+    "Kangourou",
+    "Sydney",
+    "Koala",
+    "Océanie",
+    "Boomerang"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Égypte",
+   "taboo": [
+    "Pyramides",
+    "Pharaons",
+    "Nil",
+    "Le Caire",
+    "Sphinx"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Grèce",
+   "taboo": [
+    "Athènes",
+    "Acropole",
+    "Îles",
+    "Feta",
+    "Mythologie"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Portugal",
+   "taboo": [
+    "Lisbonne",
+    "Porto",
+    "Ronaldo",
+    "Fado",
+    "Morue"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Suisse",
+   "taboo": [
+    "Chocolat",
+    "Montres",
+    "Banques",
+    "Genève",
+    "Neutre"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Belgique",
+   "taboo": [
+    "Bruxelles",
+    "Frites",
+    "Gaufres",
+    "Tintin",
+    "Wallonie"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Inde",
+   "taboo": [
+    "Bollywood",
+    "Curry",
+    "Delhi",
+    "Gandhi",
+    "Gange"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Maroc",
+   "taboo": [
+    "Marrakech",
+    "Couscous",
+    "Tajine",
+    "Casablanca",
+    "Afrique"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Irlande",
+   "taboo": [
+    "Trèfle",
+    "Saint-Patrick",
+    "Guinness",
+    "Dublin",
+    "Vert"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Écosse",
+   "taboo": [
+    "Kilt",
+    "Whisky",
+    "Cornemuse",
+    "Édimbourg",
+    "Highlands"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Pays-Bas",
+   "taboo": [
+    "Amsterdam",
+    "Tulipes",
+    "Moulins",
+    "Vélos",
+    "Hollande"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Norvège",
+   "taboo": [
+    "Fjords",
+    "Oslo",
+    "Saumon",
+    "Vikings",
+    "Scandinavie"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Turquie",
+   "taboo": [
+    "Istanbul",
+    "Kebab",
+    "Ankara",
+    "Bosphore",
+    "Loukoum"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Cuba",
+   "taboo": [
+    "Cigares",
+    "La Havane",
+    "Castro",
+    "Rhum",
+    "Île"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Afrique du Sud",
+   "taboo": [
+    "Mandela",
+    "Johannesburg",
+    "Apartheid",
+    "Rugby",
+    "Le Cap"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Pérou",
+   "taboo": [
+    "Lima",
+    "Lamas",
+    "Andes",
+    "Amérique du Sud",
+    "Incas"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Japon",
+   "taboo": [
+    "Tokyo",
+    "Sushi",
+    "Mangas",
+    "Samouraï",
+    "Asie"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Jamaïque",
+   "taboo": [
+    "Reggae",
+    "Bob Marley",
+    "Rastas",
+    "Usain Bolt",
+    "Caraïbes"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Nouvelle-Zélande",
+   "taboo": [
+    "Kiwi",
+    "Maoris",
+    "Haka",
+    "All Blacks",
+    "Hobbits"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Madagascar",
+   "taboo": [
+    "Île",
+    "Lémuriens",
+    "Baobabs",
+    "Océan Indien",
+    "Vanille"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Argentine",
+   "taboo": [
+    "Tango",
+    "Buenos Aires",
+    "Messi",
+    "Patagonie",
+    "Viande"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Paris",
+   "taboo": [
+    "Capitale",
+    "Tour Eiffel",
+    "France",
+    "Seine",
+    "Louvre"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Marseille",
+   "taboo": [
+    "Vieux-Port",
+    "Bouillabaisse",
+    "Football",
+    "Accent",
+    "Pastis"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Lyon",
+   "taboo": [
+    "Rhône",
+    "Saône",
+    "Bouchons",
+    "Fourvière",
+    "Lumières"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Bordeaux",
+   "taboo": [
+    "Vin",
+    "Gironde",
+    "Canelés",
+    "Garonne",
+    "Sud-Ouest"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Toulouse",
+   "taboo": [
+    "Ville rose",
+    "Rugby",
+    "Airbus",
+    "Cassoulet",
+    "Capitole"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Lille",
+   "taboo": [
+    "Nord",
+    "Ch'tis",
+    "Braderie",
+    "Moules-frites",
+    "Maroilles"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Strasbourg",
+   "taboo": [
+    "Alsace",
+    "Choucroute",
+    "Parlement européen",
+    "Marché de Noël",
+    "Cathédrale"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Nice",
+   "taboo": [
+    "Promenade des Anglais",
+    "Côte d'Azur",
+    "Carnaval",
+    "Galets",
+    "Salade"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Rome",
+   "taboo": [
+    "Italie",
+    "Capitale",
+    "Vatican",
+    "Colisée",
+    "Empire"
+   ],
+   "level": 1
+  },
+  {
+   "word": "New York",
+   "taboo": [
+    "Manhattan",
+    "Gratte-ciel",
+    "Statue de la Liberté",
+    "Times Square",
+    "Taxis"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Londres",
+   "taboo": [
+    "Angleterre",
+    "Big Ben",
+    "Tamise",
+    "Capitale",
+    "Reine"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Rio de Janeiro",
+   "taboo": [
+    "Carnaval",
+    "Brésil",
+    "Christ Rédempteur",
+    "Copacabana",
+    "Samba"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Dubaï",
+   "taboo": [
+    "Gratte-ciel",
+    "Désert",
+    "Luxe",
+    "Émirats",
+    "Burj Khalifa"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Barcelone",
+   "taboo": [
+    "Espagne",
+    "Sagrada Familia",
+    "Gaudí",
+    "Catalogne",
+    "Ramblas"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Venise",
+   "taboo": [
+    "Gondole",
+    "Italie",
+    "Canaux",
+    "Carnaval",
+    "Amoureux"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Las Vegas",
+   "taboo": [
+    "Casino",
+    "Nevada",
+    "Jeux",
+    "Mariage",
+    "Désert"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Los Angeles",
+   "taboo": [
+    "Hollywood",
+    "Californie",
+    "Stars",
+    "Plages",
+    "Beverly Hills"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Texas",
+   "taboo": [
+    "Cowboys",
+    "Pétrole",
+    "Dallas",
+    "Houston",
+    "Ranch"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Hawaï",
+   "taboo": [
+    "Îles",
+    "Surf",
+    "Colliers de fleurs",
+    "Volcans",
+    "Pacifique"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Tahiti",
+   "taboo": [
+    "Polynésie",
+    "Île",
+    "Vahinés",
+    "Lagon",
+    "Pacifique"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Cannes",
+   "taboo": [
+    "Festival",
+    "Croisette",
+    "Palme d'or",
+    "Cinéma",
+    "Marches"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Monaco",
+   "taboo": [
+    "Prince",
+    "Monte-Carlo",
+    "Casino",
+    "Grand Prix",
+    "Rocher"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Corse",
+   "taboo": [
+    "Île",
+    "Ajaccio",
+    "Napoléon",
+    "Beauté",
+    "Méditerranée"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Normandie",
+   "taboo": [
+    "Camembert",
+    "Débarquement",
+    "Cidre",
+    "Rouen",
+    "Vaches"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Bretagne",
+   "taboo": [
+    "Crêpes",
+    "Rennes",
+    "Pluie",
+    "Ouest",
+    "Celtique"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Provence",
+   "taboo": [
+    "Lavande",
+    "Cigales",
+    "Marseille",
+    "Soleil",
+    "Pétanque"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Auvergne",
+   "taboo": [
+    "Volcans",
+    "Fromages",
+    "Clermont-Ferrand",
+    "Puy de Dôme",
+    "Michelin"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Savoie",
+   "taboo": [
+    "Tartiflette",
+    "Raclette",
+    "Ski",
+    "Montagne",
+    "Reblochon"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Pays basque",
+   "taboo": [
+    "Espadrilles",
+    "Béret",
+    "Pelote",
+    "Bayonne",
+    "Piment d'Espelette"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Bourgogne",
+   "taboo": [
+    "Vin",
+    "Escargots",
+    "Dijon",
+    "Moutarde",
+    "Bœuf"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Guadeloupe",
+   "taboo": [
+    "Antilles",
+    "Rhum",
+    "Créole",
+    "Pointe-à-Pitre",
+    "Caraïbes"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Sicile",
+   "taboo": [
+    "Italie",
+    "Etna",
+    "Île",
+    "Palerme",
+    "Mafia"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Maldives",
+   "taboo": [
+    "Îles",
+    "Océan Indien",
+    "Lune de miel",
+    "Bungalows",
+    "Paradis"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Laponie",
+   "taboo": [
+    "Père Noël",
+    "Rennes",
+    "Finlande",
+    "Neige",
+    "Aurores boréales"
+   ],
+   "level": 2
+  }
+ ]
+}

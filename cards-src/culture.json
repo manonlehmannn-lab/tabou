@@ -1,0 +1,1512 @@
+{
+ "category": "culture",
+ "cards": [
+  {
+   "word": "Le Petit Prince",
+   "taboo": [
+    "Saint-Exupéry",
+    "Rose",
+    "Renard",
+    "Mouton",
+    "Planète"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Astérix",
+   "taboo": [
+    "Gaulois",
+    "Obélix",
+    "Potion magique",
+    "Romains",
+    "Idéfix"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Tintin",
+   "taboo": [
+    "Milou",
+    "Haddock",
+    "Reporter",
+    "Hergé",
+    "Houppe"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Cendrillon",
+   "taboo": [
+    "Pantoufle",
+    "Citrouille",
+    "Minuit",
+    "Bal",
+    "Prince charmant"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Sherlock Holmes",
+   "taboo": [
+    "Détective",
+    "Watson",
+    "Loupe",
+    "Londres",
+    "Enquête"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Blanche-Neige",
+   "taboo": [
+    "Nains",
+    "Pomme",
+    "Miroir",
+    "Sorcière",
+    "Prince"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Le Petit Chaperon rouge",
+   "taboo": [
+    "Loup",
+    "Grand-mère",
+    "Galette",
+    "Panier",
+    "Forêt"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Les Trois Petits Cochons",
+   "taboo": [
+    "Loup",
+    "Maisons",
+    "Paille",
+    "Briques",
+    "Souffler"
+   ],
+   "level": 1
+  },
+  {
+   "word": "La Belle au bois dormant",
+   "taboo": [
+    "Fuseau",
+    "Sommeil",
+    "Princesse",
+    "Baiser",
+    "Cent ans"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Hansel et Gretel",
+   "taboo": [
+    "Pain d'épices",
+    "Sorcière",
+    "Cailloux",
+    "Forêt",
+    "Four"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Le Chat botté",
+   "taboo": [
+    "Marquis de Carabas",
+    "Ogre",
+    "Perrault",
+    "Chapeau",
+    "Rusé"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Pinocchio",
+   "taboo": [
+    "Nez",
+    "Mensonge",
+    "Marionnette",
+    "Geppetto",
+    "Bois"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Robin des Bois",
+   "taboo": [
+    "Arc",
+    "Voleur",
+    "Riches",
+    "Pauvres",
+    "Sherwood"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Le Lièvre et la Tortue",
+   "taboo": [
+    "Course",
+    "Fable",
+    "La Fontaine",
+    "Lent",
+    "Rapide"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Le Corbeau et le Renard",
+   "taboo": [
+    "Fromage",
+    "Fable",
+    "La Fontaine",
+    "Flatteur",
+    "Bec"
+   ],
+   "level": 1
+  },
+  {
+   "word": "La Cigale et la Fourmi",
+   "taboo": [
+    "Fable",
+    "La Fontaine",
+    "Été",
+    "Hiver",
+    "Chanter"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Les Misérables",
+   "taboo": [
+    "Victor Hugo",
+    "Cosette",
+    "Jean Valjean",
+    "Javert",
+    "Thénardier"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Quasimodo",
+   "taboo": [
+    "Bossu",
+    "Notre-Dame",
+    "Esmeralda",
+    "Cloches",
+    "Victor Hugo"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Les Trois Mousquetaires",
+   "taboo": [
+    "D'Artagnan",
+    "Dumas",
+    "Épées",
+    "Athos",
+    "Un pour tous"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Don Quichotte",
+   "taboo": [
+    "Moulins à vent",
+    "Sancho Panza",
+    "Chevalier",
+    "Espagne",
+    "Cervantès"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Le Comte de Monte-Cristo",
+   "taboo": [
+    "Dumas",
+    "Vengeance",
+    "Prison",
+    "Trésor",
+    "Château d'If"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Roméo et Juliette",
+   "taboo": [
+    "Shakespeare",
+    "Amour",
+    "Balcon",
+    "Vérone",
+    "Poison"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Hamlet",
+   "taboo": [
+    "Shakespeare",
+    "Être ou ne pas être",
+    "Crâne",
+    "Danemark",
+    "Prince"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Cyrano de Bergerac",
+   "taboo": [
+    "Nez",
+    "Rostand",
+    "Roxane",
+    "Tirade",
+    "Gascon"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Frankenstein",
+   "taboo": [
+    "Monstre",
+    "Créature",
+    "Docteur",
+    "Cicatrices",
+    "Électricité"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Le Petit Nicolas",
+   "taboo": [
+    "Sempé",
+    "Goscinny",
+    "École",
+    "Copains",
+    "Alceste"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Alice au pays des merveilles",
+   "taboo": [
+    "Lapin blanc",
+    "Chapelier fou",
+    "Terrier",
+    "Reine de cœur",
+    "Lewis Carroll"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Père Noël",
+   "taboo": [
+    "Barbe",
+    "Traîneau",
+    "Rennes",
+    "Cheminée",
+    "Cadeaux"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Noël",
+   "taboo": [
+    "Sapin",
+    "Cadeaux",
+    "Décembre",
+    "Réveillon",
+    "Bûche"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Halloween",
+   "taboo": [
+    "Citrouille",
+    "Bonbons",
+    "Déguisement",
+    "Sorcière",
+    "Octobre"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Chandeleur",
+   "taboo": [
+    "Crêpes",
+    "Février",
+    "Poêle",
+    "Sauter",
+    "Pièce"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Épiphanie",
+   "taboo": [
+    "Galette",
+    "Fève",
+    "Couronne",
+    "Rois mages",
+    "Janvier"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Pâques",
+   "taboo": [
+    "Œufs",
+    "Chocolat",
+    "Cloches",
+    "Lapin",
+    "Chasse"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Carnaval",
+   "taboo": [
+    "Déguisement",
+    "Masques",
+    "Défilé",
+    "Chars",
+    "Confettis"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Saint-Sylvestre",
+   "taboo": [
+    "Minuit",
+    "Champagne",
+    "Décembre",
+    "Bonne année",
+    "Compte à rebours"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Fête des mères",
+   "taboo": [
+    "Maman",
+    "Mai",
+    "Cadeau",
+    "Collier de nouilles",
+    "Dimanche"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Ramadan",
+   "taboo": [
+    "Jeûne",
+    "Musulmans",
+    "Mois",
+    "Coucher du soleil",
+    "Aïd"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Zeus",
+   "taboo": [
+    "Foudre",
+    "Olympe",
+    "Dieu",
+    "Grec",
+    "Mythologie"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Sirène",
+   "taboo": [
+    "Queue de poisson",
+    "Mer",
+    "Chant",
+    "Marins",
+    "Femme"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Minotaure",
+   "taboo": [
+    "Labyrinthe",
+    "Taureau",
+    "Thésée",
+    "Crète",
+    "Monstre"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Hercule",
+   "taboo": [
+    "Force",
+    "Douze travaux",
+    "Demi-dieu",
+    "Muscles",
+    "Zeus"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Pégase",
+   "taboo": [
+    "Cheval",
+    "Ailes",
+    "Voler",
+    "Blanc",
+    "Mythologie"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Cupidon",
+   "taboo": [
+    "Flèche",
+    "Amour",
+    "Arc",
+    "Ange",
+    "Saint-Valentin"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Ulysse",
+   "taboo": [
+    "Odyssée",
+    "Ithaque",
+    "Cyclope",
+    "Pénélope",
+    "Voyage"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Cyclope",
+   "taboo": [
+    "Œil",
+    "Géant",
+    "Ulysse",
+    "Front",
+    "Monstre"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Icare",
+   "taboo": [
+    "Ailes",
+    "Soleil",
+    "Cire",
+    "Voler",
+    "Tomber"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Poséidon",
+   "taboo": [
+    "Mer",
+    "Trident",
+    "Dieu",
+    "Neptune",
+    "Océan"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Licorne",
+   "taboo": [
+    "Cheval",
+    "Arc-en-ciel",
+    "Magique",
+    "Blanche",
+    "Front"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Dragon",
+   "taboo": [
+    "Feu",
+    "Cracher",
+    "Ailes",
+    "Écailles",
+    "Chevalier"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Phénix",
+   "taboo": [
+    "Oiseau",
+    "Cendres",
+    "Renaître",
+    "Feu",
+    "Immortel"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Loup-garou",
+   "taboo": [
+    "Pleine lune",
+    "Hurler",
+    "Transformation",
+    "Poils",
+    "Balle d'argent"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Fantôme",
+   "taboo": [
+    "Drap",
+    "Hanter",
+    "Château",
+    "Bouh",
+    "Esprit"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Sorcière",
+   "taboo": [
+    "Balai",
+    "Chapeau pointu",
+    "Potion",
+    "Chaudron",
+    "Verrue"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Fée",
+   "taboo": [
+    "Baguette magique",
+    "Ailes",
+    "Clochette",
+    "Vœu",
+    "Marraine"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Lutin",
+   "taboo": [
+    "Père Noël",
+    "Petit",
+    "Bonnet",
+    "Elfe",
+    "Farceur"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Atlantide",
+   "taboo": [
+    "Engloutie",
+    "Cité",
+    "Océan",
+    "Légende",
+    "Disparue"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Excalibur",
+   "taboo": [
+    "Épée",
+    "Roi Arthur",
+    "Rocher",
+    "Merlin",
+    "Légende"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Boîte de Pandore",
+   "taboo": [
+    "Ouvrir",
+    "Malheurs",
+    "Mythologie",
+    "Curiosité",
+    "Espoir"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Narcisse",
+   "taboo": [
+    "Reflet",
+    "Miroir",
+    "Eau",
+    "Beauté",
+    "Fleur"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Sphinx",
+   "taboo": [
+    "Égypte",
+    "Énigme",
+    "Pyramides",
+    "Lion",
+    "Gizeh"
+   ],
+   "level": 3
+  },
+  {
+   "word": "La Joconde",
+   "taboo": [
+    "Léonard de Vinci",
+    "Sourire",
+    "Louvre",
+    "Tableau",
+    "Mona Lisa"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Le Penseur",
+   "taboo": [
+    "Rodin",
+    "Statue",
+    "Réfléchir",
+    "Menton",
+    "Bronze"
+   ],
+   "level": 3
+  },
+  {
+   "word": "La Vénus de Milo",
+   "taboo": [
+    "Statue",
+    "Bras",
+    "Louvre",
+    "Grecque",
+    "Marbre"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Le Cri",
+   "taboo": [
+    "Munch",
+    "Tableau",
+    "Peur",
+    "Mains",
+    "Visage"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Impressionnisme",
+   "taboo": [
+    "Monet",
+    "Peinture",
+    "Lumière",
+    "Nymphéas",
+    "Renoir"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Graffiti",
+   "taboo": [
+    "Mur",
+    "Bombe",
+    "Tag",
+    "Peinture",
+    "Street art"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Sculpture",
+   "taboo": [
+    "Statue",
+    "Marbre",
+    "Burin",
+    "Argile",
+    "Ciseau"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Origami",
+   "taboo": [
+    "Papier",
+    "Plier",
+    "Japon",
+    "Grue",
+    "Cocotte"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Caricature",
+   "taboo": [
+    "Dessin",
+    "Exagérer",
+    "Portrait",
+    "Humour",
+    "Journal"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Monopoly",
+   "taboo": [
+    "Rue de la Paix",
+    "Prison",
+    "Billets",
+    "Hôtels",
+    "Dés"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Échecs",
+   "taboo": [
+    "Roi",
+    "Reine",
+    "Pions",
+    "Mat",
+    "Cavalier"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Cache-cache",
+   "taboo": [
+    "Compter",
+    "Chercher",
+    "Trouver",
+    "Enfants",
+    "Yeux fermés"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Scrabble",
+   "taboo": [
+    "Lettres",
+    "Mots",
+    "Points",
+    "Plateau",
+    "Dictionnaire"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Uno",
+   "taboo": [
+    "Cartes",
+    "Couleurs",
+    "Plus quatre",
+    "Crier",
+    "Passer"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Puzzle",
+   "taboo": [
+    "Pièces",
+    "Assembler",
+    "Image",
+    "Bords",
+    "Mille"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Dominos",
+   "taboo": [
+    "Points",
+    "Double six",
+    "Aligner",
+    "Tomber",
+    "Chaîne"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Belote",
+   "taboo": [
+    "Cartes",
+    "Atout",
+    "Pli",
+    "Valet",
+    "Dix de der"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Bataille navale",
+   "taboo": [
+    "Touché",
+    "Coulé",
+    "Grille",
+    "Bateaux",
+    "Cases"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Pierre-feuille-ciseaux",
+   "taboo": [
+    "Chifoumi",
+    "Main",
+    "Puits",
+    "Poing",
+    "Hasard"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Marelle",
+   "taboo": [
+    "Craie",
+    "Cases",
+    "Sauter",
+    "Ciel",
+    "Cailloux"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Twister",
+   "taboo": [
+    "Couleurs",
+    "Tapis",
+    "Pieds",
+    "Mains",
+    "Équilibre"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Mikado",
+   "taboo": [
+    "Baguettes",
+    "Bouger",
+    "Tas",
+    "Retirer",
+    "Trembler"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Cluedo",
+   "taboo": [
+    "Meurtre",
+    "Colonel Moutarde",
+    "Suspect",
+    "Arme",
+    "Enquête"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Trivial Pursuit",
+   "taboo": [
+    "Camemberts",
+    "Questions",
+    "Couleurs",
+    "Culture générale",
+    "Quiz"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Jenga",
+   "taboo": [
+    "Tour",
+    "Bois",
+    "Tomber",
+    "Retirer",
+    "Blocs"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Sudoku",
+   "taboo": [
+    "Grille",
+    "Chiffres",
+    "Neuf",
+    "Ligne",
+    "Logique"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Chaises musicales",
+   "taboo": [
+    "Asseoir",
+    "Tourner",
+    "Arrêt",
+    "Éliminé",
+    "Une de moins"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Action ou vérité",
+   "taboo": [
+    "Défi",
+    "Gage",
+    "Question",
+    "Secret",
+    "Soirée"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Morpion",
+   "taboo": [
+    "Croix",
+    "Ronds",
+    "Grille",
+    "Aligner",
+    "Trois"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Pendu",
+   "taboo": [
+    "Lettres",
+    "Deviner",
+    "Mot",
+    "Potence",
+    "Dessin"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Jeu de dames",
+   "taboo": [
+    "Pions",
+    "Plateau",
+    "Manger",
+    "Noir et blanc",
+    "Diagonale"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Poker",
+   "taboo": [
+    "Cartes",
+    "Bluff",
+    "Jetons",
+    "Casino",
+    "Tapis"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Haute couture",
+   "taboo": [
+    "Défilé",
+    "Mannequins",
+    "Paris",
+    "Créateur",
+    "Robe"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Hippie",
+   "taboo": [
+    "Fleurs",
+    "Paix",
+    "Années 60",
+    "Peace and love",
+    "Cheveux longs"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Pull de Noël",
+   "taboo": [
+    "Moche",
+    "Rennes",
+    "Tricot",
+    "Laine",
+    "Décembre"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Ange",
+   "taboo": [
+    "Ailes",
+    "Auréole",
+    "Paradis",
+    "Gardien",
+    "Ciel"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Diable",
+   "taboo": [
+    "Cornes",
+    "Enfer",
+    "Fourche",
+    "Rouge",
+    "Satan"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Adam et Ève",
+   "taboo": [
+    "Pomme",
+    "Serpent",
+    "Paradis",
+    "Éden",
+    "Feuille de vigne"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Arche de Noé",
+   "taboo": [
+    "Animaux",
+    "Déluge",
+    "Bateau",
+    "Couples",
+    "Pluie"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Pape",
+   "taboo": [
+    "Vatican",
+    "Rome",
+    "Église",
+    "Catholique",
+    "Saint-Père"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Yin et yang",
+   "taboo": [
+    "Noir",
+    "Blanc",
+    "Équilibre",
+    "Chine",
+    "Cercle"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Trèfle à quatre feuilles",
+   "taboo": [
+    "Chance",
+    "Vert",
+    "Porte-bonheur",
+    "Irlande",
+    "Rare"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Chat noir",
+   "taboo": [
+    "Malchance",
+    "Superstition",
+    "Vendredi 13",
+    "Sorcière",
+    "Croiser"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Vendredi 13",
+   "taboo": [
+    "Malchance",
+    "Superstition",
+    "Loto",
+    "Peur",
+    "Chat noir"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Horoscope",
+   "taboo": [
+    "Signe",
+    "Astrologie",
+    "Bélier",
+    "Prédictions",
+    "Magazine"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Bible",
+   "taboo": [
+    "Ancien Testament",
+    "Livre",
+    "Dieu",
+    "Chrétiens",
+    "Évangile"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Latin",
+   "taboo": [
+    "Romains",
+    "Langue morte",
+    "Ancien",
+    "Messe",
+    "Rosa"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Espéranto",
+   "taboo": [
+    "Langue",
+    "Universelle",
+    "Inventée",
+    "Internationale",
+    "Zamenhof"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Verlan",
+   "taboo": [
+    "À l'envers",
+    "Argot",
+    "Syllabes",
+    "Meuf",
+    "Banlieue"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Braille",
+   "taboo": [
+    "Aveugles",
+    "Points",
+    "Lire",
+    "Relief",
+    "Toucher"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Langue des signes",
+   "taboo": [
+    "Sourds",
+    "Mains",
+    "Gestes",
+    "Muets",
+    "Communiquer"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Gaston Lagaffe",
+   "taboo": [
+    "Maladroit",
+    "Bureau",
+    "Spirou",
+    "Franquin",
+    "M'enfin"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Lucky Luke",
+   "taboo": [
+    "Cow-boy",
+    "Dalton",
+    "Jolly Jumper",
+    "Ombre",
+    "Western"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Les Schtroumpfs",
+   "taboo": [
+    "Bleus",
+    "Gargamel",
+    "Champignon",
+    "Lutins",
+    "Azraël"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Titeuf",
+   "taboo": [
+    "Mèche",
+    "Zep",
+    "École",
+    "Nadia",
+    "Pô juste"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Marsupilami",
+   "taboo": [
+    "Houba",
+    "Jaune",
+    "Queue",
+    "Taches",
+    "Jungle"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Manga",
+   "taboo": [
+    "Japon",
+    "Bande dessinée",
+    "Dragon Ball",
+    "Envers",
+    "Anime"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Bande dessinée",
+   "taboo": [
+    "Bulles",
+    "Cases",
+    "Dessins",
+    "Album",
+    "Angoulême"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Arsène Lupin",
+   "taboo": [
+    "Gentleman cambrioleur",
+    "Voleur",
+    "Monocle",
+    "Maurice Leblanc",
+    "Haut-de-forme"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Hercule Poirot",
+   "taboo": [
+    "Agatha Christie",
+    "Moustache",
+    "Détective",
+    "Belge",
+    "Petites cellules grises"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Le Petit Poucet",
+   "taboo": [
+    "Cailloux",
+    "Ogre",
+    "Bottes de sept lieues",
+    "Forêt",
+    "Frères"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Barbe bleue",
+   "taboo": [
+    "Clé",
+    "Épouses",
+    "Château",
+    "Perrault",
+    "Interdite"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Le Vilain Petit Canard",
+   "taboo": [
+    "Cygne",
+    "Moche",
+    "Andersen",
+    "Différent",
+    "Plumes"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Raiponce",
+   "taboo": [
+    "Cheveux",
+    "Tour",
+    "Tresse",
+    "Princesse",
+    "Sorcière"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Ali Baba",
+   "taboo": [
+    "Quarante voleurs",
+    "Sésame",
+    "Caverne",
+    "Trésor",
+    "Mille et une nuits"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Jack et le haricot magique",
+   "taboo": [
+    "Géant",
+    "Tige",
+    "Vache",
+    "Poule aux œufs d'or",
+    "Nuages"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Vingt mille lieues sous les mers",
+   "taboo": [
+    "Jules Verne",
+    "Nautilus",
+    "Capitaine Nemo",
+    "Sous-marin",
+    "Océan"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Le Tour du monde en 80 jours",
+   "taboo": [
+    "Jules Verne",
+    "Phileas Fogg",
+    "Pari",
+    "Passepartout",
+    "Ballon"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Robinson Crusoé",
+   "taboo": [
+    "Île déserte",
+    "Naufragé",
+    "Vendredi",
+    "Seul",
+    "Survie"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Moby Dick",
+   "taboo": [
+    "Baleine blanche",
+    "Capitaine Achab",
+    "Harpon",
+    "Mer",
+    "Obsession"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Le Malade imaginaire",
+   "taboo": [
+    "Molière",
+    "Argan",
+    "Hypocondriaque",
+    "Médecins",
+    "Théâtre"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Théâtre",
+   "taboo": [
+    "Scène",
+    "Rideau",
+    "Acteurs",
+    "Pièce",
+    "Applaudir"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Cirque",
+   "taboo": [
+    "Clown",
+    "Chapiteau",
+    "Acrobates",
+    "Dompteur",
+    "Jongleur"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Poésie",
+   "taboo": [
+    "Rimes",
+    "Vers",
+    "Strophe",
+    "Réciter",
+    "Alexandrin"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Tarot",
+   "taboo": [
+    "Cartes",
+    "Excuse",
+    "Petit au bout",
+    "Atout",
+    "Voyante"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Iznogoud",
+   "taboo": [
+    "Calife",
+    "Vizir",
+    "Méchant",
+    "Bagdad",
+    "Complot"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Boucle d'or",
+   "taboo": [
+    "Trois ours",
+    "Soupe",
+    "Blonde",
+    "Lit",
+    "Chaise"
+   ],
+   "level": 2
+  }
+ ]
+}

@@ -1,0 +1,1523 @@
+{
+ "category": "sport",
+ "cards": [
+  {
+   "word": "Tennis",
+   "taboo": [
+    "Raquette",
+    "Balle",
+    "Filet",
+    "Roland-Garros",
+    "Set"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Football",
+   "taboo": [
+    "Ballon",
+    "But",
+    "Pied",
+    "Gardien",
+    "Équipe"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Pétanque",
+   "taboo": [
+    "Boules",
+    "Cochonnet",
+    "Pointer",
+    "Tirer",
+    "Pastis"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Basket",
+   "taboo": [
+    "Panier",
+    "Dribble",
+    "NBA",
+    "Ballon",
+    "Rebond"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Rugby",
+   "taboo": [
+    "Ballon",
+    "Ovale",
+    "Essai",
+    "Mêlée",
+    "Plaquage"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Natation",
+   "taboo": [
+    "Piscine",
+    "Nager",
+    "Brasse",
+    "Crawl",
+    "Longueur"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Ski",
+   "taboo": [
+    "Neige",
+    "Montagne",
+    "Piste",
+    "Bâtons",
+    "Station"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Judo",
+   "taboo": [
+    "Kimono",
+    "Ceinture",
+    "Japon",
+    "Tatami",
+    "Prise"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Boxe",
+   "taboo": [
+    "Gants",
+    "Ring",
+    "Poing",
+    "Combat",
+    "Round"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Arbitre",
+   "taboo": [
+    "Sifflet",
+    "Carton",
+    "Match",
+    "Règles",
+    "Faute"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Surf",
+   "taboo": [
+    "Vague",
+    "Planche",
+    "Océan",
+    "Glisse",
+    "Hawaï"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Golf",
+   "taboo": [
+    "Trou",
+    "Club",
+    "Balle",
+    "Green",
+    "Caddie"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Jeux olympiques",
+   "taboo": [
+    "Anneaux",
+    "Médaille",
+    "Flamme",
+    "Athlètes",
+    "Quatre ans"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Coupe du monde",
+   "taboo": [
+    "Football",
+    "FIFA",
+    "Quatre ans",
+    "Trophée",
+    "Nations"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Médaille",
+   "taboo": [
+    "Or",
+    "Argent",
+    "Bronze",
+    "Podium",
+    "Récompense"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Podium",
+   "taboo": [
+    "Marches",
+    "Premier",
+    "Médaille",
+    "Vainqueur",
+    "Trois"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Trampoline",
+   "taboo": [
+    "Sauter",
+    "Rebondir",
+    "Toile",
+    "Ressorts",
+    "Jardin"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Équitation",
+   "taboo": [
+    "Cheval",
+    "Cavalier",
+    "Galop",
+    "Selle",
+    "Obstacle"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Tour de France",
+   "taboo": [
+    "Vélo",
+    "Maillot jaune",
+    "Juillet",
+    "Étape",
+    "Champs-Élysées"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Gardien de but",
+   "taboo": [
+    "Cage",
+    "Gants",
+    "Arrêt",
+    "Mains",
+    "Plonger"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Volley",
+   "taboo": [
+    "Filet",
+    "Smash",
+    "Plage",
+    "Manchette",
+    "Ballon"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Ping-pong",
+   "taboo": [
+    "Raquette",
+    "Table",
+    "Balle",
+    "Filet",
+    "Chine"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Yoga",
+   "taboo": [
+    "Méditation",
+    "Postures",
+    "Tapis",
+    "Respiration",
+    "Inde"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Musculation",
+   "taboo": [
+    "Haltères",
+    "Salle de sport",
+    "Poids",
+    "Biceps",
+    "Protéines"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Champion",
+   "taboo": [
+    "Gagnant",
+    "Premier",
+    "Titre",
+    "Victoire",
+    "Médaille"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Bowling",
+   "taboo": [
+    "Quilles",
+    "Boule",
+    "Piste",
+    "Strike",
+    "Chaussures"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Skateboard",
+   "taboo": [
+    "Planche",
+    "Roulettes",
+    "Rampe",
+    "Figures",
+    "Glisse"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Jogging",
+   "taboo": [
+    "Courir",
+    "Footing",
+    "Parc",
+    "Baskets",
+    "Matin"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Salle de sport",
+   "taboo": [
+    "Abonnement",
+    "Machines",
+    "Musculation",
+    "Coach",
+    "Haltères"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Formule 1",
+   "taboo": [
+    "Voiture",
+    "Course",
+    "Pilote",
+    "Circuit",
+    "Ferrari"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Snowboard",
+   "taboo": [
+    "Planche",
+    "Neige",
+    "Montagne",
+    "Glisse",
+    "Ski"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Frisbee",
+   "taboo": [
+    "Disque",
+    "Lancer",
+    "Plage",
+    "Chien",
+    "Attraper"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Haltère",
+   "taboo": [
+    "Poids",
+    "Musculation",
+    "Soulever",
+    "Bras",
+    "Barre"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Marathon",
+   "taboo": [
+    "Courir",
+    "Kilomètres",
+    "Endurance",
+    "Dossard",
+    "Grèce"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Penalty",
+   "taboo": [
+    "Gardien",
+    "Tir",
+    "Onze mètres",
+    "Faute",
+    "Surface"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Cyclisme",
+   "taboo": [
+    "Vélo",
+    "Pédaler",
+    "Roue",
+    "Peloton",
+    "Casque"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Carton rouge",
+   "taboo": [
+    "Arbitre",
+    "Expulsion",
+    "Faute",
+    "Jaune",
+    "Football"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Score",
+   "taboo": [
+    "Points",
+    "Tableau",
+    "Résultat",
+    "Match",
+    "Marquer"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Supporter",
+   "taboo": [
+    "Fan",
+    "Encourager",
+    "Écharpe",
+    "Chanter",
+    "Tribune"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Karaté",
+   "taboo": [
+    "Ceinture noire",
+    "Japon",
+    "Kata",
+    "Coup de pied",
+    "Arts martiaux"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Escalade",
+   "taboo": [
+    "Grimper",
+    "Mur",
+    "Corde",
+    "Prises",
+    "Baudrier"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Tir à l'arc",
+   "taboo": [
+    "Flèche",
+    "Cible",
+    "Robin des Bois",
+    "Corde",
+    "Viser"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Abdominaux",
+   "taboo": [
+    "Ventre",
+    "Tablette de chocolat",
+    "Muscles",
+    "Allongé",
+    "Gainage"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Pompes",
+   "taboo": [
+    "Bras",
+    "Sol",
+    "Exercice",
+    "Pectoraux",
+    "Militaire"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Échauffement",
+   "taboo": [
+    "Étirements",
+    "Muscles",
+    "Avant",
+    "Préparer",
+    "Blessure"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Hors-jeu",
+   "taboo": [
+    "Football",
+    "Arbitre",
+    "Défenseur",
+    "Attaquant",
+    "Drapeau"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Ola",
+   "taboo": [
+    "Stade",
+    "Bras",
+    "Vague",
+    "Public",
+    "Lever"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Corner",
+   "taboo": [
+    "Coin",
+    "Football",
+    "Drapeau",
+    "Tir",
+    "Coup de pied"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Handball",
+   "taboo": [
+    "Main",
+    "But",
+    "Gardien",
+    "Lancer",
+    "Sept"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Badminton",
+   "taboo": [
+    "Volant",
+    "Raquette",
+    "Filet",
+    "Plumes",
+    "Smash"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Escrime",
+   "taboo": [
+    "Épée",
+    "Fleuret",
+    "Masque",
+    "Touché",
+    "Duel"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Patinage artistique",
+   "taboo": [
+    "Glace",
+    "Pirouette",
+    "Danse",
+    "Couple",
+    "Jury"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Hockey",
+   "taboo": [
+    "Crosse",
+    "Palet",
+    "Glace",
+    "Canada",
+    "Patins"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Sprint",
+   "taboo": [
+    "Cent mètres",
+    "Vitesse",
+    "Courir",
+    "Usain Bolt",
+    "Rapide"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Saut en hauteur",
+   "taboo": [
+    "Barre",
+    "Tapis",
+    "Élan",
+    "Athlétisme",
+    "Bondir"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Javelot",
+   "taboo": [
+    "Lancer",
+    "Pointe",
+    "Athlétisme",
+    "Loin",
+    "Arme"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Athlétisme",
+   "taboo": [
+    "Piste",
+    "Course",
+    "Saut",
+    "Lancer",
+    "Stade"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Gymnastique",
+   "taboo": [
+    "Souplesse",
+    "Poutre",
+    "Barres",
+    "Justaucorps",
+    "Acrobaties"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Vestiaire",
+   "taboo": [
+    "Douche",
+    "Casiers",
+    "Se changer",
+    "Match",
+    "Mi-temps"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Mi-temps",
+   "taboo": [
+    "Pause",
+    "Match",
+    "Moitié",
+    "Vestiaire",
+    "Sifflet"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Finale",
+   "taboo": [
+    "Dernier",
+    "Match",
+    "Vainqueur",
+    "Demi",
+    "Trophée"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Trophée",
+   "taboo": [
+    "Coupe",
+    "Gagner",
+    "Récompense",
+    "Or",
+    "Vitrine"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Record",
+   "taboo": [
+    "Battre",
+    "Meilleur",
+    "Monde",
+    "Guinness",
+    "Performance"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Dopage",
+   "taboo": [
+    "Tricher",
+    "Interdit",
+    "Contrôle",
+    "Seringue",
+    "Produit"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Pom-pom girl",
+   "taboo": [
+    "Danser",
+    "Encourager",
+    "Américain",
+    "Équipe",
+    "Acrobaties"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Mascotte",
+   "taboo": [
+    "Costume",
+    "Équipe",
+    "Animal",
+    "Porte-bonheur",
+    "Peluche"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Fléchettes",
+   "taboo": [
+    "Cible",
+    "Lancer",
+    "Bar",
+    "Centre",
+    "Points"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Billard",
+   "taboo": [
+    "Queue",
+    "Boules",
+    "Table",
+    "Tapis vert",
+    "Trou"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Baby-foot",
+   "taboo": [
+    "Table",
+    "Barres",
+    "Tourner",
+    "Café",
+    "Joueurs"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Roller",
+   "taboo": [
+    "Patins",
+    "Roulettes",
+    "Genouillères",
+    "Casque",
+    "Glisser"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Parachutisme",
+   "taboo": [
+    "Sauter",
+    "Avion",
+    "Ciel",
+    "Toile",
+    "Altitude"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Saut à l'élastique",
+   "taboo": [
+    "Pont",
+    "Vide",
+    "Corde",
+    "Adrénaline",
+    "Tête en bas"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Plongée sous-marine",
+   "taboo": [
+    "Bouteille",
+    "Masque",
+    "Poissons",
+    "Palmes",
+    "Profondeur"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Canoë",
+   "taboo": [
+    "Pagaie",
+    "Rivière",
+    "Bateau",
+    "Kayak",
+    "Rapides"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Voile",
+   "taboo": [
+    "Bateau",
+    "Vent",
+    "Mer",
+    "Skipper",
+    "Mât"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Roland-Garros",
+   "taboo": [
+    "Tennis",
+    "Terre battue",
+    "Paris",
+    "Tournoi",
+    "Nadal"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Coup franc",
+   "taboo": [
+    "Mur",
+    "Faute",
+    "Football",
+    "Tirer",
+    "Arbitre"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Ligue des champions",
+   "taboo": [
+    "Europe",
+    "Clubs",
+    "Football",
+    "Hymne",
+    "Finale"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Mêlée",
+   "taboo": [
+    "Rugby",
+    "Pousser",
+    "Avants",
+    "Talonneur",
+    "Épaules"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Haka",
+   "taboo": [
+    "Nouvelle-Zélande",
+    "Danse",
+    "Rugby",
+    "All Blacks",
+    "Maoris"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Sumo",
+   "taboo": [
+    "Japon",
+    "Gros",
+    "Lutteurs",
+    "Pousser",
+    "Cercle"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Catch",
+   "taboo": [
+    "Ring",
+    "Lutte",
+    "Spectacle",
+    "Masque",
+    "Américain"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Kung-fu",
+   "taboo": [
+    "Chine",
+    "Arts martiaux",
+    "Bruce Lee",
+    "Shaolin",
+    "Panda"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Curling",
+   "taboo": [
+    "Balai",
+    "Glace",
+    "Pierre",
+    "Frotter",
+    "Canada"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Luge",
+   "taboo": [
+    "Glisser",
+    "Neige",
+    "Traîneau",
+    "Allongé",
+    "Pente"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Triathlon",
+   "taboo": [
+    "Nager",
+    "Vélo",
+    "Courir",
+    "Trois",
+    "Ironman"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Alpinisme",
+   "taboo": [
+    "Montagne",
+    "Sommet",
+    "Everest",
+    "Piolet",
+    "Corde"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Parapente",
+   "taboo": [
+    "Voile",
+    "Ciel",
+    "Voler",
+    "Montagne",
+    "Vent"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Zumba",
+   "taboo": [
+    "Danse",
+    "Fitness",
+    "Musique",
+    "Latino",
+    "Cours"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Crampons",
+   "taboo": [
+    "Chaussures",
+    "Football",
+    "Pointes",
+    "Pelouse",
+    "Boue"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Maillot jaune",
+   "taboo": [
+    "Tour de France",
+    "Vélo",
+    "Premier",
+    "Leader",
+    "Classement"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Tacle",
+   "taboo": [
+    "Glisser",
+    "Jambes",
+    "Défenseur",
+    "Faute",
+    "Football"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Les Bleus",
+   "taboo": [
+    "Équipe de France",
+    "Football",
+    "Coq",
+    "Maillot",
+    "Deschamps"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Entraînement",
+   "taboo": [
+    "Exercices",
+    "Répéter",
+    "Coach",
+    "Progresser",
+    "Séance"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Courbatures",
+   "taboo": [
+    "Muscles",
+    "Douleur",
+    "Lendemain",
+    "Effort",
+    "Raideur"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Baseball",
+   "taboo": [
+    "Batte",
+    "Casquette",
+    "États-Unis",
+    "Home run",
+    "Gant"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Football américain",
+   "taboo": [
+    "Casque",
+    "Super Bowl",
+    "Ovale",
+    "Touchdown",
+    "Épaulettes"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Course en sac",
+   "taboo": [
+    "Sauter",
+    "Kermesse",
+    "Enfants",
+    "Jute",
+    "Pommes de terre"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Balle aux prisonniers",
+   "taboo": [
+    "Équipes",
+    "Toucher",
+    "Lancer",
+    "Camp",
+    "Récréation"
+   ],
+   "level": 2
+  },
+  {
+   "word": "VTT",
+   "taboo": [
+    "Vélo",
+    "Forêt",
+    "Boue",
+    "Montagne",
+    "Chemins"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Bras de fer",
+   "taboo": [
+    "Table",
+    "Force",
+    "Coude",
+    "Main",
+    "Muscles"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Grand écart",
+   "taboo": [
+    "Jambes",
+    "Souplesse",
+    "Gymnastique",
+    "Danse",
+    "Van Damme"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Jeux paralympiques",
+   "taboo": [
+    "Handicap",
+    "Fauteuil roulant",
+    "Athlètes",
+    "Médailles",
+    "Prothèse"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Course de haies",
+   "taboo": [
+    "Sauter",
+    "Obstacles",
+    "Athlétisme",
+    "Barrières",
+    "Enjamber"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Prolongations",
+   "taboo": [
+    "Égalité",
+    "Minutes",
+    "Tirs au but",
+    "Supplémentaire",
+    "Match"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Dossard",
+   "taboo": [
+    "Numéro",
+    "Course",
+    "Épingles",
+    "Poitrine",
+    "Marathon"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Vendée Globe",
+   "taboo": [
+    "Bateau",
+    "Tour du monde",
+    "Voile",
+    "Solitaire",
+    "Les Sables-d'Olonne"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Rallye",
+   "taboo": [
+    "Voiture",
+    "Copilote",
+    "Dakar",
+    "Boue",
+    "Virages"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Grand Chelem",
+   "taboo": [
+    "Tennis",
+    "Quatre",
+    "Tournois",
+    "Roland-Garros",
+    "Wimbledon"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Wimbledon",
+   "taboo": [
+    "Tennis",
+    "Londres",
+    "Gazon",
+    "Blanc",
+    "Fraises"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Balle de match",
+   "taboo": [
+    "Tennis",
+    "Point",
+    "Gagner",
+    "Dernier",
+    "Victoire"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Tournoi des Six Nations",
+   "taboo": [
+    "Rugby",
+    "Angleterre",
+    "Irlande",
+    "Écosse",
+    "Pays de Galles"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Pelote basque",
+   "taboo": [
+    "Mur",
+    "Chistera",
+    "Fronton",
+    "Balle",
+    "Biarritz"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Cochonnet",
+   "taboo": [
+    "Pétanque",
+    "Boule",
+    "Bois",
+    "Petit",
+    "Lancer"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Mölkky",
+   "taboo": [
+    "Quilles",
+    "Bois",
+    "Lancer",
+    "Finlande",
+    "Cinquante"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Bobsleigh",
+   "taboo": [
+    "Luge",
+    "Piste",
+    "Rasta Rocket",
+    "Jamaïque",
+    "Vitesse"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Biathlon",
+   "taboo": [
+    "Ski",
+    "Tir",
+    "Carabine",
+    "Fond",
+    "Cible"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Slalom",
+   "taboo": [
+    "Portes",
+    "Ski",
+    "Zigzag",
+    "Piquets",
+    "Virages"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Décathlon",
+   "taboo": [
+    "Dix",
+    "Épreuves",
+    "Athlétisme",
+    "Magasin",
+    "Sport"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Spéléologie",
+   "taboo": [
+    "Grotte",
+    "Lampe frontale",
+    "Souterrain",
+    "Casque",
+    "Corde"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Protège-tibias",
+   "taboo": [
+    "Jambes",
+    "Football",
+    "Chaussettes",
+    "Coups",
+    "Os"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Peloton",
+   "taboo": [
+    "Cyclistes",
+    "Groupe",
+    "Vélo",
+    "Course",
+    "Échappée"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Petit pont",
+   "taboo": [
+    "Football",
+    "Jambes",
+    "Dribble",
+    "Ballon",
+    "Humiliation"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Hooligan",
+   "taboo": [
+    "Violence",
+    "Supporters",
+    "Bagarre",
+    "Stade",
+    "Anglais"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Vuvuzela",
+   "taboo": [
+    "Trompette",
+    "Bruit",
+    "Afrique du Sud",
+    "Supporters",
+    "Coupe du monde"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Coup d'envoi",
+   "taboo": [
+    "Début",
+    "Match",
+    "Sifflet",
+    "Milieu",
+    "Ballon"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Pari sportif",
+   "taboo": [
+    "Argent",
+    "Gagner",
+    "Match",
+    "Miser",
+    "Cote"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Tiercé",
+   "taboo": [
+    "Chevaux",
+    "Pari",
+    "Trois",
+    "Hippodrome",
+    "PMU"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Cricket",
+   "taboo": [
+    "Angleterre",
+    "Batte",
+    "Inde",
+    "Guichet",
+    "Blanc"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Water-polo",
+   "taboo": [
+    "Piscine",
+    "Ballon",
+    "Bonnet",
+    "But",
+    "Nager"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Natation synchronisée",
+   "taboo": [
+    "Piscine",
+    "Pince-nez",
+    "Danse",
+    "Ensemble",
+    "Sourire"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Squash",
+   "taboo": [
+    "Raquette",
+    "Mur",
+    "Balle",
+    "Rebond",
+    "Courge"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Starting-blocks",
+   "taboo": [
+    "Départ",
+    "Pieds",
+    "Sprint",
+    "Course",
+    "Accroupi"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Transfert",
+   "taboo": [
+    "Club",
+    "Joueur",
+    "Millions",
+    "Mercato",
+    "Changer"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Pole position",
+   "taboo": [
+    "Première place",
+    "Départ",
+    "Formule 1",
+    "Grille",
+    "Qualifications"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Fair-play",
+   "taboo": [
+    "Respect",
+    "Sportif",
+    "Règles",
+    "Adversaire",
+    "Honnête"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Poirier",
+   "taboo": [
+    "Tête",
+    "Mains",
+    "Équilibre",
+    "Envers",
+    "Arbre"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Aviron",
+   "taboo": [
+    "Rames",
+    "Bateau",
+    "Équipe",
+    "Rivière",
+    "Cambridge"
+   ],
+   "level": 3
+  }
+ ]
+}

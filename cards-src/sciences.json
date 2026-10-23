@@ -1,0 +1,1369 @@
+{
+ "category": "sciences",
+ "cards": [
+  {
+   "word": "Squelette",
+   "taboo": [
+    "Os",
+    "Crâne",
+    "Corps",
+    "Côtes",
+    "Halloween"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Cœur",
+   "taboo": [
+    "Battre",
+    "Sang",
+    "Amour",
+    "Poitrine",
+    "Organe"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Cerveau",
+   "taboo": [
+    "Tête",
+    "Penser",
+    "Intelligence",
+    "Neurones",
+    "Crâne"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Poumon",
+   "taboo": [
+    "Respirer",
+    "Air",
+    "Oxygène",
+    "Cigarette",
+    "Poitrine"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Estomac",
+   "taboo": [
+    "Ventre",
+    "Digestion",
+    "Manger",
+    "Faim",
+    "Acide"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Sang",
+   "taboo": [
+    "Rouge",
+    "Veines",
+    "Cœur",
+    "Globules",
+    "Blessure"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Muscle",
+   "taboo": [
+    "Force",
+    "Biceps",
+    "Sport",
+    "Corps",
+    "Crampe"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Œil",
+   "taboo": [
+    "Voir",
+    "Pupille",
+    "Iris",
+    "Paupière",
+    "Lunettes"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Oreille",
+   "taboo": [
+    "Entendre",
+    "Son",
+    "Tympan",
+    "Écouter",
+    "Sourd"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Nez",
+   "taboo": [
+    "Sentir",
+    "Odeur",
+    "Narines",
+    "Respirer",
+    "Rhume"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Virus",
+   "taboo": [
+    "Grippe",
+    "Maladie",
+    "Contagieux",
+    "Vaccin",
+    "Microbe"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Microscope",
+   "taboo": [
+    "Grossir",
+    "Lentille",
+    "Laboratoire",
+    "Cellules",
+    "Petit"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Grippe",
+   "taboo": [
+    "Fièvre",
+    "Virus",
+    "Hiver",
+    "Vaccin",
+    "Malade"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Fracture",
+   "taboo": [
+    "Os",
+    "Cassé",
+    "Plâtre",
+    "Béquilles",
+    "Radio"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Foie",
+   "taboo": [
+    "Organe",
+    "Alcool",
+    "Gras",
+    "Bile",
+    "Digestion"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Rein",
+   "taboo": [
+    "Urine",
+    "Dialyse",
+    "Organe",
+    "Greffe",
+    "Filtrer"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Colonne vertébrale",
+   "taboo": [
+    "Dos",
+    "Os",
+    "Moelle",
+    "Squelette",
+    "Scoliose"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Digestion",
+   "taboo": [
+    "Estomac",
+    "Intestin",
+    "Manger",
+    "Aliments",
+    "Ventre"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Respiration",
+   "taboo": [
+    "Poumons",
+    "Air",
+    "Souffle",
+    "Oxygène",
+    "Nez"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Puberté",
+   "taboo": [
+    "Adolescent",
+    "Hormones",
+    "Boutons",
+    "Croissance",
+    "Poils"
+   ],
+   "level": 2
+  },
+  {
+   "word": "ADN",
+   "taboo": [
+    "Gènes",
+    "Hélice",
+    "Chromosome",
+    "Hérédité",
+    "Cellule"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Cellule",
+   "taboo": [
+    "Noyau",
+    "Membrane",
+    "Microscope",
+    "Vivant",
+    "Prison"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Bactérie",
+   "taboo": [
+    "Microbe",
+    "Infection",
+    "Antibiotique",
+    "Maladie",
+    "Germe"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Antibiotique",
+   "taboo": [
+    "Bactéries",
+    "Médicament",
+    "Infection",
+    "Pénicilline",
+    "Automatique"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Allergie",
+   "taboo": [
+    "Pollen",
+    "Éternuer",
+    "Réaction",
+    "Cacahuète",
+    "Chat"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Radiographie",
+   "taboo": [
+    "Os",
+    "Rayons X",
+    "Fracture",
+    "Squelette",
+    "Hôpital"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Cicatrice",
+   "taboo": [
+    "Blessure",
+    "Peau",
+    "Marque",
+    "Coupure",
+    "Harry Potter"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Diabète",
+   "taboo": [
+    "Sucre",
+    "Insuline",
+    "Glycémie",
+    "Piqûre",
+    "Maladie"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Épidémie",
+   "taboo": [
+    "Maladie",
+    "Contagion",
+    "Pandémie",
+    "Virus",
+    "Covid"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Échographie",
+   "taboo": [
+    "Bébé",
+    "Enceinte",
+    "Grossesse",
+    "Gel",
+    "Écran"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Vitamine",
+   "taboo": [
+    "Orange",
+    "Fruits",
+    "Santé",
+    "Carence",
+    "Comprimé"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Empreinte digitale",
+   "taboo": [
+    "Doigt",
+    "Police",
+    "Unique",
+    "Trace",
+    "Encre"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Cinq sens",
+   "taboo": [
+    "Vue",
+    "Ouïe",
+    "Odorat",
+    "Toucher",
+    "Goût"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Myopie",
+   "taboo": [
+    "Lunettes",
+    "Loin",
+    "Flou",
+    "Voir",
+    "Yeux"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Neurone",
+   "taboo": [
+    "Cerveau",
+    "Cellule",
+    "Nerf",
+    "Connexion",
+    "Synapse"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Hormone",
+   "taboo": [
+    "Puberté",
+    "Glande",
+    "Adrénaline",
+    "Insuline",
+    "Croissance"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Chromosome",
+   "taboo": [
+    "ADN",
+    "Gènes",
+    "Cellule",
+    "Paire",
+    "Trisomie"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Placebo",
+   "taboo": [
+    "Médicament",
+    "Effet",
+    "Faux",
+    "Sucre",
+    "Psychologique"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Greffe",
+   "taboo": [
+    "Organe",
+    "Donneur",
+    "Cœur",
+    "Rein",
+    "Opération"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Anticorps",
+   "taboo": [
+    "Défense",
+    "Immunitaire",
+    "Vaccin",
+    "Virus",
+    "Sang"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Daltonien",
+   "taboo": [
+    "Couleurs",
+    "Rouge",
+    "Vert",
+    "Confondre",
+    "Yeux"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Électricité",
+   "taboo": [
+    "Courant",
+    "Prise",
+    "Énergie",
+    "Volt",
+    "Lumière"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Foudre",
+   "taboo": [
+    "Orage",
+    "Éclair",
+    "Tonnerre",
+    "Électricité",
+    "Ciel"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Arc-en-ciel",
+   "taboo": [
+    "Couleurs",
+    "Pluie",
+    "Soleil",
+    "Sept",
+    "Violet"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Gravité",
+   "taboo": [
+    "Newton",
+    "Pomme",
+    "Tomber",
+    "Attraction",
+    "Pesanteur"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Atome",
+   "taboo": [
+    "Noyau",
+    "Électron",
+    "Molécule",
+    "Particule",
+    "Petit"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Lumière",
+   "taboo": [
+    "Soleil",
+    "Lampe",
+    "Éclairer",
+    "Vitesse",
+    "Ombre"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Écho",
+   "taboo": [
+    "Montagne",
+    "Répéter",
+    "Son",
+    "Rebondir",
+    "Voix"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Apesanteur",
+   "taboo": [
+    "Espace",
+    "Flotter",
+    "Astronaute",
+    "Gravité",
+    "Station"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Big Bang",
+   "taboo": [
+    "Univers",
+    "Explosion",
+    "Origine",
+    "Théorie",
+    "Début"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Nucléaire",
+   "taboo": [
+    "Centrale",
+    "Atome",
+    "Énergie",
+    "Bombe",
+    "Uranium"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Relativité",
+   "taboo": [
+    "Einstein",
+    "Théorie",
+    "Temps",
+    "Espace",
+    "Vitesse"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Radioactivité",
+   "taboo": [
+    "Uranium",
+    "Tchernobyl",
+    "Nucléaire",
+    "Rayonnement",
+    "Marie Curie"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Levier",
+   "taboo": [
+    "Archimède",
+    "Soulever",
+    "Force",
+    "Point d'appui",
+    "Barre"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Oxygène",
+   "taboo": [
+    "Air",
+    "Respirer",
+    "Gaz",
+    "Poumons",
+    "Masque"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Molécule",
+   "taboo": [
+    "Atomes",
+    "Chimie",
+    "Formule",
+    "Eau",
+    "Liaison"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Acide",
+   "taboo": [
+    "Citron",
+    "Brûler",
+    "Corrosif",
+    "Vinaigre",
+    "Basique"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Rouille",
+   "taboo": [
+    "Fer",
+    "Oxydation",
+    "Orange",
+    "Humidité",
+    "Métal"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Hélium",
+   "taboo": [
+    "Ballon",
+    "Voix",
+    "Gaz",
+    "Léger",
+    "Aigu"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Évaporation",
+   "taboo": [
+    "Eau",
+    "Vapeur",
+    "Chaleur",
+    "Nuage",
+    "Sécher"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Tableau périodique",
+   "taboo": [
+    "Mendeleïev",
+    "Éléments",
+    "Chimie",
+    "Symboles",
+    "Atomes"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Carbone",
+   "taboo": [
+    "Charbon",
+    "Diamant",
+    "Empreinte",
+    "Dioxyde",
+    "Atome"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Mercure",
+   "taboo": [
+    "Thermomètre",
+    "Planète",
+    "Liquide",
+    "Métal",
+    "Toxique"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Combustion",
+   "taboo": [
+    "Feu",
+    "Brûler",
+    "Oxygène",
+    "Flamme",
+    "Chaleur"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Photosynthèse",
+   "taboo": [
+    "Plantes",
+    "Soleil",
+    "Chlorophylle",
+    "Feuilles",
+    "Oxygène"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Évolution",
+   "taboo": [
+    "Darwin",
+    "Espèces",
+    "Singe",
+    "Sélection",
+    "Adaptation"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Fossile",
+   "taboo": [
+    "Dinosaure",
+    "Pierre",
+    "Os",
+    "Ancien",
+    "Empreinte"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Métamorphose",
+   "taboo": [
+    "Chenille",
+    "Papillon",
+    "Transformation",
+    "Têtard",
+    "Grenouille"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Pollen",
+   "taboo": [
+    "Fleurs",
+    "Abeilles",
+    "Allergie",
+    "Printemps",
+    "Poussière"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Reptile",
+   "taboo": [
+    "Serpent",
+    "Lézard",
+    "Écailles",
+    "Crocodile",
+    "Sang froid"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Herbivore",
+   "taboo": [
+    "Plantes",
+    "Vache",
+    "Manger",
+    "Végétarien",
+    "Carnivore"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Racine",
+   "taboo": [
+    "Arbre",
+    "Plante",
+    "Terre",
+    "Carrée",
+    "Pousser"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Chaîne alimentaire",
+   "taboo": [
+    "Manger",
+    "Prédateur",
+    "Proie",
+    "Maillon",
+    "Animaux"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Clonage",
+   "taboo": [
+    "Dolly",
+    "Mouton",
+    "Copie",
+    "Identique",
+    "ADN"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Pollution",
+   "taboo": [
+    "Fumée",
+    "Usine",
+    "Voitures",
+    "Air",
+    "Déchets"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Éolienne",
+   "taboo": [
+    "Vent",
+    "Hélice",
+    "Énergie",
+    "Électricité",
+    "Moulin"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Recyclage",
+   "taboo": [
+    "Tri",
+    "Poubelle",
+    "Déchets",
+    "Plastique",
+    "Écologie"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Réchauffement climatique",
+   "taboo": [
+    "Planète",
+    "Température",
+    "CO2",
+    "Glaciers",
+    "Pollution"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Panneau solaire",
+   "taboo": [
+    "Soleil",
+    "Toit",
+    "Énergie",
+    "Électricité",
+    "Photovoltaïque"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Effet de serre",
+   "taboo": [
+    "Gaz",
+    "Réchauffement",
+    "Atmosphère",
+    "CO2",
+    "Chaleur"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Couche d'ozone",
+   "taboo": [
+    "Trou",
+    "Atmosphère",
+    "Ultraviolets",
+    "Soleil",
+    "Protéger"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Biodiversité",
+   "taboo": [
+    "Espèces",
+    "Animaux",
+    "Plantes",
+    "Nature",
+    "Disparition"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Déforestation",
+   "taboo": [
+    "Arbres",
+    "Amazonie",
+    "Couper",
+    "Bois",
+    "Tronçonneuse"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Marée noire",
+   "taboo": [
+    "Pétrole",
+    "Mer",
+    "Pollution",
+    "Plage",
+    "Oiseaux"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Planète",
+   "taboo": [
+    "Terre",
+    "Mars",
+    "Jupiter",
+    "Système solaire",
+    "Orbite"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Étoile",
+   "taboo": [
+    "Ciel",
+    "Nuit",
+    "Briller",
+    "Soleil",
+    "Filante"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Lune",
+   "taboo": [
+    "Nuit",
+    "Croissant",
+    "Pleine",
+    "Satellite",
+    "Terre"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Soleil",
+   "taboo": [
+    "Chaud",
+    "Lumière",
+    "Étoile",
+    "Jour",
+    "Jaune"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Télescope",
+   "taboo": [
+    "Étoiles",
+    "Lunette",
+    "Ciel",
+    "Observer",
+    "Astronomie"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Éclipse",
+   "taboo": [
+    "Soleil",
+    "Lune",
+    "Ombre",
+    "Cacher",
+    "Obscurité"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Saturne",
+   "taboo": [
+    "Anneaux",
+    "Planète",
+    "Gazeuse",
+    "Système solaire",
+    "Sixième"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Système solaire",
+   "taboo": [
+    "Planètes",
+    "Soleil",
+    "Orbite",
+    "Huit",
+    "Voie lactée"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Galaxie",
+   "taboo": [
+    "Étoiles",
+    "Voie lactée",
+    "Univers",
+    "Espace",
+    "Spirale"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Univers",
+   "taboo": [
+    "Espace",
+    "Infini",
+    "Big Bang",
+    "Galaxies",
+    "Tout"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Trou noir",
+   "taboo": [
+    "Espace",
+    "Aspirer",
+    "Lumière",
+    "Gravité",
+    "Étoile"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Météorite",
+   "taboo": [
+    "Dinosaures",
+    "Cratère",
+    "Tomber",
+    "Espace",
+    "Caillou"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Satellite",
+   "taboo": [
+    "Orbite",
+    "Lune",
+    "Espace",
+    "Antenne",
+    "GPS"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Constellation",
+   "taboo": [
+    "Étoiles",
+    "Grande Ourse",
+    "Zodiaque",
+    "Ciel",
+    "Dessin"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Marée",
+   "taboo": [
+    "Lune",
+    "Mer",
+    "Haute",
+    "Basse",
+    "Océan"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Comète",
+   "taboo": [
+    "Queue",
+    "Halley",
+    "Glace",
+    "Ciel",
+    "Étoile filante"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Orbite",
+   "taboo": [
+    "Tourner",
+    "Planète",
+    "Satellite",
+    "Trajectoire",
+    "Autour"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Solstice",
+   "taboo": [
+    "Été",
+    "Hiver",
+    "Jour",
+    "Juin",
+    "Décembre"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Année-lumière",
+   "taboo": [
+    "Distance",
+    "Étoile",
+    "Vitesse",
+    "Espace",
+    "Loin"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Aurore boréale",
+   "taboo": [
+    "Ciel",
+    "Lumières",
+    "Nord",
+    "Vert",
+    "Laponie"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Cercle",
+   "taboo": [
+    "Rond",
+    "Rayon",
+    "Compas",
+    "Pi",
+    "Diamètre"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Carré",
+   "taboo": [
+    "Quatre",
+    "Côtés",
+    "Égaux",
+    "Cube",
+    "Rectangle"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Soustraction",
+   "taboo": [
+    "Moins",
+    "Enlever",
+    "Retirer",
+    "Calcul",
+    "Différence"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Multiplication",
+   "taboo": [
+    "Fois",
+    "Tables",
+    "Produit",
+    "Calcul",
+    "Croix"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Zéro",
+   "taboo": [
+    "Rien",
+    "Nul",
+    "Nombre",
+    "Chiffre",
+    "Vide"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Rectangle",
+   "taboo": [
+    "Longueur",
+    "Largeur",
+    "Côtés",
+    "Carré",
+    "Quatre"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Cube",
+   "taboo": [
+    "Dé",
+    "Six",
+    "Faces",
+    "Carré",
+    "Rubik"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Pourcentage",
+   "taboo": [
+    "Soldes",
+    "Proportion",
+    "Taux",
+    "Réduction",
+    "Fraction"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Fraction",
+   "taboo": [
+    "Moitié",
+    "Diviser",
+    "Barre",
+    "Numérateur",
+    "Dénominateur"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Division",
+   "taboo": [
+    "Partager",
+    "Reste",
+    "Calcul",
+    "Quotient",
+    "Zéro"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Équation",
+   "taboo": [
+    "Inconnue",
+    "Égal",
+    "Résoudre",
+    "Maths",
+    "Formule"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Angle droit",
+   "taboo": [
+    "Quatre-vingt-dix",
+    "Équerre",
+    "Perpendiculaire",
+    "Degrés",
+    "Coin"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Symétrie",
+   "taboo": [
+    "Miroir",
+    "Axe",
+    "Pareil",
+    "Reflet",
+    "Pliage"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Million",
+   "taboo": [
+    "Zéros",
+    "Argent",
+    "Six",
+    "Loto",
+    "Beaucoup"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Moyenne",
+   "taboo": [
+    "Notes",
+    "Additionner",
+    "Diviser",
+    "Bulletin",
+    "Milieu"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Pi",
+   "taboo": [
+    "Cercle",
+    "Nombre",
+    "Décimales",
+    "Grec",
+    "Infini"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Infini",
+   "taboo": [
+    "Éternel",
+    "Huit",
+    "Nombre",
+    "Limite",
+    "Univers"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Nombre premier",
+   "taboo": [
+    "Diviser",
+    "Lui-même",
+    "Deux",
+    "Sept",
+    "Un"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Probabilité",
+   "taboo": [
+    "Chance",
+    "Hasard",
+    "Dé",
+    "Pourcentage",
+    "Pile ou face"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Périmètre",
+   "taboo": [
+    "Tour",
+    "Longueur",
+    "Côtés",
+    "Additionner",
+    "Aire"
+   ],
+   "level": 3
+  }
+ ]
+}

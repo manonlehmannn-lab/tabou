@@ -1,0 +1,1468 @@
+{
+ "category": "histoire",
+ "cards": [
+  {
+   "word": "Révolution française",
+   "taboo": [
+    "Bastille",
+    "1789",
+    "Louis XVI",
+    "Guillotine",
+    "Roi"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Bastille",
+   "taboo": [
+    "Prison",
+    "14 Juillet",
+    "Prise",
+    "Révolution",
+    "Paris"
+   ],
+   "level": 2
+  },
+  {
+   "word": "14 Juillet",
+   "taboo": [
+    "Fête nationale",
+    "Feux d'artifice",
+    "Défilé",
+    "Bastille",
+    "Bal"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Moyen Âge",
+   "taboo": [
+    "Chevaliers",
+    "Châteaux forts",
+    "Médiéval",
+    "Seigneurs",
+    "Croisades"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Chevalier",
+   "taboo": [
+    "Armure",
+    "Épée",
+    "Moyen Âge",
+    "Bouclier",
+    "Table ronde"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Château fort",
+   "taboo": [
+    "Donjon",
+    "Pont-levis",
+    "Douves",
+    "Remparts",
+    "Moyen Âge"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Armure",
+   "taboo": [
+    "Chevalier",
+    "Métal",
+    "Casque",
+    "Protéger",
+    "Moyen Âge"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Catapulte",
+   "taboo": [
+    "Lancer",
+    "Pierres",
+    "Siège",
+    "Machine",
+    "Projectile"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Seigneur",
+   "taboo": [
+    "Château",
+    "Paysans",
+    "Féodal",
+    "Vassal",
+    "Terres"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Croisades",
+   "taboo": [
+    "Jérusalem",
+    "Chevaliers",
+    "Chrétiens",
+    "Terre sainte",
+    "Pape"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Templiers",
+   "taboo": [
+    "Chevaliers",
+    "Trésor",
+    "Ordre",
+    "Croisades",
+    "Vendredi 13"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Peste noire",
+   "taboo": [
+    "Épidémie",
+    "Rats",
+    "Maladie",
+    "Moyen Âge",
+    "Morts"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Inquisition",
+   "taboo": [
+    "Église",
+    "Hérétiques",
+    "Bûcher",
+    "Torture",
+    "Espagne"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Chasse aux sorcières",
+   "taboo": [
+    "Bûcher",
+    "Salem",
+    "Balai",
+    "Magie",
+    "Procès"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Guerre de Cent Ans",
+   "taboo": [
+    "Jeanne d'Arc",
+    "Anglais",
+    "Moyen Âge",
+    "Longue",
+    "Azincourt"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Renaissance",
+   "taboo": [
+    "Léonard de Vinci",
+    "Italie",
+    "Arts",
+    "Humanisme",
+    "Michel-Ange"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Imprimerie",
+   "taboo": [
+    "Gutenberg",
+    "Livres",
+    "Presse",
+    "Caractères",
+    "Invention"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Découverte de l'Amérique",
+   "taboo": [
+    "Christophe Colomb",
+    "1492",
+    "Caravelles",
+    "Indes",
+    "Nouveau Monde"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Conquistador",
+   "taboo": [
+    "Espagnols",
+    "Aztèques",
+    "Incas",
+    "Or",
+    "Amérique"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Aztèques",
+   "taboo": [
+    "Mexique",
+    "Pyramides",
+    "Sacrifices",
+    "Mayas",
+    "Conquistadors"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Incas",
+   "taboo": [
+    "Pérou",
+    "Machu Picchu",
+    "Empire",
+    "Soleil",
+    "Conquistadors"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Antiquité",
+   "taboo": [
+    "Romains",
+    "Grecs",
+    "Ancien",
+    "Jules César",
+    "Pharaons"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Empire romain",
+   "taboo": [
+    "Jules César",
+    "Colisée",
+    "Gladiateurs",
+    "Légions",
+    "Toge"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Gladiateur",
+   "taboo": [
+    "Arène",
+    "Colisée",
+    "Combat",
+    "Romains",
+    "Lion"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Gaulois",
+   "taboo": [
+    "Astérix",
+    "Obélix",
+    "Romains",
+    "Vercingétorix",
+    "Druides"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Druide",
+   "taboo": [
+    "Gaulois",
+    "Potion magique",
+    "Gui",
+    "Panoramix",
+    "Celtes"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Alésia",
+   "taboo": [
+    "Vercingétorix",
+    "César",
+    "Gaulois",
+    "Défaite",
+    "Siège"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Pharaon",
+   "taboo": [
+    "Égypte",
+    "Pyramide",
+    "Momie",
+    "Roi",
+    "Toutankhamon"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Momie",
+   "taboo": [
+    "Bandelettes",
+    "Égypte",
+    "Sarcophage",
+    "Embaumer",
+    "Pharaon"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Hiéroglyphes",
+   "taboo": [
+    "Égypte",
+    "Écriture",
+    "Champollion",
+    "Symboles",
+    "Pierre de Rosette"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Cheval de Troie",
+   "taboo": [
+    "Grecs",
+    "Ruse",
+    "Ulysse",
+    "Bois",
+    "Guerre"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Pompéi",
+   "taboo": [
+    "Vésuve",
+    "Volcan",
+    "Éruption",
+    "Romains",
+    "Cendres"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Lascaux",
+   "taboo": [
+    "Grotte",
+    "Peintures",
+    "Préhistoire",
+    "Dordogne",
+    "Animaux"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Préhistoire",
+   "taboo": [
+    "Cavernes",
+    "Silex",
+    "Mammouths",
+    "Feu",
+    "Néandertal"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Homme des cavernes",
+   "taboo": [
+    "Préhistoire",
+    "Massue",
+    "Feu",
+    "Grotte",
+    "Mammouth"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Vikings",
+   "taboo": [
+    "Drakkar",
+    "Scandinavie",
+    "Casque",
+    "Cornes",
+    "Pillage"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Samouraï",
+   "taboo": [
+    "Japon",
+    "Sabre",
+    "Guerrier",
+    "Katana",
+    "Honneur"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Pirate",
+   "taboo": [
+    "Bateau",
+    "Trésor",
+    "Jambe de bois",
+    "Perroquet",
+    "Drapeau noir"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Mousquetaire",
+   "taboo": [
+    "Épée",
+    "D'Artagnan",
+    "Dumas",
+    "Roi",
+    "Trois"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Duel",
+   "taboo": [
+    "Épée",
+    "Pistolet",
+    "Honneur",
+    "Combat",
+    "Témoins"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Roi",
+   "taboo": [
+    "Couronne",
+    "Reine",
+    "Trône",
+    "Sceptre",
+    "Monarchie"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Sacre",
+   "taboo": [
+    "Couronne",
+    "Reims",
+    "Roi",
+    "Cathédrale",
+    "Napoléon"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Noblesse",
+   "taboo": [
+    "Aristocrates",
+    "Titre",
+    "Château",
+    "Comte",
+    "Privilèges"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Tiers état",
+   "taboo": [
+    "Révolution",
+    "Peuple",
+    "Clergé",
+    "Noblesse",
+    "Paysans"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Guillotine",
+   "taboo": [
+    "Révolution",
+    "Tête",
+    "Couper",
+    "Bourreau",
+    "Louis XVI"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Droits de l'homme",
+   "taboo": [
+    "Déclaration",
+    "1789",
+    "Liberté",
+    "Égalité",
+    "Révolution"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Marianne",
+   "taboo": [
+    "République",
+    "Bonnet phrygien",
+    "Buste",
+    "Symbole",
+    "Mairie"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Waterloo",
+   "taboo": [
+    "Napoléon",
+    "Défaite",
+    "Belgique",
+    "1815",
+    "Bataille"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Marignan",
+   "taboo": [
+    "1515",
+    "François Ier",
+    "Bataille",
+    "Victoire",
+    "Italie"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Première Guerre mondiale",
+   "taboo": [
+    "Tranchées",
+    "Poilus",
+    "1914",
+    "Verdun",
+    "Armistice"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Tranchées",
+   "taboo": [
+    "14-18",
+    "Boue",
+    "Soldats",
+    "Barbelés",
+    "Creuser"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Armistice",
+   "taboo": [
+    "11 Novembre",
+    "1918",
+    "Paix",
+    "Guerre",
+    "Fin"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Seconde Guerre mondiale",
+   "taboo": [
+    "Hitler",
+    "1945",
+    "Nazis",
+    "Résistance",
+    "Alliés"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Résistance",
+   "taboo": [
+    "Maquis",
+    "Occupation",
+    "De Gaulle",
+    "Jean Moulin",
+    "Allemands"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Débarquement",
+   "taboo": [
+    "Normandie",
+    "1944",
+    "Alliés",
+    "Américains",
+    "Plages"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Libération",
+   "taboo": [
+    "Paris",
+    "1944",
+    "De Gaulle",
+    "Fête",
+    "Allemands"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Ligne Maginot",
+   "taboo": [
+    "Fortifications",
+    "Frontière",
+    "Allemagne",
+    "Défense",
+    "1940"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Rationnement",
+   "taboo": [
+    "Tickets",
+    "Pénurie",
+    "Guerre",
+    "Nourriture",
+    "Restrictions"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Guerre froide",
+   "taboo": [
+    "États-Unis",
+    "Soviétiques",
+    "Nucléaire",
+    "Espions",
+    "Mur de Berlin"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Mur de Berlin",
+   "taboo": [
+    "Allemagne",
+    "Chute",
+    "1989",
+    "Est",
+    "Guerre froide"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Rideau de fer",
+   "taboo": [
+    "Guerre froide",
+    "Europe",
+    "Est",
+    "Churchill",
+    "Communisme"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Révolution russe",
+   "taboo": [
+    "Lénine",
+    "1917",
+    "Tsar",
+    "Bolcheviks",
+    "Communisme"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Guerre de Sécession",
+   "taboo": [
+    "Nord",
+    "Sud",
+    "Esclavage",
+    "Lincoln",
+    "États-Unis"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Pearl Harbor",
+   "taboo": [
+    "Japon",
+    "Attaque",
+    "Hawaï",
+    "1941",
+    "Américains"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Mai 68",
+   "taboo": [
+    "Étudiants",
+    "Grève",
+    "Barricades",
+    "Pavés",
+    "Révolte"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Front populaire",
+   "taboo": [
+    "Congés payés",
+    "1936",
+    "Léon Blum",
+    "Grèves",
+    "Gauche"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Années folles",
+   "taboo": [
+    "1920",
+    "Charleston",
+    "Jazz",
+    "Après-guerre",
+    "Fête"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Prohibition",
+   "taboo": [
+    "Alcool",
+    "Interdiction",
+    "Al Capone",
+    "Contrebande",
+    "Chicago"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Trente Glorieuses",
+   "taboo": [
+    "Croissance",
+    "Après-guerre",
+    "Prospérité",
+    "Économie",
+    "Plein emploi"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Révolution industrielle",
+   "taboo": [
+    "Machine à vapeur",
+    "Usines",
+    "Charbon",
+    "Ouvriers",
+    "XIXe siècle"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Ruée vers l'or",
+   "taboo": [
+    "Californie",
+    "Chercheurs",
+    "Pépites",
+    "Far West",
+    "Mines"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Far West",
+   "taboo": [
+    "Cowboys",
+    "Saloon",
+    "Shérif",
+    "Indiens",
+    "Diligence"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Suffragettes",
+   "taboo": [
+    "Femmes",
+    "Droit de vote",
+    "Angleterre",
+    "Égalité",
+    "Manifestations"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Empire ottoman",
+   "taboo": [
+    "Sultan",
+    "Istanbul",
+    "Turquie",
+    "Constantinople",
+    "Orient"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Archéologie",
+   "taboo": [
+    "Fouilles",
+    "Vestiges",
+    "Ossements",
+    "Pinceau",
+    "Indiana Jones"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Volcan",
+   "taboo": [
+    "Lave",
+    "Éruption",
+    "Cratère",
+    "Magma",
+    "Feu"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Désert",
+   "taboo": [
+    "Sable",
+    "Chaleur",
+    "Dunes",
+    "Chameau",
+    "Oasis"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Oasis",
+   "taboo": [
+    "Désert",
+    "Palmiers",
+    "Eau",
+    "Mirage",
+    "Puits"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Équateur",
+   "taboo": [
+    "Ligne",
+    "Hémisphères",
+    "Latitude",
+    "Milieu",
+    "Chaleur"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Fleuve",
+   "taboo": [
+    "Rivière",
+    "Mer",
+    "Embouchure",
+    "Eau",
+    "Seine"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Île",
+   "taboo": [
+    "Mer",
+    "Entourée",
+    "Eau",
+    "Archipel",
+    "Bateau"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Continent",
+   "taboo": [
+    "Afrique",
+    "Europe",
+    "Asie",
+    "Amérique",
+    "Terre"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Amazonie",
+   "taboo": [
+    "Forêt",
+    "Brésil",
+    "Jungle",
+    "Fleuve",
+    "Poumon"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Himalaya",
+   "taboo": [
+    "Everest",
+    "Montagnes",
+    "Tibet",
+    "Népal",
+    "Asie"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Everest",
+   "taboo": [
+    "Plus haut",
+    "Sommet",
+    "Alpinistes",
+    "Sherpas",
+    "Himalaya"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Sahara",
+   "taboo": [
+    "Désert",
+    "Afrique",
+    "Sable",
+    "Dunes",
+    "Touaregs"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Méditerranée",
+   "taboo": [
+    "Mer",
+    "Sud",
+    "Chaude",
+    "Italie",
+    "Plages"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Océan",
+   "taboo": [
+    "Mer",
+    "Atlantique",
+    "Pacifique",
+    "Vagues",
+    "Sel"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Montagne",
+   "taboo": [
+    "Sommet",
+    "Neige",
+    "Ski",
+    "Altitude",
+    "Randonnée"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Mont Blanc",
+   "taboo": [
+    "Alpes",
+    "Chamonix",
+    "Plus haut",
+    "Neige",
+    "Glacier"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Alpes",
+   "taboo": [
+    "Montagnes",
+    "Ski",
+    "Suisse",
+    "Savoie",
+    "Chamonix"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Pyrénées",
+   "taboo": [
+    "Montagnes",
+    "Espagne",
+    "Frontière",
+    "Andorre",
+    "Sud-Ouest"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Glacier",
+   "taboo": [
+    "Fondre",
+    "Montagne",
+    "Neige",
+    "Réchauffement",
+    "Alpes"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Iceberg",
+   "taboo": [
+    "Glace",
+    "Titanic",
+    "Flotter",
+    "Banquise",
+    "Pôle Nord"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Banquise",
+   "taboo": [
+    "Glace",
+    "Ours blanc",
+    "Pôle",
+    "Fondre",
+    "Pingouins"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Pôle Nord",
+   "taboo": [
+    "Froid",
+    "Glace",
+    "Ours blanc",
+    "Père Noël",
+    "Arctique"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Antarctique",
+   "taboo": [
+    "Pôle Sud",
+    "Manchots",
+    "Continent",
+    "Glace",
+    "Expéditions"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Forêt",
+   "taboo": [
+    "Arbres",
+    "Bois",
+    "Champignons",
+    "Chasse",
+    "Sapins"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Jungle",
+   "taboo": [
+    "Lianes",
+    "Tarzan",
+    "Singes",
+    "Humide",
+    "Tropicale"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Savane",
+   "taboo": [
+    "Afrique",
+    "Lions",
+    "Herbe",
+    "Safari",
+    "Girafes"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Falaise",
+   "taboo": [
+    "Rocher",
+    "Mer",
+    "Étretat",
+    "Vide",
+    "Escalade"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Grotte",
+   "taboo": [
+    "Caverne",
+    "Stalactites",
+    "Sombre",
+    "Spéléologie",
+    "Chauve-souris"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Cascade",
+   "taboo": [
+    "Eau",
+    "Chute",
+    "Rochers",
+    "Rivière",
+    "Bruit"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Lac",
+   "taboo": [
+    "Eau",
+    "Étang",
+    "Barque",
+    "Pêche",
+    "Douce"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Marais",
+   "taboo": [
+    "Boue",
+    "Moustiques",
+    "Grenouilles",
+    "Roseaux",
+    "Humide"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Presqu'île",
+   "taboo": [
+    "Mer",
+    "Terre",
+    "Entourée",
+    "Péninsule",
+    "Isthme"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Archipel",
+   "taboo": [
+    "Îles",
+    "Groupe",
+    "Mer",
+    "Plusieurs",
+    "Polynésie"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Tropiques",
+   "taboo": [
+    "Cancer",
+    "Capricorne",
+    "Chaleur",
+    "Latitude",
+    "Équateur"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Hémisphère",
+   "taboo": [
+    "Nord",
+    "Sud",
+    "Moitié",
+    "Terre",
+    "Équateur"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Méridien",
+   "taboo": [
+    "Greenwich",
+    "Longitude",
+    "Ligne",
+    "Zéro",
+    "Pôles"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Fuseau horaire",
+   "taboo": [
+    "Décalage",
+    "Heure",
+    "Greenwich",
+    "Pays",
+    "Jet lag"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Globe terrestre",
+   "taboo": [
+    "Boule",
+    "Pays",
+    "Tourner",
+    "Carte",
+    "Planète"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Nil",
+   "taboo": [
+    "Égypte",
+    "Fleuve",
+    "Afrique",
+    "Crocodiles",
+    "Long"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Seine",
+   "taboo": [
+    "Paris",
+    "Fleuve",
+    "Péniches",
+    "Ponts",
+    "Bateaux-mouches"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Rhin",
+   "taboo": [
+    "Allemagne",
+    "Fleuve",
+    "Strasbourg",
+    "Frontière",
+    "Alsace"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Mississippi",
+   "taboo": [
+    "Fleuve",
+    "États-Unis",
+    "Louisiane",
+    "Tom Sawyer",
+    "Delta"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Mer Morte",
+   "taboo": [
+    "Sel",
+    "Flotter",
+    "Israël",
+    "Jordanie",
+    "Basse"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Manche",
+   "taboo": [
+    "Mer",
+    "Angleterre",
+    "Tunnel",
+    "Traversée",
+    "Calais"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Canal de Suez",
+   "taboo": [
+    "Égypte",
+    "Bateaux",
+    "Mer Rouge",
+    "Méditerranée",
+    "Navigation"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Afrique",
+   "taboo": [
+    "Continent",
+    "Savane",
+    "Sahara",
+    "Lions",
+    "Égypte"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Asie",
+   "taboo": [
+    "Chine",
+    "Japon",
+    "Inde",
+    "Continent",
+    "Riz"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Europe",
+   "taboo": [
+    "Continent",
+    "Union",
+    "Bruxelles",
+    "France",
+    "Allemagne"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Mousson",
+   "taboo": [
+    "Pluie",
+    "Asie",
+    "Inde",
+    "Saison",
+    "Vent"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Tsunami",
+   "taboo": [
+    "Vague",
+    "Séisme",
+    "Japon",
+    "Raz-de-marée",
+    "Océan"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Geyser",
+   "taboo": [
+    "Eau chaude",
+    "Jaillir",
+    "Islande",
+    "Vapeur",
+    "Yellowstone"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Frontière",
+   "taboo": [
+    "Pays",
+    "Douane",
+    "Limite",
+    "Passeport",
+    "Traverser"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Capitale",
+   "taboo": [
+    "Ville",
+    "Pays",
+    "Gouvernement",
+    "Paris",
+    "Principale"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Hexagone",
+   "taboo": [
+    "France",
+    "Six côtés",
+    "Forme",
+    "Pays",
+    "Géométrie"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Fjord",
+   "taboo": [
+    "Norvège",
+    "Mer",
+    "Glacier",
+    "Montagne",
+    "Étroit"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Triangle des Bermudes",
+   "taboo": [
+    "Disparitions",
+    "Avions",
+    "Bateaux",
+    "Mystère",
+    "Océan"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Méandre",
+   "taboo": [
+    "Rivière",
+    "Courbe",
+    "Virage",
+    "Boucle",
+    "Fleuve"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Lagon",
+   "taboo": [
+    "Eau",
+    "Turquoise",
+    "Récif",
+    "Tahiti",
+    "Polynésie"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Grande barrière de corail",
+   "taboo": [
+    "Australie",
+    "Poissons",
+    "Plongée",
+    "Récif",
+    "Couleurs"
+   ],
+   "level": 3
+  }
+ ]
+}

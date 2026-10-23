@@ -1,0 +1,1688 @@
+{
+ "category": "expressions",
+ "cards": [
+  {
+   "word": "Poser un lapin",
+   "taboo": [
+    "Rendez-vous",
+    "Attendre",
+    "Absent",
+    "Oublier",
+    "Venir"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Avoir le cafard",
+   "taboo": [
+    "Triste",
+    "Déprime",
+    "Moral",
+    "Mélancolie",
+    "Blues"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Coûter les yeux de la tête",
+   "taboo": [
+    "Cher",
+    "Prix",
+    "Argent",
+    "Fortune",
+    "Ruine"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Tomber dans les pommes",
+   "taboo": [
+    "S'évanouir",
+    "Malaise",
+    "Connaissance",
+    "Inconscient",
+    "Sol"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Avoir un poil dans la main",
+   "taboo": [
+    "Paresseux",
+    "Fainéant",
+    "Travail",
+    "Flemme",
+    "Effort"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Donner sa langue au chat",
+   "taboo": [
+    "Renoncer",
+    "Deviner",
+    "Réponse",
+    "Énigme",
+    "Solution"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Avoir le cœur sur la main",
+   "taboo": [
+    "Généreux",
+    "Gentil",
+    "Donner",
+    "Partager",
+    "Bonté"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Casser les pieds",
+   "taboo": [
+    "Ennuyer",
+    "Embêter",
+    "Agacer",
+    "Pénible",
+    "Lourd"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Prendre ses jambes à son cou",
+   "taboo": [
+    "Fuir",
+    "Vite",
+    "Détaler",
+    "Peur",
+    "Se sauver"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Il pleut des cordes",
+   "taboo": [
+    "Pluie",
+    "Averse",
+    "Orage",
+    "Mouillé",
+    "Trombes"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Avoir une faim de loup",
+   "taboo": [
+    "Affamé",
+    "Manger",
+    "Ventre",
+    "Creux",
+    "Dévorer"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Avoir la chair de poule",
+   "taboo": [
+    "Frissons",
+    "Froid",
+    "Peur",
+    "Peau",
+    "Poils"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Les doigts dans le nez",
+   "taboo": [
+    "Facile",
+    "Fastoche",
+    "Effort",
+    "Gagner",
+    "Simple"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Donner un coup de main",
+   "taboo": [
+    "Aider",
+    "Service",
+    "Soutien",
+    "Ensemble",
+    "Contribuer"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Être aux anges",
+   "taboo": [
+    "Heureux",
+    "Joie",
+    "Ravi",
+    "Content",
+    "Comblé"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Faire la tête",
+   "taboo": [
+    "Bouder",
+    "Fâché",
+    "Vexé",
+    "Parler",
+    "Silence"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Avoir du pain sur la planche",
+   "taboo": [
+    "Travail",
+    "Boulot",
+    "Occupé",
+    "Tâches",
+    "Beaucoup"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Avoir la main verte",
+   "taboo": [
+    "Jardinage",
+    "Plantes",
+    "Fleurs",
+    "Pousser",
+    "Potager"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Être une poule mouillée",
+   "taboo": [
+    "Peureux",
+    "Lâche",
+    "Courage",
+    "Trouillard",
+    "Oser"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Avoir le coup de foudre",
+   "taboo": [
+    "Amour",
+    "Rencontre",
+    "Regard",
+    "Instant",
+    "Cœur"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Se creuser la tête",
+   "taboo": [
+    "Réfléchir",
+    "Penser",
+    "Cerveau",
+    "Chercher",
+    "Méninges"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Il fait un froid de canard",
+   "taboo": [
+    "Glacial",
+    "Hiver",
+    "Gel",
+    "Température",
+    "Grelotter"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Avoir le trac",
+   "taboo": [
+    "Scène",
+    "Stress",
+    "Peur",
+    "Spectacle",
+    "Angoisse"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Rouler sur l'or",
+   "taboo": [
+    "Riche",
+    "Fortune",
+    "Argent",
+    "Millionnaire",
+    "Luxe"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Chanter comme une casserole",
+   "taboo": [
+    "Faux",
+    "Voix",
+    "Oreille",
+    "Juste",
+    "Karaoké"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Péter les plombs",
+   "taboo": [
+    "Craquer",
+    "Énerver",
+    "Fou",
+    "Crise",
+    "Exploser"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Tourner la page",
+   "taboo": [
+    "Oublier",
+    "Passé",
+    "Avancer",
+    "Recommencer",
+    "Nouveau"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Être muet comme une carpe",
+   "taboo": [
+    "Silence",
+    "Taire",
+    "Parler",
+    "Secret",
+    "Bouche"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Dormir comme un loir",
+   "taboo": [
+    "Sommeil",
+    "Profondément",
+    "Marmotte",
+    "Ronfler",
+    "Réveiller"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Être une tête de mule",
+   "taboo": [
+    "Têtu",
+    "Obstiné",
+    "Borné",
+    "Céder",
+    "Caractère"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Faire le pont",
+   "taboo": [
+    "Férié",
+    "Vacances",
+    "Jeudi",
+    "Vendredi",
+    "Week-end"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Être dans la lune",
+   "taboo": [
+    "Rêveur",
+    "Distrait",
+    "Ailleurs",
+    "Inattention",
+    "Penser"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Avoir la pêche",
+   "taboo": [
+    "Forme",
+    "Énergie",
+    "Dynamique",
+    "Fatigué",
+    "Moral"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Les yeux plus gros que le ventre",
+   "taboo": [
+    "Gourmand",
+    "Assiette",
+    "Finir",
+    "Manger",
+    "Trop"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Raconter des salades",
+   "taboo": [
+    "Mentir",
+    "Histoires",
+    "Bobards",
+    "Inventer",
+    "Croire"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Avoir la grosse tête",
+   "taboo": [
+    "Prétentieux",
+    "Orgueilleux",
+    "Vaniteux",
+    "Ego",
+    "Modestie"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Avoir du bol",
+   "taboo": [
+    "Chance",
+    "Veinard",
+    "Hasard",
+    "Sort",
+    "Loterie"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Mettre les pieds dans le plat",
+   "taboo": [
+    "Gaffe",
+    "Maladroit",
+    "Sujet",
+    "Gênant",
+    "Délicat"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Passer un savon",
+   "taboo": [
+    "Gronder",
+    "Réprimande",
+    "Disputer",
+    "Colère",
+    "Sermon"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Mener en bateau",
+   "taboo": [
+    "Tromper",
+    "Mentir",
+    "Duper",
+    "Berner",
+    "Croire"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Tomber dans le panneau",
+   "taboo": [
+    "Piège",
+    "Tromper",
+    "Croire",
+    "Naïf",
+    "Arnaque"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Être comme chien et chat",
+   "taboo": [
+    "Disputer",
+    "Entendre",
+    "Bagarre",
+    "Ennemis",
+    "Frères"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Faire l'école buissonnière",
+   "taboo": [
+    "Sécher",
+    "Cours",
+    "Classe",
+    "Absent",
+    "Élève"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Ça saute aux yeux",
+   "taboo": [
+    "Évident",
+    "Clair",
+    "Visible",
+    "Flagrant",
+    "Voir"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Jeter l'éponge",
+   "taboo": [
+    "Abandonner",
+    "Boxe",
+    "Renoncer",
+    "Arrêter",
+    "Combat"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Se lever du pied gauche",
+   "taboo": [
+    "Humeur",
+    "Matin",
+    "Grincheux",
+    "Réveil",
+    "Journée"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Se mettre sur son trente-et-un",
+   "taboo": [
+    "Élégant",
+    "Habillé",
+    "Costume",
+    "Chic",
+    "Tenue"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Dormir sur ses deux oreilles",
+   "taboo": [
+    "Tranquille",
+    "Sommeil",
+    "Inquiet",
+    "Serein",
+    "Rassuré"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Tirer les vers du nez",
+   "taboo": [
+    "Secret",
+    "Avouer",
+    "Questions",
+    "Information",
+    "Parler"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Chercher la petite bête",
+   "taboo": [
+    "Défaut",
+    "Critiquer",
+    "Pinailler",
+    "Erreur",
+    "Détail"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Avoir un chat dans la gorge",
+   "taboo": [
+    "Voix",
+    "Tousser",
+    "Enroué",
+    "Rauque",
+    "Racler"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Être un cordon-bleu",
+   "taboo": [
+    "Cuisine",
+    "Plats",
+    "Délicieux",
+    "Recettes",
+    "Doué"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Se serrer la ceinture",
+   "taboo": [
+    "Économiser",
+    "Dépenser",
+    "Argent",
+    "Privations",
+    "Budget"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Jeter l'argent par les fenêtres",
+   "taboo": [
+    "Dépenser",
+    "Gaspiller",
+    "Économe",
+    "Riche",
+    "Folies"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Mettre son grain de sel",
+   "taboo": [
+    "Avis",
+    "Intervenir",
+    "Se mêler",
+    "Conversation",
+    "Commentaire"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Tourner autour du pot",
+   "taboo": [
+    "Hésiter",
+    "Direct",
+    "Franchement",
+    "Éviter",
+    "Sujet"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Mettre les bouchées doubles",
+   "taboo": [
+    "Accélérer",
+    "Vite",
+    "Effort",
+    "Rattraper",
+    "Rythme"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Avoir la langue bien pendue",
+   "taboo": [
+    "Bavard",
+    "Parler",
+    "Causer",
+    "Discuter",
+    "Pipelette"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Tenir la chandelle",
+   "taboo": [
+    "Couple",
+    "Amoureux",
+    "Seul",
+    "Trois",
+    "Gêne"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Faire la sourde oreille",
+   "taboo": [
+    "Ignorer",
+    "Entendre",
+    "Écouter",
+    "Semblant",
+    "Répondre"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Ne pas avoir froid aux yeux",
+   "taboo": [
+    "Courage",
+    "Audace",
+    "Oser",
+    "Peur",
+    "Téméraire"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Être sur la paille",
+   "taboo": [
+    "Pauvre",
+    "Ruiné",
+    "Argent",
+    "Fauché",
+    "Misère"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Avoir un oursin dans la poche",
+   "taboo": [
+    "Radin",
+    "Avare",
+    "Payer",
+    "Pingre",
+    "Argent"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Les carottes sont cuites",
+   "taboo": [
+    "Fini",
+    "Perdu",
+    "Espoir",
+    "Trop tard",
+    "Échec"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Prendre la mouche",
+   "taboo": [
+    "Vexé",
+    "Susceptible",
+    "Fâché",
+    "Énerver",
+    "Colère"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Se mettre le doigt dans l'œil",
+   "taboo": [
+    "Tromper",
+    "Erreur",
+    "Faux",
+    "Illusion",
+    "Méprendre"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Tomber à pic",
+   "taboo": [
+    "Pile",
+    "Moment",
+    "Parfait",
+    "Opportun",
+    "Bienvenu"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Faire d'une pierre deux coups",
+   "taboo": [
+    "Double",
+    "Efficace",
+    "Fois",
+    "Atteindre",
+    "Objectifs"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Briser la glace",
+   "taboo": [
+    "Timidité",
+    "Rencontre",
+    "Conversation",
+    "Gêne",
+    "Détendre"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Être dans de beaux draps",
+   "taboo": [
+    "Ennuis",
+    "Problème",
+    "Pétrin",
+    "Situation",
+    "Galère"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Mettre les voiles",
+   "taboo": [
+    "Partir",
+    "Fuir",
+    "Bateau",
+    "Quitter",
+    "Discrètement"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Il y a anguille sous roche",
+   "taboo": [
+    "Louche",
+    "Secret",
+    "Cacher",
+    "Suspect",
+    "Soupçon"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Faire un tabac",
+   "taboo": [
+    "Succès",
+    "Triomphe",
+    "Carton",
+    "Public",
+    "Applaudir"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Avoir un coup de barre",
+   "taboo": [
+    "Fatigue",
+    "Sommeil",
+    "Sieste",
+    "Soudain",
+    "Bâiller"
+   ],
+   "level": 2
+  },
+  {
+   "word": "En faire tout un fromage",
+   "taboo": [
+    "Exagérer",
+    "Dramatiser",
+    "Histoire",
+    "Importance",
+    "Rien"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Pleurer comme une madeleine",
+   "taboo": [
+    "Larmes",
+    "Sangloter",
+    "Triste",
+    "Chagrin",
+    "Mouchoir"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Rire jaune",
+   "taboo": [
+    "Forcé",
+    "Gêné",
+    "Grimace",
+    "Contraint",
+    "Amusé"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Passer l'éponge",
+   "taboo": [
+    "Pardonner",
+    "Oublier",
+    "Rancune",
+    "Erreur",
+    "Effacer"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Enterrer la hache de guerre",
+   "taboo": [
+    "Paix",
+    "Réconcilier",
+    "Conflit",
+    "Dispute",
+    "Pardonner"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Le beurre et l'argent du beurre",
+   "taboo": [
+    "Tout",
+    "Vouloir",
+    "Gagner",
+    "Choisir",
+    "Avantages"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Pousser mémé dans les orties",
+   "taboo": [
+    "Exagérer",
+    "Abuser",
+    "Limite",
+    "Trop",
+    "Loin"
+   ],
+   "level": 2
+  },
+  {
+   "word": "La moutarde lui monte au nez",
+   "taboo": [
+    "Colère",
+    "Agacé",
+    "Patience",
+    "Exploser",
+    "Rouge"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Avoir une mémoire d'éléphant",
+   "taboo": [
+    "Souvenir",
+    "Retenir",
+    "Détails",
+    "Excellente",
+    "Jamais"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Mettre sa main au feu",
+   "taboo": [
+    "Certain",
+    "Sûr",
+    "Jurer",
+    "Garantir",
+    "Parier"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Sauter du coq à l'âne",
+   "taboo": [
+    "Sujet",
+    "Changer",
+    "Conversation",
+    "Logique",
+    "Passer"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Tomber des nues",
+   "taboo": [
+    "Surprise",
+    "Étonné",
+    "Stupéfait",
+    "Choqué",
+    "Nouvelle"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Couper la poire en deux",
+   "taboo": [
+    "Partager",
+    "Moitié",
+    "Compromis",
+    "Négocier",
+    "Égal"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Faire l'autruche",
+   "taboo": [
+    "Ignorer",
+    "Problème",
+    "Réalité",
+    "Tête",
+    "Sable"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Être une langue de vipère",
+   "taboo": [
+    "Méchant",
+    "Médire",
+    "Commérages",
+    "Critiquer",
+    "Ragots"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Se tourner les pouces",
+   "taboo": [
+    "Ennui",
+    "Rien",
+    "Glander",
+    "Inactif",
+    "Travailler"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Mettre la main à la pâte",
+   "taboo": [
+    "Aider",
+    "Participer",
+    "Travail",
+    "Effort",
+    "S'impliquer"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Avoir une dent contre quelqu'un",
+   "taboo": [
+    "Rancune",
+    "Reprocher",
+    "En vouloir",
+    "Détester",
+    "Ressentiment"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Comme les deux doigts de la main",
+   "taboo": [
+    "Inséparables",
+    "Amis",
+    "Proches",
+    "Complices",
+    "Ensemble"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Faire le mur",
+   "taboo": [
+    "Sortir",
+    "Nuit",
+    "Parents",
+    "Interdit",
+    "Échapper"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Avoir la bougeotte",
+   "taboo": [
+    "Bouger",
+    "Tenir en place",
+    "Voyager",
+    "Agité",
+    "Remuer"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Tomber à l'eau",
+   "taboo": [
+    "Annulé",
+    "Échouer",
+    "Projet",
+    "Plan",
+    "Abandonné"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Donner le feu vert",
+   "taboo": [
+    "Autoriser",
+    "Accord",
+    "Permission",
+    "Signal",
+    "Démarrer"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Être sur un petit nuage",
+   "taboo": [
+    "Heureux",
+    "Euphorie",
+    "Planer",
+    "Amoureux",
+    "Joie"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Avoir un cheveu sur la langue",
+   "taboo": [
+    "Zozoter",
+    "Prononcer",
+    "Défaut",
+    "Parler",
+    "Orthophoniste"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Faire le poireau",
+   "taboo": [
+    "Attendre",
+    "Longtemps",
+    "Patienter",
+    "Debout",
+    "Retard"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Être à l'ouest",
+   "taboo": [
+    "Ailleurs",
+    "Perdu",
+    "Distrait",
+    "Confus",
+    "Fatigué"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Mettre la clé sous la porte",
+   "taboo": [
+    "Faillite",
+    "Fermer",
+    "Entreprise",
+    "Magasin",
+    "Partir"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Les murs ont des oreilles",
+   "taboo": [
+    "Écouter",
+    "Espionner",
+    "Discret",
+    "Secret",
+    "Entendre"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Avoir un nom à coucher dehors",
+   "taboo": [
+    "Compliqué",
+    "Prononcer",
+    "Bizarre",
+    "Long",
+    "Étranger"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Avoir une araignée au plafond",
+   "taboo": [
+    "Fou",
+    "Dingue",
+    "Cinglé",
+    "Toqué",
+    "Tête"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Jeter un froid",
+   "taboo": [
+    "Malaise",
+    "Gêne",
+    "Silence",
+    "Ambiance",
+    "Tension"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Ne pas être dans son assiette",
+   "taboo": [
+    "Malade",
+    "Forme",
+    "Patraque",
+    "Fatigué",
+    "Bizarre"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Il n'y a pas le feu au lac",
+   "taboo": [
+    "Pressé",
+    "Urgence",
+    "Temps",
+    "Vite",
+    "Calme"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Avoir la tête sur les épaules",
+   "taboo": [
+    "Raisonnable",
+    "Sérieux",
+    "Sensé",
+    "Mature",
+    "Réfléchi"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Mettre les points sur les i",
+   "taboo": [
+    "Clarifier",
+    "Préciser",
+    "Explications",
+    "Malentendu",
+    "Franchement"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Être à côté de la plaque",
+   "taboo": [
+    "Comprendre",
+    "Hors sujet",
+    "Répondre",
+    "Perdu",
+    "Décalé"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Avoir un appétit d'oiseau",
+   "taboo": [
+    "Manger",
+    "Peu",
+    "Grignoter",
+    "Faim",
+    "Maigre"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Ce n'est pas la mer à boire",
+   "taboo": [
+    "Difficile",
+    "Insurmontable",
+    "Compliqué",
+    "Effort",
+    "Impossible"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Avoir le bras long",
+   "taboo": [
+    "Influence",
+    "Relations",
+    "Pouvoir",
+    "Piston",
+    "Connaître"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Mettre la puce à l'oreille",
+   "taboo": [
+    "Soupçon",
+    "Doute",
+    "Indice",
+    "Alerter",
+    "Méfiance"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Couper les cheveux en quatre",
+   "taboo": [
+    "Détail",
+    "Compliquer",
+    "Pinailler",
+    "Minutieux",
+    "Chipoter"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Avoir le compas dans l'œil",
+   "taboo": [
+    "Précis",
+    "Mesurer",
+    "Juger",
+    "Distance",
+    "Exact"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Mettre de l'eau dans son vin",
+   "taboo": [
+    "Modérer",
+    "Concessions",
+    "Calmer",
+    "Compromis",
+    "Adoucir"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Avoir le vent en poupe",
+   "taboo": [
+    "Succès",
+    "Réussite",
+    "Favorable",
+    "Progresser",
+    "Chance"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Revenons à nos moutons",
+   "taboo": [
+    "Sujet",
+    "Digression",
+    "Reprendre",
+    "Conversation",
+    "Parenthèse"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Avoir d'autres chats à fouetter",
+   "taboo": [
+    "Occupé",
+    "Important",
+    "Priorités",
+    "Temps",
+    "Ailleurs"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Appeler un chat un chat",
+   "taboo": [
+    "Franc",
+    "Direct",
+    "Nommer",
+    "Cash",
+    "Vérité"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Faire chou blanc",
+   "taboo": [
+    "Rien",
+    "Résultat",
+    "Bredouille",
+    "Raté",
+    "Vain"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Cracher dans la soupe",
+   "taboo": [
+    "Critiquer",
+    "Ingrat",
+    "Profiter",
+    "Mépriser",
+    "Avantages"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Avoir les dents longues",
+   "taboo": [
+    "Ambitieux",
+    "Carrière",
+    "Réussir",
+    "Pouvoir",
+    "Arriviste"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Monter sur ses grands chevaux",
+   "taboo": [
+    "Colère",
+    "S'emporter",
+    "Énerver",
+    "Fâcher",
+    "Indigné"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Tirer son épingle du jeu",
+   "taboo": [
+    "S'en sortir",
+    "Profiter",
+    "Habile",
+    "Situation",
+    "Avantage"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Avoir plusieurs cordes à son arc",
+   "taboo": [
+    "Talents",
+    "Compétences",
+    "Polyvalent",
+    "Doué",
+    "Capacités"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Ménager la chèvre et le chou",
+   "taboo": [
+    "Compromis",
+    "Satisfaire",
+    "Contenter",
+    "Neutre",
+    "Camp"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Né avec une cuillère d'argent",
+   "taboo": [
+    "Riche",
+    "Famille",
+    "Privilégié",
+    "Héritier",
+    "Parents"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Vendre la peau de l'ours",
+   "taboo": [
+    "Trop tôt",
+    "Victoire",
+    "Certain",
+    "Anticiper",
+    "Chasse"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Se noyer dans un verre d'eau",
+   "taboo": [
+    "Paniquer",
+    "Difficulté",
+    "Petit",
+    "Compliqué",
+    "Débrouiller"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Avoir le nez creux",
+   "taboo": [
+    "Intuition",
+    "Flair",
+    "Deviner",
+    "Instinct",
+    "Prévoir"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Faire mouche",
+   "taboo": [
+    "Cible",
+    "But",
+    "Toucher",
+    "Juste",
+    "Viser"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Avoir les yeux en face des trous",
+   "taboo": [
+    "Réveillé",
+    "Attentif",
+    "Lucide",
+    "Fatigué",
+    "Concentré"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Couper l'herbe sous le pied",
+   "taboo": [
+    "Devancer",
+    "Avant",
+    "Doubler",
+    "Projet",
+    "Priver"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Remettre les pendules à l'heure",
+   "taboo": [
+    "Recadrer",
+    "Clarifier",
+    "Ordre",
+    "Rappeler",
+    "Explication"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Mettre le feu aux poudres",
+   "taboo": [
+    "Déclencher",
+    "Conflit",
+    "Exploser",
+    "Provoquer",
+    "Dispute"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Faire la pluie et le beau temps",
+   "taboo": [
+    "Pouvoir",
+    "Décider",
+    "Influence",
+    "Chef",
+    "Tout"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Rester de marbre",
+   "taboo": [
+    "Impassible",
+    "Émotion",
+    "Froid",
+    "Réagir",
+    "Insensible"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Être né sous une bonne étoile",
+   "taboo": [
+    "Chance",
+    "Destin",
+    "Protégé",
+    "Sort",
+    "Heureux"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Ça me fait une belle jambe",
+   "taboo": [
+    "Inutile",
+    "Servir",
+    "Indifférent",
+    "Rien",
+    "Égal"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Rendre la monnaie de sa pièce",
+   "taboo": [
+    "Vengeance",
+    "Revanche",
+    "Pareil",
+    "Riposter",
+    "Œil pour œil"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Garder une poire pour la soif",
+   "taboo": [
+    "Réserve",
+    "Économiser",
+    "Prévoir",
+    "Plus tard",
+    "Côté"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Graisser la patte",
+   "taboo": [
+    "Corrompre",
+    "Pot-de-vin",
+    "Argent",
+    "Soudoyer",
+    "Payer"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Être sur le qui-vive",
+   "taboo": [
+    "Alerte",
+    "Vigilant",
+    "Aguets",
+    "Méfiance",
+    "Attention"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Avoir la berlue",
+   "taboo": [
+    "Halluciner",
+    "Rêver",
+    "Imaginer",
+    "Illusion",
+    "Mirage"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Ne pas être sorti de l'auberge",
+   "taboo": [
+    "Difficultés",
+    "Problèmes",
+    "Terminé",
+    "Long",
+    "Ennuis"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Faire des pieds et des mains",
+   "taboo": [
+    "Effort",
+    "Obtenir",
+    "Démener",
+    "Essayer",
+    "Insister"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Être au pied du mur",
+   "taboo": [
+    "Choix",
+    "Obligé",
+    "Décider",
+    "Coincé",
+    "Acculé"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Avoir carte blanche",
+   "taboo": [
+    "Liberté",
+    "Autorisation",
+    "Pouvoir",
+    "Choisir",
+    "Décider"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Avoir un cœur d'artichaut",
+   "taboo": [
+    "Amoureux",
+    "Tomber",
+    "Facilement",
+    "Sentimental",
+    "Volage"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Tirer le diable par la queue",
+   "taboo": [
+    "Pauvre",
+    "Argent",
+    "Fin de mois",
+    "Difficultés",
+    "Survivre"
+   ],
+   "level": 3
+  }
+ ]
+}

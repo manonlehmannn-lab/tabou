@@ -1,0 +1,1512 @@
+{
+ "category": "animaux",
+ "cards": [
+  {
+   "word": "Girafe",
+   "taboo": [
+    "Cou",
+    "Afrique",
+    "Taches",
+    "Grande",
+    "Savane"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Lion",
+   "taboo": [
+    "Roi",
+    "Crinière",
+    "Savane",
+    "Rugir",
+    "Félin"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Éléphant",
+   "taboo": [
+    "Trompe",
+    "Défenses",
+    "Gris",
+    "Oreilles",
+    "Afrique"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Chat",
+   "taboo": [
+    "Miauler",
+    "Ronronner",
+    "Souris",
+    "Moustaches",
+    "Félin"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Chien",
+   "taboo": [
+    "Aboyer",
+    "Niche",
+    "Laisse",
+    "Meilleur ami",
+    "Os"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Vache",
+   "taboo": [
+    "Lait",
+    "Meuh",
+    "Taches",
+    "Pré",
+    "Ferme"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Cochon",
+   "taboo": [
+    "Rose",
+    "Ferme",
+    "Boue",
+    "Groin",
+    "Porc"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Cheval",
+   "taboo": [
+    "Galop",
+    "Selle",
+    "Crinière",
+    "Hennir",
+    "Équitation"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Mouton",
+   "taboo": [
+    "Laine",
+    "Bêler",
+    "Troupeau",
+    "Berger",
+    "Blanc"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Poule",
+   "taboo": [
+    "Œuf",
+    "Caqueter",
+    "Coq",
+    "Plumes",
+    "Poussin"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Lapin",
+   "taboo": [
+    "Oreilles",
+    "Carotte",
+    "Terrier",
+    "Pâques",
+    "Sauter"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Souris",
+   "taboo": [
+    "Fromage",
+    "Petite",
+    "Chat",
+    "Grise",
+    "Ordinateur"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Singe",
+   "taboo": [
+    "Banane",
+    "Arbres",
+    "Grimaces",
+    "Primate",
+    "Jungle"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Tigre",
+   "taboo": [
+    "Rayures",
+    "Félin",
+    "Inde",
+    "Orange",
+    "Griffes"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Ours",
+   "taboo": [
+    "Miel",
+    "Hiberner",
+    "Brun",
+    "Polaire",
+    "Grotte"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Pingouin",
+   "taboo": [
+    "Banquise",
+    "Manchot",
+    "Froid",
+    "Noir et blanc",
+    "Pôle Sud"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Poisson",
+   "taboo": [
+    "Eau",
+    "Nager",
+    "Écailles",
+    "Aquarium",
+    "Pêche"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Requin",
+   "taboo": [
+    "Dents",
+    "Aileron",
+    "Océan",
+    "Blanc",
+    "Dangereux"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Dauphin",
+   "taboo": [
+    "Mer",
+    "Intelligent",
+    "Sauter",
+    "Flipper",
+    "Mammifère"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Baleine",
+   "taboo": [
+    "Océan",
+    "Énorme",
+    "Bleue",
+    "Mammifère",
+    "Chant"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Serpent",
+   "taboo": [
+    "Venin",
+    "Ramper",
+    "Siffler",
+    "Python",
+    "Langue"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Crocodile",
+   "taboo": [
+    "Dents",
+    "Vert",
+    "Nil",
+    "Mâchoire",
+    "Alligator"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Grenouille",
+   "taboo": [
+    "Verte",
+    "Sauter",
+    "Mare",
+    "Têtard",
+    "Coasser"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Papillon",
+   "taboo": [
+    "Ailes",
+    "Chenille",
+    "Couleurs",
+    "Fleurs",
+    "Voler"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Abeille",
+   "taboo": [
+    "Miel",
+    "Ruche",
+    "Piquer",
+    "Reine",
+    "Jaune"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Fourmi",
+   "taboo": [
+    "Petite",
+    "Colonie",
+    "Travailleuse",
+    "Cigale",
+    "Reine"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Moustique",
+   "taboo": [
+    "Piqûre",
+    "Sang",
+    "Bouton",
+    "Été",
+    "Nuit"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Escargot",
+   "taboo": [
+    "Coquille",
+    "Lent",
+    "Bave",
+    "Antennes",
+    "Bourgogne"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Tortue",
+   "taboo": [
+    "Carapace",
+    "Lente",
+    "Lièvre",
+    "Ninja",
+    "Mer"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Zèbre",
+   "taboo": [
+    "Rayures",
+    "Noir et blanc",
+    "Cheval",
+    "Afrique",
+    "Savane"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Kangourou",
+   "taboo": [
+    "Australie",
+    "Poche",
+    "Sauter",
+    "Bébé",
+    "Boxe"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Panda",
+   "taboo": [
+    "Chine",
+    "Bambou",
+    "Noir et blanc",
+    "Ours",
+    "Kung-fu"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Loup",
+   "taboo": [
+    "Hurler",
+    "Meute",
+    "Lune",
+    "Chaperon rouge",
+    "Garou"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Renard",
+   "taboo": [
+    "Roux",
+    "Rusé",
+    "Poulailler",
+    "Queue",
+    "Forêt"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Écureuil",
+   "taboo": [
+    "Noisettes",
+    "Arbre",
+    "Queue",
+    "Roux",
+    "Glands"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Hibou",
+   "taboo": [
+    "Nuit",
+    "Chouette",
+    "Hululer",
+    "Yeux",
+    "Oiseau"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Perroquet",
+   "taboo": [
+    "Parler",
+    "Répéter",
+    "Plumes",
+    "Couleurs",
+    "Pirate"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Pigeon",
+   "taboo": [
+    "Ville",
+    "Gris",
+    "Voyageur",
+    "Miettes",
+    "Roucouler"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Canard",
+   "taboo": [
+    "Coin-coin",
+    "Mare",
+    "Bec",
+    "Palmes",
+    "Donald"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Autruche",
+   "taboo": [
+    "Tête",
+    "Sable",
+    "Plumes",
+    "Courir",
+    "Œuf"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Coq",
+   "taboo": [
+    "Cocorico",
+    "Matin",
+    "Crête",
+    "Poules",
+    "France"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Hamster",
+   "taboo": [
+    "Roue",
+    "Cage",
+    "Rongeur",
+    "Joues",
+    "Petit"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Dinosaure",
+   "taboo": [
+    "Préhistoire",
+    "Fossile",
+    "Jurassic Park",
+    "Disparu",
+    "Météorite"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Chameau",
+   "taboo": [
+    "Deux bosses",
+    "Désert",
+    "Dromadaire",
+    "Cracher",
+    "Sahara"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Âne",
+   "taboo": [
+    "Braire",
+    "Oreilles",
+    "Têtu",
+    "Hi-han",
+    "Bonnet"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Chèvre",
+   "taboo": [
+    "Fromage",
+    "Barbichette",
+    "Cornes",
+    "Bêler",
+    "Montagne"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Coccinelle",
+   "taboo": [
+    "Rouge",
+    "Points noirs",
+    "Insecte",
+    "Bête à bon Dieu",
+    "Chance"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Araignée",
+   "taboo": [
+    "Toile",
+    "Huit pattes",
+    "Peur",
+    "Spider-Man",
+    "Plafond"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Nid",
+   "taboo": [
+    "Oiseau",
+    "Œufs",
+    "Arbre",
+    "Branches",
+    "Couver"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Hérisson",
+   "taboo": [
+    "Piquants",
+    "Boule",
+    "Sonic",
+    "Jardin",
+    "Route"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Hippopotame",
+   "taboo": [
+    "Gros",
+    "Eau",
+    "Afrique",
+    "Gueule",
+    "Lourd"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Rhinocéros",
+   "taboo": [
+    "Corne",
+    "Afrique",
+    "Gros",
+    "Gris",
+    "Charge"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Koala",
+   "taboo": [
+    "Australie",
+    "Eucalyptus",
+    "Arbre",
+    "Dormir",
+    "Gris"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Aigle",
+   "taboo": [
+    "Rapace",
+    "Vue",
+    "Montagne",
+    "Serres",
+    "Ailes"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Cygne",
+   "taboo": [
+    "Blanc",
+    "Lac",
+    "Cou",
+    "Élégant",
+    "Vilain petit canard"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Flamant rose",
+   "taboo": [
+    "Patte",
+    "Camargue",
+    "Crevettes",
+    "Échassier",
+    "Oiseau"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Paon",
+   "taboo": [
+    "Plumes",
+    "Roue",
+    "Fier",
+    "Queue",
+    "Couleurs"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Tyrannosaure",
+   "taboo": [
+    "T-Rex",
+    "Carnivore",
+    "Petits bras",
+    "Jurassic Park",
+    "Dents"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Mammouth",
+   "taboo": [
+    "Poils",
+    "Défenses",
+    "Préhistoire",
+    "Éléphant",
+    "L'Âge de glace"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Caméléon",
+   "taboo": [
+    "Couleur",
+    "Changer",
+    "Langue",
+    "Lézard",
+    "Camouflage"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Méduse",
+   "taboo": [
+    "Piquer",
+    "Transparente",
+    "Mer",
+    "Plage",
+    "Tentacules"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Pieuvre",
+   "taboo": [
+    "Tentacules",
+    "Huit",
+    "Encre",
+    "Ventouses",
+    "Poulpe"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Crabe",
+   "taboo": [
+    "Pinces",
+    "Plage",
+    "Côté",
+    "Rocher",
+    "Carapace"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Étoile de mer",
+   "taboo": [
+    "Branches",
+    "Cinq",
+    "Plage",
+    "Rocher",
+    "Patrick"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Phoque",
+   "taboo": [
+    "Banquise",
+    "Otarie",
+    "Moustaches",
+    "Ballon",
+    "Glace"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Morse",
+   "taboo": [
+    "Défenses",
+    "Banquise",
+    "Moustache",
+    "Code",
+    "Phoque"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Gorille",
+   "taboo": [
+    "Singe",
+    "King Kong",
+    "Poitrine",
+    "Dos argenté",
+    "Gros"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Panthère",
+   "taboo": [
+    "Noire",
+    "Rose",
+    "Félin",
+    "Jungle",
+    "Bagheera"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Guépard",
+   "taboo": [
+    "Rapide",
+    "Taches",
+    "Félin",
+    "Course",
+    "Savane"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Hyène",
+   "taboo": [
+    "Rire",
+    "Charognard",
+    "Le Roi lion",
+    "Savane",
+    "Taches"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Paresseux",
+   "taboo": [
+    "Lent",
+    "Arbre",
+    "Dormir",
+    "Branche",
+    "Griffes"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Lama",
+   "taboo": [
+    "Cracher",
+    "Pérou",
+    "Laine",
+    "Andes",
+    "Tintin"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Castor",
+   "taboo": [
+    "Barrage",
+    "Dents",
+    "Queue plate",
+    "Bois",
+    "Rivière"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Taupe",
+   "taboo": [
+    "Aveugle",
+    "Galerie",
+    "Jardin",
+    "Trou",
+    "Terre"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Chauve-souris",
+   "taboo": [
+    "Nuit",
+    "Grotte",
+    "Batman",
+    "Vampire",
+    "Ailes"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Hirondelle",
+   "taboo": [
+    "Printemps",
+    "Migration",
+    "Oiseau",
+    "Voler",
+    "Nid"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Cigogne",
+   "taboo": [
+    "Bébés",
+    "Alsace",
+    "Nid",
+    "Long bec",
+    "Blanche"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Corbeau",
+   "taboo": [
+    "Noir",
+    "Fromage",
+    "Renard",
+    "Croasser",
+    "Fontaine"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Pie",
+   "taboo": [
+    "Voleuse",
+    "Bavarde",
+    "Noir et blanc",
+    "Oiseau",
+    "Bijoux"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Dinde",
+   "taboo": [
+    "Noël",
+    "Thanksgiving",
+    "Glouglou",
+    "Farcie",
+    "Volaille"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Oie",
+   "taboo": [
+    "Foie gras",
+    "Jeu",
+    "Plumes",
+    "Blanche",
+    "Ferme"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Taureau",
+   "taboo": [
+    "Cornes",
+    "Corrida",
+    "Rouge",
+    "Espagne",
+    "Vache"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Poisson-clown",
+   "taboo": [
+    "Nemo",
+    "Orange",
+    "Corail",
+    "Pixar",
+    "Rayures"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Mouche",
+   "taboo": [
+    "Tapette",
+    "Bourdonner",
+    "Ailes",
+    "Insecte",
+    "Poubelle"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Cigale",
+   "taboo": [
+    "Été",
+    "Chanter",
+    "Fourmi",
+    "Provence",
+    "Insecte"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Guêpe",
+   "taboo": [
+    "Piqûre",
+    "Jaune",
+    "Rayures",
+    "Abeille",
+    "Taille"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Libellule",
+   "taboo": [
+    "Ailes",
+    "Étang",
+    "Hélicoptère",
+    "Insecte",
+    "Longue"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Puce",
+   "taboo": [
+    "Sauter",
+    "Chien",
+    "Démanger",
+    "Marché",
+    "Électronique"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Pou",
+   "taboo": [
+    "Cheveux",
+    "École",
+    "Lentes",
+    "Shampoing",
+    "Gratter"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Scorpion",
+   "taboo": [
+    "Dard",
+    "Désert",
+    "Pinces",
+    "Venin",
+    "Queue"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Cafard",
+   "taboo": [
+    "Blatte",
+    "Cuisine",
+    "Dégoûtant",
+    "Déprime",
+    "Insecte"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Sanglier",
+   "taboo": [
+    "Forêt",
+    "Cochon",
+    "Défenses",
+    "Chasse",
+    "Obélix"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Cerf",
+   "taboo": [
+    "Bois",
+    "Forêt",
+    "Brame",
+    "Biche",
+    "Chasse"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Renne",
+   "taboo": [
+    "Père Noël",
+    "Traîneau",
+    "Rudolph",
+    "Laponie",
+    "Bois"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Marmotte",
+   "taboo": [
+    "Dormir",
+    "Montagne",
+    "Siffler",
+    "Hiver",
+    "Milka"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Caniche",
+   "taboo": [
+    "Chien",
+    "Frisé",
+    "Toilettage",
+    "Petit",
+    "Pompon"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Dalmatien",
+   "taboo": [
+    "Taches",
+    "101",
+    "Chien",
+    "Pompiers",
+    "Cruella"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Terrier",
+   "taboo": [
+    "Lapin",
+    "Trou",
+    "Renard",
+    "Creuser",
+    "Chien"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Troupeau",
+   "taboo": [
+    "Groupe",
+    "Moutons",
+    "Berger",
+    "Vaches",
+    "Chien"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Plume",
+   "taboo": [
+    "Oiseau",
+    "Écrire",
+    "Légère",
+    "Oreiller",
+    "Duvet"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Queue",
+   "taboo": [
+    "Remuer",
+    "Chien",
+    "Derrière",
+    "File d'attente",
+    "Billard"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Bec",
+   "taboo": [
+    "Oiseau",
+    "Pointu",
+    "Canard",
+    "Picorer",
+    "Clouer"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Hibernation",
+   "taboo": [
+    "Hiver",
+    "Dormir",
+    "Ours",
+    "Marmotte",
+    "Grotte"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Diplodocus",
+   "taboo": [
+    "Long cou",
+    "Herbivore",
+    "Dinosaure",
+    "Géant",
+    "Queue"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Tricératops",
+   "taboo": [
+    "Cornes",
+    "Trois",
+    "Dinosaure",
+    "Collerette",
+    "Herbivore"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Ptérodactyle",
+   "taboo": [
+    "Volant",
+    "Ailes",
+    "Dinosaure",
+    "Bec",
+    "Préhistorique"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Suricate",
+   "taboo": [
+    "Timon",
+    "Debout",
+    "Guetter",
+    "Désert",
+    "Petit"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Ornithorynque",
+   "taboo": [
+    "Australie",
+    "Bec de canard",
+    "Œufs",
+    "Mammifère",
+    "Bizarre"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Loutre",
+   "taboo": [
+    "Rivière",
+    "Nager",
+    "Dos",
+    "Moustaches",
+    "Coquillages"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Merle",
+   "taboo": [
+    "Noir",
+    "Bec jaune",
+    "Chanter",
+    "Siffler",
+    "Jardin"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Moineau",
+   "taboo": [
+    "Petit",
+    "Piaf",
+    "Brun",
+    "Ville",
+    "Miettes"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Rouge-gorge",
+   "taboo": [
+    "Poitrine",
+    "Hiver",
+    "Petit oiseau",
+    "Jardin",
+    "Orange"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Colibri",
+   "taboo": [
+    "Minuscule",
+    "Nectar",
+    "Ailes",
+    "Fleurs",
+    "Vol stationnaire"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Pélican",
+   "taboo": [
+    "Bec",
+    "Poche",
+    "Poissons",
+    "Mer",
+    "Gorge"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Hippocampe",
+   "taboo": [
+    "Cheval",
+    "Mer",
+    "Mâle",
+    "Enceinte",
+    "Cerveau"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Raie",
+   "taboo": [
+    "Plate",
+    "Manta",
+    "Mer",
+    "Queue",
+    "Cheveux"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Calamar",
+   "taboo": [
+    "Encre",
+    "Beignets",
+    "Tentacules",
+    "Mer",
+    "Anneaux"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Bourdon",
+   "taboo": [
+    "Abeille",
+    "Gros",
+    "Poilu",
+    "Fleurs",
+    "Bruit"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Blaireau",
+   "taboo": [
+    "Rasage",
+    "Terrier",
+    "Forêt",
+    "Rayé",
+    "Nocturne"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Bouquetin",
+   "taboo": [
+    "Cornes",
+    "Montagne",
+    "Alpes",
+    "Chèvre",
+    "Rochers"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Rossignol",
+   "taboo": [
+    "Chanter",
+    "Nuit",
+    "Oiseau",
+    "Mélodie",
+    "Serrure"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Anguille",
+   "taboo": [
+    "Glissante",
+    "Serpent",
+    "Rivière",
+    "Électrique",
+    "Roche"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Raton laveur",
+   "taboo": [
+    "Masque",
+    "Poubelles",
+    "Canada",
+    "Queue",
+    "Nettoyer"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Narval",
+   "taboo": [
+    "Licorne",
+    "Défense",
+    "Mer",
+    "Arctique",
+    "Baleine"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Vipère",
+   "taboo": [
+    "Serpent",
+    "Venin",
+    "Morsure",
+    "Langue",
+    "Tête triangulaire"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Cobaye",
+   "taboo": [
+    "Cochon d'Inde",
+    "Expérience",
+    "Laboratoire",
+    "Rongeur",
+    "Test"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Saint-Bernard",
+   "taboo": [
+    "Montagne",
+    "Tonneau",
+    "Gros chien",
+    "Avalanche",
+    "Sauvetage"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Berger allemand",
+   "taboo": [
+    "Chien",
+    "Police",
+    "Loup",
+    "Garde",
+    "Rex"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Siamois",
+   "taboo": [
+    "Chat",
+    "Thaïlande",
+    "Jumeaux",
+    "Yeux bleus",
+    "Collés"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Bernard-l'ermite",
+   "taboo": [
+    "Coquille",
+    "Crabe",
+    "Squatter",
+    "Mer",
+    "Maison"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Migration",
+   "taboo": [
+    "Oiseaux",
+    "Sud",
+    "Hiver",
+    "Voyage",
+    "Partir"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Mammifère",
+   "taboo": [
+    "Lait",
+    "Poils",
+    "Sang chaud",
+    "Humain",
+    "Vache"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Carnivore",
+   "taboo": [
+    "Viande",
+    "Lion",
+    "Prédateur",
+    "Dents",
+    "Végétarien"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Prédateur",
+   "taboo": [
+    "Chasser",
+    "Proie",
+    "Lion",
+    "Tuer",
+    "Chaîne alimentaire"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Têtard",
+   "taboo": [
+    "Grenouille",
+    "Mare",
+    "Queue",
+    "Larve",
+    "Crapaud"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Lynx",
+   "taboo": [
+    "Félin",
+    "Oreilles",
+    "Yeux",
+    "Forêt",
+    "Vue perçante"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Pelage",
+   "taboo": [
+    "Poils",
+    "Fourrure",
+    "Robe",
+    "Couleur",
+    "Animal"
+   ],
+   "level": 3
+  }
+ ]
+}

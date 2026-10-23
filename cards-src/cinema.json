@@ -1,0 +1,1479 @@
+{
+ "category": "cinema",
+ "cards": [
+  {
+   "word": "Titanic",
+   "taboo": [
+    "Bateau",
+    "Iceberg",
+    "Couler",
+    "DiCaprio",
+    "Naufrage"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Star Wars",
+   "taboo": [
+    "Jedi",
+    "Sabre laser",
+    "Dark Vador",
+    "Galaxie",
+    "Force"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Harry Potter",
+   "taboo": [
+    "Sorcier",
+    "Poudlard",
+    "Baguette",
+    "Magie",
+    "Cicatrice"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Le Roi lion",
+   "taboo": [
+    "Simba",
+    "Disney",
+    "Savane",
+    "Hakuna Matata",
+    "Mufasa"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Les Simpson",
+   "taboo": [
+    "Homer",
+    "Jaune",
+    "Bart",
+    "Springfield",
+    "Donuts"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Koh-Lanta",
+   "taboo": [
+    "Aventuriers",
+    "Île",
+    "Totem",
+    "Conseil",
+    "Épreuves"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Bob l'éponge",
+   "taboo": [
+    "Jaune",
+    "Patrick",
+    "Ananas",
+    "Mer",
+    "Carré"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Oscar",
+   "taboo": [
+    "Récompense",
+    "Hollywood",
+    "Statuette",
+    "Cérémonie",
+    "Meilleur"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Bande-annonce",
+   "taboo": [
+    "Film",
+    "Extrait",
+    "Sortie",
+    "Cinéma",
+    "Résumé"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Dracula",
+   "taboo": [
+    "Vampire",
+    "Sang",
+    "Transylvanie",
+    "Comte",
+    "Crocs"
+   ],
+   "level": 1
+  },
+  {
+   "word": "James Bond",
+   "taboo": [
+    "Espion",
+    "007",
+    "Agent secret",
+    "Martini",
+    "Anglais"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Les Bronzés",
+   "taboo": [
+    "Vacances",
+    "Club",
+    "Ski",
+    "Soleil",
+    "Splendid"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Le Seigneur des anneaux",
+   "taboo": [
+    "Frodon",
+    "Hobbit",
+    "Gandalf",
+    "Mordor",
+    "Gollum"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Shrek",
+   "taboo": [
+    "Ogre",
+    "Vert",
+    "Âne",
+    "Fiona",
+    "Marécage"
+   ],
+   "level": 1
+  },
+  {
+   "word": "La Reine des neiges",
+   "taboo": [
+    "Elsa",
+    "Olaf",
+    "Glace",
+    "Libérée délivrée",
+    "Disney"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Plus belle la vie",
+   "taboo": [
+    "Marseille",
+    "Feuilleton",
+    "Mistral",
+    "Quartier",
+    "France 3"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Les Visiteurs",
+   "taboo": [
+    "Jacquouille",
+    "Godefroy",
+    "Moyen Âge",
+    "Chevalier",
+    "Temps"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Bienvenue chez les Ch'tis",
+   "taboo": [
+    "Nord",
+    "Bergues",
+    "Accent",
+    "Facteur",
+    "Maroilles"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Intouchables",
+   "taboo": [
+    "Fauteuil roulant",
+    "Handicapé",
+    "Riche",
+    "Omar Sy",
+    "Amitié"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Toy Story",
+   "taboo": [
+    "Woody",
+    "Buzz",
+    "Jouets",
+    "Pixar",
+    "Cow-boy"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Le Monde de Nemo",
+   "taboo": [
+    "Poisson-clown",
+    "Dory",
+    "Océan",
+    "Pixar",
+    "Perdu"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Spider-Man",
+   "taboo": [
+    "Araignée",
+    "Toile",
+    "Super-héros",
+    "Peter Parker",
+    "Marvel"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Batman",
+   "taboo": [
+    "Chauve-souris",
+    "Gotham",
+    "Joker",
+    "Robin",
+    "Super-héros"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Superman",
+   "taboo": [
+    "Krypton",
+    "Cape",
+    "Voler",
+    "Clark Kent",
+    "Journaliste"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Pokémon",
+   "taboo": [
+    "Pikachu",
+    "Dresseur",
+    "Sacha",
+    "Attraper",
+    "Japonais"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Scooby-Doo",
+   "taboo": [
+    "Chien",
+    "Sammy",
+    "Mystère",
+    "Fantômes",
+    "Camionnette"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Tom et Jerry",
+   "taboo": [
+    "Chat",
+    "Souris",
+    "Poursuite",
+    "Dessin animé",
+    "Fromage"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Mickey",
+   "taboo": [
+    "Souris",
+    "Disney",
+    "Minnie",
+    "Oreilles",
+    "Dingo"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Les Minions",
+   "taboo": [
+    "Jaune",
+    "Banane",
+    "Gru",
+    "Lunettes",
+    "Salopette"
+   ],
+   "level": 1
+  },
+  {
+   "word": "E.T. l'extra-terrestre",
+   "taboo": [
+    "Vélo",
+    "Doigt",
+    "Maison",
+    "Téléphone",
+    "Spielberg"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Jurassic Park",
+   "taboo": [
+    "Dinosaures",
+    "T-Rex",
+    "Île",
+    "ADN",
+    "Moustique"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Les Dents de la mer",
+   "taboo": [
+    "Requin",
+    "Plage",
+    "Attaque",
+    "Spielberg",
+    "Musique"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Retour vers le futur",
+   "taboo": [
+    "DeLorean",
+    "Doc",
+    "Marty",
+    "Voiture",
+    "Temps"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Indiana Jones",
+   "taboo": [
+    "Fouet",
+    "Archéologue",
+    "Chapeau",
+    "Aventurier",
+    "Trésor"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Matrix",
+   "taboo": [
+    "Néo",
+    "Pilule",
+    "Virtuel",
+    "Code",
+    "Lunettes"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Le Parrain",
+   "taboo": [
+    "Mafia",
+    "Corleone",
+    "Famille",
+    "Italien",
+    "Proposition"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Avengers",
+   "taboo": [
+    "Marvel",
+    "Super-héros",
+    "Captain America",
+    "Hulk",
+    "Thanos"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Pirates des Caraïbes",
+   "taboo": [
+    "Jack Sparrow",
+    "Bateau",
+    "Trésor",
+    "Perle noire",
+    "Rhum"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Le Livre de la jungle",
+   "taboo": [
+    "Mowgli",
+    "Baloo",
+    "Bagheera",
+    "Shere Khan",
+    "Disney"
+   ],
+   "level": 1
+  },
+  {
+   "word": "La Belle et la Bête",
+   "taboo": [
+    "Rose",
+    "Château",
+    "Monstre",
+    "Malédiction",
+    "Disney"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Aladdin",
+   "taboo": [
+    "Génie",
+    "Lampe",
+    "Tapis volant",
+    "Jasmine",
+    "Vœux"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Le Dîner de cons",
+   "taboo": [
+    "Pignon",
+    "Juste Leblanc",
+    "Allumettes",
+    "Idiot",
+    "Villeret"
+   ],
+   "level": 2
+  },
+  {
+   "word": "La Grande Vadrouille",
+   "taboo": [
+    "Bourvil",
+    "De Funès",
+    "Guerre",
+    "Parachutistes",
+    "Allemands"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Les Tuche",
+   "taboo": [
+    "Famille",
+    "Loto",
+    "Frites",
+    "Millionnaires",
+    "Bouzolles"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Amélie Poulain",
+   "taboo": [
+    "Montmartre",
+    "Café",
+    "Nain de jardin",
+    "Crème brûlée",
+    "Audrey Tautou"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Grease",
+   "taboo": [
+    "Danny",
+    "Sandy",
+    "Blousons",
+    "Comédie musicale",
+    "Travolta"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Rocky",
+   "taboo": [
+    "Boxe",
+    "Stallone",
+    "Escaliers",
+    "Entraînement",
+    "Ring"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Terminator",
+   "taboo": [
+    "Robot",
+    "Schwarzenegger",
+    "Futur",
+    "Machine",
+    "Lunettes"
+   ],
+   "level": 2
+  },
+  {
+   "word": "King Kong",
+   "taboo": [
+    "Gorille",
+    "Singe",
+    "Empire State Building",
+    "Géant",
+    "New York"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Western",
+   "taboo": [
+    "Cow-boy",
+    "Saloon",
+    "Duel",
+    "Shérif",
+    "Indiens"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Tournage",
+   "taboo": [
+    "Caméra",
+    "Film",
+    "Plateau",
+    "Scène",
+    "Acteurs"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Clap",
+   "taboo": [
+    "Ardoise",
+    "Action",
+    "Prise",
+    "Coupez",
+    "Tournage"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Figurant",
+   "taboo": [
+    "Arrière-plan",
+    "Foule",
+    "Rôle",
+    "Muet",
+    "Film"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Doublage",
+   "taboo": [
+    "Voix",
+    "VF",
+    "Traduction",
+    "Étranger",
+    "Studio"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Sous-titres",
+   "taboo": [
+    "Lire",
+    "Traduction",
+    "VO",
+    "Bas de l'écran",
+    "Langue"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Festival de Cannes",
+   "taboo": [
+    "Palme d'or",
+    "Tapis rouge",
+    "Croisette",
+    "Marches",
+    "Jury"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Spoiler",
+   "taboo": [
+    "Fin",
+    "Révéler",
+    "Gâcher",
+    "Série",
+    "Raconter"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Super-héros",
+   "taboo": [
+    "Pouvoirs",
+    "Cape",
+    "Marvel",
+    "Sauver",
+    "Costume"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Hulk",
+   "taboo": [
+    "Vert",
+    "Colère",
+    "Muscles",
+    "Marvel",
+    "Géant"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Fort Boyard",
+   "taboo": [
+    "Père Fouras",
+    "Clés",
+    "Énigmes",
+    "Tigres",
+    "Passe-Partout"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Qui veut gagner des millions",
+   "taboo": [
+    "Foucault",
+    "Jokers",
+    "Questions",
+    "Appel à un ami",
+    "Euros"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Questions pour un champion",
+   "taboo": [
+    "Julien Lepers",
+    "Buzzer",
+    "Quiz",
+    "Candidats",
+    "Face-à-face"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Des chiffres et des lettres",
+   "taboo": [
+    "Le compte est bon",
+    "Mot le plus long",
+    "Tirage",
+    "Calcul",
+    "Voyelle"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Le Juste Prix",
+   "taboo": [
+    "Estimer",
+    "Vitrine",
+    "Cadeaux",
+    "Combien",
+    "Plus ou moins"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Top Chef",
+   "taboo": [
+    "Cuisine",
+    "Candidats",
+    "Jury",
+    "Étoilé",
+    "Recettes"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Télé-réalité",
+   "taboo": [
+    "Loft",
+    "Candidats",
+    "Caméras",
+    "Enfermés",
+    "Émission"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Pékin Express",
+   "taboo": [
+    "Course",
+    "Auto-stop",
+    "Binômes",
+    "Sac à dos",
+    "Voyage"
+   ],
+   "level": 3
+  },
+  {
+   "word": "L'amour est dans le pré",
+   "taboo": [
+    "Agriculteurs",
+    "Karine Le Marchand",
+    "Célibataires",
+    "Rencontre",
+    "Ferme"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Les Feux de l'amour",
+   "taboo": [
+    "Feuilleton",
+    "Américain",
+    "Victor Newman",
+    "Midi",
+    "TF1"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Friends",
+   "taboo": [
+    "Amis",
+    "Ross",
+    "Rachel",
+    "Central Perk",
+    "New York"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Game of Thrones",
+   "taboo": [
+    "Dragons",
+    "Westeros",
+    "Hiver",
+    "Stark",
+    "Lannister"
+   ],
+   "level": 2
+  },
+  {
+   "word": "La Casa de papel",
+   "taboo": [
+    "Braquage",
+    "Masques",
+    "Professeur",
+    "Espagne",
+    "Combinaison rouge"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Squid Game",
+   "taboo": [
+    "Corée",
+    "Survie",
+    "Poupée",
+    "Survêtement",
+    "Netflix"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Stranger Things",
+   "taboo": [
+    "Eleven",
+    "Netflix",
+    "Années 80",
+    "Vélos",
+    "Monde à l'envers"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Dr House",
+   "taboo": [
+    "Médecin",
+    "Hôpital",
+    "Canne",
+    "Diagnostic",
+    "Lupus"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Grey's Anatomy",
+   "taboo": [
+    "Hôpital",
+    "Chirurgiens",
+    "Seattle",
+    "Internes",
+    "Meredith"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Kaamelott",
+   "taboo": [
+    "Arthur",
+    "Chevaliers",
+    "Table ronde",
+    "Perceval",
+    "Graal"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Caméra café",
+   "taboo": [
+    "Bureau",
+    "Collègues",
+    "Pause",
+    "Distributeur",
+    "Gobelet"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Les Guignols de l'info",
+   "taboo": [
+    "Marionnettes",
+    "Canal+",
+    "Satire",
+    "Politiques",
+    "Latex"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Columbo",
+   "taboo": [
+    "Inspecteur",
+    "Imperméable",
+    "Cigare",
+    "Lieutenant",
+    "Ma femme"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Inspecteur Gadget",
+   "taboo": [
+    "Docteur Gang",
+    "Sophie",
+    "Chapeau",
+    "Hélicoptère",
+    "Maladroit"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Les Choristes",
+   "taboo": [
+    "Chanter",
+    "Internat",
+    "Enfants",
+    "Surveillant",
+    "Jugnot"
+   ],
+   "level": 3
+  },
+  {
+   "word": "La Cité de la peur",
+   "taboo": [
+    "Carioca",
+    "Cannes",
+    "Tueur",
+    "Les Nuls",
+    "Projectionniste"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Les Tontons flingueurs",
+   "taboo": [
+    "Gangsters",
+    "Audiard",
+    "Répliques",
+    "Cuisine",
+    "Pistolets"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Le Grand Bleu",
+   "taboo": [
+    "Plongée",
+    "Dauphins",
+    "Apnée",
+    "Mer",
+    "Besson"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Le Gendarme de Saint-Tropez",
+   "taboo": [
+    "Cruchot",
+    "De Funès",
+    "Nudistes",
+    "Côte d'Azur",
+    "Képi"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Brice de Nice",
+   "taboo": [
+    "Surf",
+    "Cassé",
+    "Jaune",
+    "Dujardin",
+    "Vague"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Le Père Noël est une ordure",
+   "taboo": [
+    "Splendid",
+    "SOS Amitié",
+    "Doubitchou",
+    "Thérèse",
+    "Réveillon"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Gremlins",
+   "taboo": [
+    "Mogwaï",
+    "Eau",
+    "Minuit",
+    "Gizmo",
+    "Nourrir"
+   ],
+   "level": 3
+  },
+  {
+   "word": "SOS Fantômes",
+   "taboo": [
+    "Ghostbusters",
+    "Chasseurs",
+    "Aspirateur",
+    "Chamallow",
+    "Esprits"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Le Magicien d'Oz",
+   "taboo": [
+    "Dorothy",
+    "Briques jaunes",
+    "Épouvantail",
+    "Sorcière",
+    "Kansas"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Charlie et la Chocolaterie",
+   "taboo": [
+    "Willy Wonka",
+    "Ticket d'or",
+    "Usine",
+    "Oompa Loompa",
+    "Bonbons"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Mission impossible",
+   "taboo": [
+    "Tom Cruise",
+    "Espion",
+    "Autodestruction",
+    "Masque",
+    "Agent"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Hollywood",
+   "taboo": [
+    "Los Angeles",
+    "Stars",
+    "Panneau",
+    "Cinéma",
+    "Studios"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Film muet",
+   "taboo": [
+    "Noir et blanc",
+    "Charlot",
+    "Piano",
+    "Paroles",
+    "Ancien"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Effets spéciaux",
+   "taboo": [
+    "Ordinateur",
+    "Trucage",
+    "Explosion",
+    "Fond vert",
+    "Numérique"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Making-of",
+   "taboo": [
+    "Coulisses",
+    "Tournage",
+    "Bonus",
+    "DVD",
+    "Bêtisier"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Bêtisier",
+   "taboo": [
+    "Erreurs",
+    "Fou rire",
+    "Tournage",
+    "Gags",
+    "Ratés"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Générique",
+   "taboo": [
+    "Fin",
+    "Noms",
+    "Défiler",
+    "Musique",
+    "Début"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Remake",
+   "taboo": [
+    "Nouvelle version",
+    "Ancien",
+    "Refaire",
+    "Copie",
+    "Original"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Box-office",
+   "taboo": [
+    "Entrées",
+    "Succès",
+    "Recettes",
+    "Classement",
+    "Billets"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Caméra cachée",
+   "taboo": [
+    "Piège",
+    "Blague",
+    "Farce",
+    "Filmer",
+    "Surprise"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Film d'horreur",
+   "taboo": [
+    "Peur",
+    "Sang",
+    "Monstre",
+    "Crier",
+    "Frissons"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Blockbuster",
+   "taboo": [
+    "Gros budget",
+    "Hollywood",
+    "Succès",
+    "Effets spéciaux",
+    "Américain"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Mister Bean",
+   "taboo": [
+    "Ours en peluche",
+    "Mini",
+    "Grimaces",
+    "Anglais",
+    "Muet"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Les Pierrafeu",
+   "taboo": [
+    "Préhistoire",
+    "Fred",
+    "Dino",
+    "Yabadabadoo",
+    "Caverne"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Titi et Grosminet",
+   "taboo": [
+    "Canari",
+    "Chat",
+    "Cage",
+    "Mémé",
+    "Jaune"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Bugs Bunny",
+   "taboo": [
+    "Lapin",
+    "Carotte",
+    "Quoi de neuf docteur",
+    "Looney Tunes",
+    "Elmer"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Popeye",
+   "taboo": [
+    "Épinards",
+    "Marin",
+    "Olive",
+    "Pipe",
+    "Muscles"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Garfield",
+   "taboo": [
+    "Chat",
+    "Lasagnes",
+    "Orange",
+    "Lundi",
+    "Paresseux"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Winnie l'ourson",
+   "taboo": [
+    "Miel",
+    "Porcinet",
+    "Tigrou",
+    "Bourriquet",
+    "Peluche"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Heidi",
+   "taboo": [
+    "Montagnes",
+    "Suisse",
+    "Grand-père",
+    "Chèvres",
+    "Alpes"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Les Tortues Ninja",
+   "taboo": [
+    "Pizza",
+    "Égouts",
+    "Carapace",
+    "Masques",
+    "Splinter"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Kirikou",
+   "taboo": [
+    "Petit",
+    "Afrique",
+    "Karaba",
+    "Sorcière",
+    "Vaillant"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Dragon Ball",
+   "taboo": [
+    "Goku",
+    "Boules de cristal",
+    "Super Saiyan",
+    "Manga",
+    "Kamehameha"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Goldorak",
+   "taboo": [
+    "Robot",
+    "Actarus",
+    "Japonais",
+    "Fulguropoing",
+    "Alcor"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Il était une fois la vie",
+   "taboo": [
+    "Corps humain",
+    "Globules",
+    "Maestro",
+    "Cellules",
+    "Éducatif"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Casimir",
+   "taboo": [
+    "L'île aux enfants",
+    "Dinosaure",
+    "Orange",
+    "Gloubi-boulga",
+    "Hippolyte"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Bonne nuit les petits",
+   "taboo": [
+    "Nounours",
+    "Nicolas",
+    "Pimprenelle",
+    "Marchand de sable",
+    "Dodo"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Dora l'exploratrice",
+   "taboo": [
+    "Sac à dos",
+    "Babouche",
+    "Carte",
+    "Chipeur",
+    "Espagnol"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Miss France",
+   "taboo": [
+    "Concours",
+    "Beauté",
+    "Écharpe",
+    "Couronne",
+    "Élection"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Le Maillon faible",
+   "taboo": [
+    "Au revoir",
+    "Banque",
+    "Questions",
+    "Élimination",
+    "Boccolini"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Journal télévisé",
+   "taboo": [
+    "Présentateur",
+    "20 heures",
+    "Informations",
+    "Météo",
+    "TF1"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Dark Vador",
+   "taboo": [
+    "Star Wars",
+    "Père",
+    "Casque",
+    "Respiration",
+    "Côté obscur"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Yoda",
+   "taboo": [
+    "Vert",
+    "Maître",
+    "Jedi",
+    "Oreilles",
+    "Sagesse"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Mary Poppins",
+   "taboo": [
+    "Nounou",
+    "Parapluie",
+    "Londres",
+    "Sucre",
+    "Ramoneur"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Peter Pan",
+   "taboo": [
+    "Fée Clochette",
+    "Capitaine Crochet",
+    "Voler",
+    "Pays imaginaire",
+    "Grandir"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Bambi",
+   "taboo": [
+    "Faon",
+    "Forêt",
+    "Panpan",
+    "Chasseur",
+    "Maman"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Dumbo",
+   "taboo": [
+    "Éléphant",
+    "Oreilles",
+    "Cirque",
+    "Voler",
+    "Disney"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Les 101 Dalmatiens",
+   "taboo": [
+    "Cruella",
+    "Chiots",
+    "Taches",
+    "Fourrure",
+    "Disney"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Wall-E",
+   "taboo": [
+    "Robot",
+    "Pixar",
+    "Déchets",
+    "Ève",
+    "Terre"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Là-haut",
+   "taboo": [
+    "Ballons",
+    "Maison",
+    "Vieux",
+    "Scout",
+    "Pixar"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Zorro",
+   "taboo": [
+    "Masque",
+    "Épée",
+    "Cape noire",
+    "Sergent Garcia",
+    "Cheval"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Tarzan",
+   "taboo": [
+    "Jungle",
+    "Liane",
+    "Jane",
+    "Singes",
+    "Cri"
+   ],
+   "level": 1
+  }
+ ]
+}

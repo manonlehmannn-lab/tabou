@@ -1,0 +1,17 @@
+{
+  "name": "Tabou — le jeu des mots interdits",
+  "short_name": "Tabou",
+  "description": "Le jeu des mots interdits entre amis, sur un seul téléphone, 100 % hors ligne.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1b0a45",
+  "theme_color": "#1b0a45",
+  "icons": [
+    { "src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "assets/icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

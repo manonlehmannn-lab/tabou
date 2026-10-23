@@ -1,0 +1,1523 @@
+{
+ "category": "objets",
+ "cards": [
+  {
+   "word": "Parapluie",
+   "taboo": [
+    "Mouillé",
+    "Averse",
+    "Ouvrir",
+    "Orage",
+    "Protéger"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Brosse à dents",
+   "taboo": [
+    "Bouche",
+    "Pâte",
+    "Hygiène",
+    "Lavabo",
+    "Carie"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Chaussette",
+   "taboo": [
+    "Pied",
+    "Paire",
+    "Laine",
+    "Trou",
+    "Orteil"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Aspirateur",
+   "taboo": [
+    "Poussière",
+    "Ménage",
+    "Tapis",
+    "Bruit",
+    "Sac"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Bougie",
+   "taboo": [
+    "Flamme",
+    "Cire",
+    "Mèche",
+    "Anniversaire",
+    "Allumer"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Cadenas",
+   "taboo": [
+    "Clé",
+    "Code",
+    "Fermer",
+    "Vélo",
+    "Casier"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Escabeau",
+   "taboo": [
+    "Marches",
+    "Monter",
+    "Échelle",
+    "Hauteur",
+    "Plafond"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Tire-bouchon",
+   "taboo": [
+    "Vin",
+    "Bouteille",
+    "Liège",
+    "Ouvrir",
+    "Sommelier"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Ciseaux",
+   "taboo": [
+    "Couper",
+    "Lames",
+    "Tissu",
+    "Coiffeur",
+    "Pierre"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Lunettes",
+   "taboo": [
+    "Yeux",
+    "Vue",
+    "Opticien",
+    "Verres",
+    "Myope"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Chapeau",
+   "taboo": [
+    "Tête",
+    "Melon",
+    "Paille",
+    "Magicien",
+    "Cowboy"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Oreiller",
+   "taboo": [
+    "Lit",
+    "Dormir",
+    "Tête",
+    "Plumes",
+    "Taie"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Fourchette",
+   "taboo": [
+    "Couteau",
+    "Cuillère",
+    "Dents",
+    "Manger",
+    "Piquer"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Clé",
+   "taboo": [
+    "Serrure",
+    "Porte",
+    "Ouvrir",
+    "Trousseau",
+    "Maison"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Miroir",
+   "taboo": [
+    "Reflet",
+    "Glace",
+    "Blanche-Neige",
+    "Visage",
+    "Salle de bain"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Savon",
+   "taboo": [
+    "Mains",
+    "Mousse",
+    "Laver",
+    "Bulles",
+    "Douche"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Sac à dos",
+   "taboo": [
+    "Épaules",
+    "École",
+    "Randonnée",
+    "Cartable",
+    "Porter"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Crayon",
+   "taboo": [
+    "Dessiner",
+    "Écrire",
+    "Gomme",
+    "Mine",
+    "Tailler"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Marteau",
+   "taboo": [
+    "Clou",
+    "Taper",
+    "Outil",
+    "Bricolage",
+    "Doigt"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Tournevis",
+   "taboo": [
+    "Cruciforme",
+    "Plat",
+    "Outil",
+    "Bricolage",
+    "Serrer"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Balai",
+   "taboo": [
+    "Ménage",
+    "Poussière",
+    "Sorcière",
+    "Ramasser",
+    "Pelle"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Éponge",
+   "taboo": [
+    "Vaisselle",
+    "Évier",
+    "Absorber",
+    "Bob",
+    "Jaune"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Poubelle",
+   "taboo": [
+    "Déchets",
+    "Ordures",
+    "Jeter",
+    "Tri",
+    "Sac"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Lampe",
+   "taboo": [
+    "Lumière",
+    "Ampoule",
+    "Chevet",
+    "Abat-jour",
+    "Interrupteur"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Ampoule",
+   "taboo": [
+    "Lumière",
+    "Électricité",
+    "Edison",
+    "Idée",
+    "Grillée"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Canapé",
+   "taboo": [
+    "Salon",
+    "Coussins",
+    "Télévision",
+    "Sieste",
+    "Convertible"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Réveil",
+   "taboo": [
+    "Matin",
+    "Sonnerie",
+    "Dormir",
+    "Heure",
+    "Lever"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Montre",
+   "taboo": [
+    "Heure",
+    "Poignet",
+    "Aiguilles",
+    "Temps",
+    "Bracelet"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Valise",
+   "taboo": [
+    "Voyage",
+    "Vacances",
+    "Roulettes",
+    "Bagage",
+    "Aéroport"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Écharpe",
+   "taboo": [
+    "Cou",
+    "Hiver",
+    "Froid",
+    "Laine",
+    "Foulard"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Pyjama",
+   "taboo": [
+    "Nuit",
+    "Dormir",
+    "Lit",
+    "Soirée",
+    "Pantalon"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Cravate",
+   "taboo": [
+    "Costume",
+    "Cou",
+    "Nœud",
+    "Chemise",
+    "Mariage"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Bottes",
+   "taboo": [
+    "Pluie",
+    "Caoutchouc",
+    "Chaussures",
+    "Hautes",
+    "Flaque"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Mouchoir",
+   "taboo": [
+    "Nez",
+    "Rhume",
+    "Éternuer",
+    "Papier",
+    "Pleurer"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Parfum",
+   "taboo": [
+    "Odeur",
+    "Sentir",
+    "Flacon",
+    "Chanel",
+    "Vaporiser"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Sèche-cheveux",
+   "taboo": [
+    "Brushing",
+    "Souffler",
+    "Chaud",
+    "Air",
+    "Coiffeur"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Briquet",
+   "taboo": [
+    "Feu",
+    "Cigarette",
+    "Flamme",
+    "Allumer",
+    "Zippo"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Échelle",
+   "taboo": [
+    "Monter",
+    "Barreaux",
+    "Grimper",
+    "Toit",
+    "Pompier"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Scotch",
+   "taboo": [
+    "Coller",
+    "Rouleau",
+    "Transparent",
+    "Adhésif",
+    "Ruban"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Frigo",
+   "taboo": [
+    "Froid",
+    "Cuisine",
+    "Congélateur",
+    "Aimants",
+    "Conserver"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Micro-ondes",
+   "taboo": [
+    "Réchauffer",
+    "Cuisine",
+    "Pop-corn",
+    "Plat",
+    "Minutes"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Grille-pain",
+   "taboo": [
+    "Tartines",
+    "Toast",
+    "Petit-déjeuner",
+    "Brûlé",
+    "Sauter"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Biberon",
+   "taboo": [
+    "Bébé",
+    "Lait",
+    "Tétine",
+    "Boire",
+    "Nourrir"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Poussette",
+   "taboo": [
+    "Bébé",
+    "Roues",
+    "Promenade",
+    "Landau",
+    "Parc"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Doudou",
+   "taboo": [
+    "Enfant",
+    "Peluche",
+    "Dormir",
+    "Câlin",
+    "Perdu"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Dé",
+   "taboo": [
+    "Jeu",
+    "Six",
+    "Lancer",
+    "Hasard",
+    "Faces"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Bague",
+   "taboo": [
+    "Doigt",
+    "Mariage",
+    "Fiançailles",
+    "Bijou",
+    "Diamant"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Tirelire",
+   "taboo": [
+    "Cochon",
+    "Économies",
+    "Argent",
+    "Pièces",
+    "Casser"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Masque",
+   "taboo": [
+    "Visage",
+    "Carnaval",
+    "Covid",
+    "Déguisement",
+    "Cacher"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Couronne",
+   "taboo": [
+    "Roi",
+    "Reine",
+    "Tête",
+    "Or",
+    "Galette"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Tente",
+   "taboo": [
+    "Camping",
+    "Dormir",
+    "Sac de couchage",
+    "Piquets",
+    "Monter"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Balance",
+   "taboo": [
+    "Poids",
+    "Kilos",
+    "Peser",
+    "Régime",
+    "Salle de bain"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Pince à linge",
+   "taboo": [
+    "Étendre",
+    "Sécher",
+    "Fil",
+    "Mouillé",
+    "Vêtements"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Horloge",
+   "taboo": [
+    "Heure",
+    "Mur",
+    "Tic-tac",
+    "Coucou",
+    "Pendule"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Timbre",
+   "taboo": [
+    "Poste",
+    "Coller",
+    "Collection",
+    "Lettre",
+    "Marianne"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Tondeuse",
+   "taboo": [
+    "Gazon",
+    "Herbe",
+    "Jardin",
+    "Couper",
+    "Bruit"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Brouette",
+   "taboo": [
+    "Jardin",
+    "Pousser",
+    "Terre",
+    "Transporter",
+    "Chantier"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Perceuse",
+   "taboo": [
+    "Trou",
+    "Mur",
+    "Mèche",
+    "Bricolage",
+    "Bruit"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Agrafeuse",
+   "taboo": [
+    "Bureau",
+    "Papier",
+    "Relier",
+    "Pince",
+    "Recharge"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Taille-crayon",
+   "taboo": [
+    "Mine",
+    "Pointu",
+    "Copeaux",
+    "Trousse",
+    "Tourner"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Compas",
+   "taboo": [
+    "Cercle",
+    "Pointe",
+    "Géométrie",
+    "Mine",
+    "Rayon"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Dictionnaire",
+   "taboo": [
+    "Mots",
+    "Définition",
+    "Larousse",
+    "Robert",
+    "Alphabétique"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Sablier",
+   "taboo": [
+    "Temps",
+    "Grains",
+    "Minutes",
+    "Verre",
+    "Retourner"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Loupe",
+   "taboo": [
+    "Agrandir",
+    "Détective",
+    "Sherlock",
+    "Petit",
+    "Verre"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Jumelles",
+   "taboo": [
+    "Loin",
+    "Regarder",
+    "Oiseaux",
+    "Espion",
+    "Paire"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Thermomètre",
+   "taboo": [
+    "Fièvre",
+    "Température",
+    "Degrés",
+    "Malade",
+    "Mercure"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Seringue",
+   "taboo": [
+    "Piqûre",
+    "Aiguille",
+    "Vaccin",
+    "Infirmière",
+    "Médecin"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Béquilles",
+   "taboo": [
+    "Plâtre",
+    "Jambe",
+    "Boiter",
+    "Marcher",
+    "Cassé"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Machine à laver",
+   "taboo": [
+    "Linge",
+    "Lessive",
+    "Tambour",
+    "Essorage",
+    "Hublot"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Lave-vaisselle",
+   "taboo": [
+    "Assiettes",
+    "Couverts",
+    "Cuisine",
+    "Pastille",
+    "Rincer"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Bouilloire",
+   "taboo": [
+    "Eau",
+    "Thé",
+    "Chauffer",
+    "Siffler",
+    "Tisane"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Passoire",
+   "taboo": [
+    "Pâtes",
+    "Trous",
+    "Égoutter",
+    "Eau",
+    "Cuisine"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Tablier",
+   "taboo": [
+    "Cuisine",
+    "Taches",
+    "Chef",
+    "Barbecue",
+    "Nouer"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Paille",
+   "taboo": [
+    "Boire",
+    "Aspirer",
+    "Cocktail",
+    "Tube",
+    "Plastique"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Toupie",
+   "taboo": [
+    "Tourner",
+    "Jouet",
+    "Pointe",
+    "Lancer",
+    "Équilibre"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Cerf-volant",
+   "taboo": [
+    "Vent",
+    "Ficelle",
+    "Plage",
+    "Ciel",
+    "Enfant"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Aiguille",
+   "taboo": [
+    "Fil",
+    "Coudre",
+    "Piquer",
+    "Foin",
+    "Pointu"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Fermeture éclair",
+   "taboo": [
+    "Zip",
+    "Blouson",
+    "Coincée",
+    "Remonter",
+    "Braguette"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Imperméable",
+   "taboo": [
+    "Pluie",
+    "Manteau",
+    "Capuche",
+    "K-way",
+    "Ciré"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Ventilateur",
+   "taboo": [
+    "Chaleur",
+    "Été",
+    "Pales",
+    "Tourner",
+    "Air"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Coton-tige",
+   "taboo": [
+    "Oreilles",
+    "Nettoyer",
+    "Bâtonnet",
+    "Blanc",
+    "Cérumen"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Rouge à lèvres",
+   "taboo": [
+    "Maquillage",
+    "Bouche",
+    "Bisou",
+    "Tube",
+    "Femme"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Vernis à ongles",
+   "taboo": [
+    "Doigts",
+    "Manucure",
+    "Couleur",
+    "Pinceau",
+    "Dissolvant"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Sonnette",
+   "taboo": [
+    "Porte",
+    "Ding-dong",
+    "Bouton",
+    "Appuyer",
+    "Voisin"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Coffre-fort",
+   "taboo": [
+    "Argent",
+    "Code",
+    "Banque",
+    "Trésor",
+    "Blindé"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Cloche",
+   "taboo": [
+    "Église",
+    "Sonner",
+    "Pâques",
+    "Notre-Dame",
+    "Bronze"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Guirlande",
+   "taboo": [
+    "Noël",
+    "Sapin",
+    "Lumières",
+    "Décoration",
+    "Boules"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Pipe",
+   "taboo": [
+    "Fumer",
+    "Tabac",
+    "Sherlock",
+    "Magritte",
+    "Grand-père"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Hamac",
+   "taboo": [
+    "Sieste",
+    "Jardin",
+    "Arbres",
+    "Balancer",
+    "Vacances"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Décapsuleur",
+   "taboo": [
+    "Bière",
+    "Bouteille",
+    "Ouvrir",
+    "Soda",
+    "Apéro"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Vase",
+   "taboo": [
+    "Fleurs",
+    "Bouquet",
+    "Eau",
+    "Cristal",
+    "Soissons"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Bocal",
+   "taboo": [
+    "Verre",
+    "Confiture",
+    "Poisson rouge",
+    "Couvercle",
+    "Cornichons"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Aimant",
+   "taboo": [
+    "Frigo",
+    "Métal",
+    "Attirer",
+    "Pôle",
+    "Magnétique"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Menottes",
+   "taboo": [
+    "Police",
+    "Poignets",
+    "Arrestation",
+    "Prison",
+    "Voleur"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Baguette magique",
+   "taboo": [
+    "Sorcier",
+    "Harry Potter",
+    "Fée",
+    "Formule",
+    "Abracadabra"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Rubik's Cube",
+   "taboo": [
+    "Couleurs",
+    "Casse-tête",
+    "Tourner",
+    "Faces",
+    "Mélanger"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Nœud papillon",
+   "taboo": [
+    "Cravate",
+    "Smoking",
+    "Cou",
+    "Chic",
+    "Serveur"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Serpillière",
+   "taboo": [
+    "Sol",
+    "Seau",
+    "Mouillé",
+    "Glissant",
+    "Ménage"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Dentier",
+   "taboo": [
+    "Mamie",
+    "Verre",
+    "Bouche",
+    "Fausses",
+    "Vieux"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Perruque",
+   "taboo": [
+    "Cheveux",
+    "Chauve",
+    "Fausse",
+    "Clown",
+    "Déguisement"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Marionnette",
+   "taboo": [
+    "Fils",
+    "Théâtre",
+    "Guignol",
+    "Pinocchio",
+    "Main"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Béret",
+   "taboo": [
+    "Basque",
+    "Français",
+    "Baguette",
+    "Peintre",
+    "Bonnet"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Stéthoscope",
+   "taboo": [
+    "Médecin",
+    "Cœur",
+    "Écouter",
+    "Poitrine",
+    "Respirez"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Boussole",
+   "taboo": [
+    "Nord",
+    "Aiguille",
+    "Orientation",
+    "Perdu",
+    "Magnétique"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Cintre",
+   "taboo": [
+    "Vêtements",
+    "Armoire",
+    "Penderie",
+    "Crochet",
+    "Pressing"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Éventail",
+   "taboo": [
+    "Chaud",
+    "Agiter",
+    "Espagnole",
+    "Main",
+    "Flamenco"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Pince à épiler",
+   "taboo": [
+    "Sourcils",
+    "Poils",
+    "Arracher",
+    "Écharde",
+    "Maquillage"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Sécateur",
+   "taboo": [
+    "Couper",
+    "Branches",
+    "Jardin",
+    "Roses",
+    "Tailler"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Niveau à bulle",
+   "taboo": [
+    "Horizontal",
+    "Droit",
+    "Bricolage",
+    "Penché",
+    "Maçon"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Clé à molette",
+   "taboo": [
+    "Plombier",
+    "Écrou",
+    "Boulon",
+    "Ajuster",
+    "Serrer"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Ventouse",
+   "taboo": [
+    "Déboucher",
+    "WC",
+    "Coller",
+    "Pieuvre",
+    "Plombier"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Paillasson",
+   "taboo": [
+    "Porte",
+    "Entrée",
+    "Pieds",
+    "Essuyer",
+    "Bienvenue"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Entonnoir",
+   "taboo": [
+    "Verser",
+    "Liquide",
+    "Cône",
+    "Bouteille",
+    "Essence"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Chausse-pied",
+   "taboo": [
+    "Talon",
+    "Enfiler",
+    "Glisser",
+    "Soulier",
+    "Corne"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Bigoudi",
+   "taboo": [
+    "Cheveux",
+    "Boucles",
+    "Mamie",
+    "Rouleaux",
+    "Friser"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Bretelles",
+   "taboo": [
+    "Pantalon",
+    "Épaules",
+    "Élastique",
+    "Tenir",
+    "Ceinture"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Machine à coudre",
+   "taboo": [
+    "Fil",
+    "Aiguille",
+    "Pédale",
+    "Singer",
+    "Tissu"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Boule à neige",
+   "taboo": [
+    "Secouer",
+    "Flocons",
+    "Souvenir",
+    "Hiver",
+    "Verre"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Monocle",
+   "taboo": [
+    "Œil",
+    "Verre",
+    "Aristocrate",
+    "Lunettes",
+    "Riche"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Girouette",
+   "taboo": [
+    "Vent",
+    "Toit",
+    "Coq",
+    "Tourner",
+    "Direction"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Épouvantail",
+   "taboo": [
+    "Corbeaux",
+    "Champ",
+    "Paille",
+    "Peur",
+    "Oz"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Enclume",
+   "taboo": [
+    "Forgeron",
+    "Marteau",
+    "Lourd",
+    "Fer",
+    "Coyote"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Truelle",
+   "taboo": [
+    "Maçon",
+    "Ciment",
+    "Briques",
+    "Lisser",
+    "Chantier"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Pied-de-biche",
+   "taboo": [
+    "Levier",
+    "Cambrioleur",
+    "Forcer",
+    "Arracher",
+    "Caisse"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Équerre",
+   "taboo": [
+    "Angle droit",
+    "Géométrie",
+    "Règle",
+    "Tracer",
+    "Perpendiculaire"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Rapporteur",
+   "taboo": [
+    "Angles",
+    "Degrés",
+    "Demi-cercle",
+    "Cafteur",
+    "Géométrie"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Encrier",
+   "taboo": [
+    "Plume",
+    "Pupitre",
+    "Tache",
+    "Noir",
+    "Calligraphie"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Fouet",
+   "taboo": [
+    "Battre",
+    "Œufs",
+    "Neige",
+    "Chantilly",
+    "Dompteur"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Casse-noix",
+   "taboo": [
+    "Coquille",
+    "Écraser",
+    "Noisettes",
+    "Pince",
+    "Écureuil"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Presse-agrumes",
+   "taboo": [
+    "Citron",
+    "Orange",
+    "Jus",
+    "Pépins",
+    "Pamplemousse"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Abat-jour",
+   "taboo": [
+    "Lampe",
+    "Tissu",
+    "Chevet",
+    "Tamiser",
+    "Lumière"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Sabots",
+   "taboo": [
+    "Bois",
+    "Hollande",
+    "Chaussures",
+    "Cheval",
+    "Paysan"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Ombrelle",
+   "taboo": [
+    "Soleil",
+    "Dentelle",
+    "Parapluie",
+    "Élégante",
+    "Bronzer"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Paratonnerre",
+   "taboo": [
+    "Foudre",
+    "Orage",
+    "Toit",
+    "Éclair",
+    "Clocher"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Étau",
+   "taboo": [
+    "Serrer",
+    "Établi",
+    "Bricolage",
+    "Mâchoires",
+    "Pression"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Bilboquet",
+   "taboo": [
+    "Boule",
+    "Ficelle",
+    "Bâton",
+    "Trou",
+    "Adresse"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Kaléidoscope",
+   "taboo": [
+    "Couleurs",
+    "Miroirs",
+    "Tourner",
+    "Motifs",
+    "Tube"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Longue-vue",
+   "taboo": [
+    "Pirate",
+    "Loin",
+    "Télescope",
+    "Marin",
+    "Déplier"
+   ],
+   "level": 3
+  }
+ ]
+}

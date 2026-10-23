@@ -1,0 +1,1457 @@
+{
+ "category": "metiers",
+ "cards": [
+  {
+   "word": "Boulanger",
+   "taboo": [
+    "Pain",
+    "Baguette",
+    "Croissant",
+    "Four",
+    "Farine"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Pompier",
+   "taboo": [
+    "Feu",
+    "Camion",
+    "Incendie",
+    "Caserne",
+    "Échelle"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Dentiste",
+   "taboo": [
+    "Carie",
+    "Bouche",
+    "Molaire",
+    "Fauteuil",
+    "Docteur"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Médecin",
+   "taboo": [
+    "Malade",
+    "Docteur",
+    "Ordonnance",
+    "Cabinet",
+    "Stéthoscope"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Professeur",
+   "taboo": [
+    "École",
+    "Élèves",
+    "Classe",
+    "Enseigner",
+    "Tableau"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Policier",
+   "taboo": [
+    "Voleur",
+    "Menottes",
+    "Commissariat",
+    "Uniforme",
+    "Arrestation"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Facteur",
+   "taboo": [
+    "Lettre",
+    "Courrier",
+    "Poste",
+    "Colis",
+    "Timbre"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Coiffeur",
+   "taboo": [
+    "Cheveux",
+    "Ciseaux",
+    "Coupe",
+    "Salon",
+    "Shampoing"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Cuisinier",
+   "taboo": [
+    "Restaurant",
+    "Plat",
+    "Chef",
+    "Toque",
+    "Recette"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Plombier",
+   "taboo": [
+    "Fuite",
+    "Tuyau",
+    "Eau",
+    "Robinet",
+    "Toilettes"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Électricien",
+   "taboo": [
+    "Câble",
+    "Courant",
+    "Prise",
+    "Ampoule",
+    "Disjoncteur"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Vétérinaire",
+   "taboo": [
+    "Animaux",
+    "Chien",
+    "Chat",
+    "Soigner",
+    "Clinique"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Infirmière",
+   "taboo": [
+    "Hôpital",
+    "Piqûre",
+    "Soins",
+    "Médecin",
+    "Blouse"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Pilote",
+   "taboo": [
+    "Avion",
+    "Voler",
+    "Cockpit",
+    "Aéroport",
+    "Ciel"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Astronaute",
+   "taboo": [
+    "Espace",
+    "Fusée",
+    "Lune",
+    "Combinaison",
+    "Apesanteur"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Agriculteur",
+   "taboo": [
+    "Ferme",
+    "Champ",
+    "Tracteur",
+    "Vache",
+    "Récolte"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Boucher",
+   "taboo": [
+    "Viande",
+    "Steak",
+    "Couteau",
+    "Tablier",
+    "Bœuf"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Clown",
+   "taboo": [
+    "Cirque",
+    "Nez",
+    "Rire",
+    "Perruque",
+    "Maquillage"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Caissière",
+   "taboo": [
+    "Supermarché",
+    "Ticket",
+    "Payer",
+    "Tapis",
+    "Code-barres"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Serveur",
+   "taboo": [
+    "Restaurant",
+    "Plateau",
+    "Commande",
+    "Café",
+    "Pourboire"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Mécanicien",
+   "taboo": [
+    "Garage",
+    "Voiture",
+    "Moteur",
+    "Réparer",
+    "Panne"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Jardinier",
+   "taboo": [
+    "Plantes",
+    "Fleurs",
+    "Tondeuse",
+    "Pelouse",
+    "Arroser"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Maçon",
+   "taboo": [
+    "Briques",
+    "Ciment",
+    "Mur",
+    "Chantier",
+    "Truelle"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Peintre",
+   "taboo": [
+    "Pinceau",
+    "Tableau",
+    "Couleurs",
+    "Toile",
+    "Artiste"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Pharmacien",
+   "taboo": [
+    "Médicaments",
+    "Ordonnance",
+    "Croix verte",
+    "Comprimés",
+    "Blouse"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Fleuriste",
+   "taboo": [
+    "Bouquet",
+    "Roses",
+    "Plantes",
+    "Tulipes",
+    "Vase"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Pâtissier",
+   "taboo": [
+    "Gâteau",
+    "Crème",
+    "Éclair",
+    "Sucre",
+    "Tarte"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Juge",
+   "taboo": [
+    "Tribunal",
+    "Procès",
+    "Marteau",
+    "Coupable",
+    "Verdict"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Soldat",
+   "taboo": [
+    "Armée",
+    "Guerre",
+    "Uniforme",
+    "Fusil",
+    "Caserne"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Chirurgien",
+   "taboo": [
+    "Opération",
+    "Bloc",
+    "Scalpel",
+    "Hôpital",
+    "Masque"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Pêcheur",
+   "taboo": [
+    "Poisson",
+    "Canne",
+    "Hameçon",
+    "Filet",
+    "Bateau"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Hôtesse de l'air",
+   "taboo": [
+    "Avion",
+    "Passagers",
+    "Uniforme",
+    "Vol",
+    "Sécurité"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Magicien",
+   "taboo": [
+    "Chapeau",
+    "Lapin",
+    "Tour",
+    "Baguette",
+    "Cartes"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Livreur",
+   "taboo": [
+    "Colis",
+    "Pizza",
+    "Scooter",
+    "Commande",
+    "Adresse"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Baby-sitter",
+   "taboo": [
+    "Enfants",
+    "Garder",
+    "Parents",
+    "Soirée",
+    "Bébé"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Marin",
+   "taboo": [
+    "Bateau",
+    "Mer",
+    "Navire",
+    "Ancre",
+    "Port"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Barman",
+   "taboo": [
+    "Cocktail",
+    "Comptoir",
+    "Verre",
+    "Shaker",
+    "Bière"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Bûcheron",
+   "taboo": [
+    "Arbre",
+    "Hache",
+    "Forêt",
+    "Bois",
+    "Tronçonneuse"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Berger",
+   "taboo": [
+    "Moutons",
+    "Troupeau",
+    "Chien",
+    "Montagne",
+    "Brebis"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Photographe",
+   "taboo": [
+    "Appareil",
+    "Objectif",
+    "Flash",
+    "Portrait",
+    "Mariage"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Détective",
+   "taboo": [
+    "Enquête",
+    "Indices",
+    "Loupe",
+    "Sherlock",
+    "Privé"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Chauffeur de taxi",
+   "taboo": [
+    "Voiture",
+    "Course",
+    "Compteur",
+    "Client",
+    "Conduire"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Écrivain",
+   "taboo": [
+    "Livre",
+    "Roman",
+    "Auteur",
+    "Plume",
+    "Éditeur"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Maire",
+   "taboo": [
+    "Mariage",
+    "Ville",
+    "Élection",
+    "Écharpe",
+    "Conseil municipal"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Couturière",
+   "taboo": [
+    "Fil",
+    "Aiguille",
+    "Tissu",
+    "Machine",
+    "Robe"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Bibliothécaire",
+   "taboo": [
+    "Livres",
+    "Prêt",
+    "Silence",
+    "Rayons",
+    "Emprunter"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Banquier",
+   "taboo": [
+    "Argent",
+    "Compte",
+    "Prêt",
+    "Crédit",
+    "Agence"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Architecte",
+   "taboo": [
+    "Plans",
+    "Maison",
+    "Bâtiment",
+    "Dessiner",
+    "Construire"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Secrétaire",
+   "taboo": [
+    "Bureau",
+    "Téléphone",
+    "Agenda",
+    "Rendez-vous",
+    "Patron"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Moniteur d'auto-école",
+   "taboo": [
+    "Permis",
+    "Code",
+    "Conduite",
+    "Voiture",
+    "Leçon"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Cordonnier",
+   "taboo": [
+    "Chaussures",
+    "Talon",
+    "Semelle",
+    "Réparer",
+    "Clés"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Serrurier",
+   "taboo": [
+    "Clé",
+    "Porte",
+    "Verrou",
+    "Cadenas",
+    "Ouvrir"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Sage-femme",
+   "taboo": [
+    "Accouchement",
+    "Bébé",
+    "Naissance",
+    "Maternité",
+    "Enceinte"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Apiculteur",
+   "taboo": [
+    "Abeilles",
+    "Miel",
+    "Ruche",
+    "Piqûre",
+    "Combinaison"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Vigneron",
+   "taboo": [
+    "Vin",
+    "Raisin",
+    "Vendanges",
+    "Tonneau",
+    "Bourgogne"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Éboueur",
+   "taboo": [
+    "Poubelles",
+    "Déchets",
+    "Camion",
+    "Benne",
+    "Ordures"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Ambulancier",
+   "taboo": [
+    "Urgence",
+    "Hôpital",
+    "Sirène",
+    "Brancard",
+    "Blessé"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Maître-nageur",
+   "taboo": [
+    "Piscine",
+    "Plage",
+    "Sifflet",
+    "Noyade",
+    "Bouée"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Libraire",
+   "taboo": [
+    "Livres",
+    "Romans",
+    "Boutique",
+    "Lecture",
+    "Auteur"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Informaticien",
+   "taboo": [
+    "Ordinateur",
+    "Programmer",
+    "Code",
+    "Logiciel",
+    "Écran"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Psychologue",
+   "taboo": [
+    "Divan",
+    "Séance",
+    "Écouter",
+    "Problèmes",
+    "Thérapie"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Opticien",
+   "taboo": [
+    "Lunettes",
+    "Verres",
+    "Vue",
+    "Lentilles",
+    "Monture"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Kinésithérapeute",
+   "taboo": [
+    "Massage",
+    "Rééducation",
+    "Dos",
+    "Séance",
+    "Muscles"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Poissonnier",
+   "taboo": [
+    "Mer",
+    "Saumon",
+    "Marché",
+    "Huîtres",
+    "Écailles"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Fromager",
+   "taboo": [
+    "Lait",
+    "Camembert",
+    "Brie",
+    "Comté",
+    "Crèmerie"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Charcutier",
+   "taboo": [
+    "Jambon",
+    "Saucisson",
+    "Pâté",
+    "Cochon",
+    "Porc"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Mannequin",
+   "taboo": [
+    "Défilé",
+    "Mode",
+    "Podium",
+    "Vêtements",
+    "Photo"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Dompteur",
+   "taboo": [
+    "Lion",
+    "Tigre",
+    "Cirque",
+    "Fouet",
+    "Cage"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Jongleur",
+   "taboo": [
+    "Balles",
+    "Cirque",
+    "Lancer",
+    "Massues",
+    "Rattraper"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Espion",
+   "taboo": [
+    "Secret",
+    "Agent",
+    "James Bond",
+    "Mission",
+    "Gadgets"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Douanier",
+   "taboo": [
+    "Frontière",
+    "Passeport",
+    "Contrôle",
+    "Valise",
+    "Contrebande"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Contrôleur",
+   "taboo": [
+    "Billet",
+    "Train",
+    "Amende",
+    "Fraude",
+    "Composter"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Gardien de prison",
+   "taboo": [
+    "Cellule",
+    "Détenus",
+    "Barreaux",
+    "Clés",
+    "Surveiller"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Curé",
+   "taboo": [
+    "Église",
+    "Messe",
+    "Dieu",
+    "Prière",
+    "Soutane"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Déménageur",
+   "taboo": [
+    "Cartons",
+    "Camion",
+    "Meubles",
+    "Porter",
+    "Maison"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Menuisier",
+   "taboo": [
+    "Bois",
+    "Scie",
+    "Rabot",
+    "Meubles",
+    "Atelier"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Horloger",
+   "taboo": [
+    "Montre",
+    "Heure",
+    "Aiguilles",
+    "Suisse",
+    "Mécanisme"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Bijoutier",
+   "taboo": [
+    "Bague",
+    "Collier",
+    "Or",
+    "Diamant",
+    "Vitrine"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Agent immobilier",
+   "taboo": [
+    "Appartement",
+    "Maison",
+    "Vendre",
+    "Louer",
+    "Visite"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Comptable",
+   "taboo": [
+    "Chiffres",
+    "Bilan",
+    "Impôts",
+    "Calculs",
+    "Entreprise"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Réceptionniste",
+   "taboo": [
+    "Hôtel",
+    "Accueil",
+    "Clés",
+    "Chambre",
+    "Comptoir"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Traducteur",
+   "taboo": [
+    "Langues",
+    "Anglais",
+    "Dictionnaire",
+    "Texte",
+    "Interprète"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Forgeron",
+   "taboo": [
+    "Enclume",
+    "Marteau",
+    "Fer",
+    "Feu",
+    "Métal"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Chocolatier",
+   "taboo": [
+    "Cacao",
+    "Pâques",
+    "Praliné",
+    "Truffe",
+    "Tablette"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Scientifique",
+   "taboo": [
+    "Laboratoire",
+    "Expérience",
+    "Blouse",
+    "Recherche",
+    "Microscope"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Pédiatre",
+   "taboo": [
+    "Enfants",
+    "Bébé",
+    "Médecin",
+    "Vaccins",
+    "Croissance"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Torero",
+   "taboo": [
+    "Taureau",
+    "Espagne",
+    "Arène",
+    "Cape",
+    "Corrida"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Jockey",
+   "taboo": [
+    "Cheval",
+    "Course",
+    "Hippodrome",
+    "Cravache",
+    "Petit"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Patron",
+   "taboo": [
+    "Chef",
+    "Entreprise",
+    "Employés",
+    "Boss",
+    "Salaire"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Stagiaire",
+   "taboo": [
+    "Café",
+    "Photocopies",
+    "Étudiant",
+    "Entreprise",
+    "Apprendre"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Ouvrier",
+   "taboo": [
+    "Usine",
+    "Chantier",
+    "Casque",
+    "Chaîne",
+    "Salaire"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Esthéticienne",
+   "taboo": [
+    "Ongles",
+    "Épilation",
+    "Maquillage",
+    "Soins",
+    "Institut"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Tatoueur",
+   "taboo": [
+    "Encre",
+    "Aiguille",
+    "Peau",
+    "Dessin",
+    "Douleur"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Voyante",
+   "taboo": [
+    "Boule de cristal",
+    "Avenir",
+    "Tarot",
+    "Main",
+    "Prédire"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Gardien de zoo",
+   "taboo": [
+    "Animaux",
+    "Enclos",
+    "Nourrir",
+    "Soigneur",
+    "Éléphants"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Influenceur",
+   "taboo": [
+    "Instagram",
+    "Réseaux sociaux",
+    "Abonnés",
+    "Vidéos",
+    "Célèbre"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Notaire",
+   "taboo": [
+    "Testament",
+    "Héritage",
+    "Vente",
+    "Contrat",
+    "Signature"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Croupier",
+   "taboo": [
+    "Casino",
+    "Cartes",
+    "Roulette",
+    "Jetons",
+    "Poker"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Ramoneur",
+   "taboo": [
+    "Cheminée",
+    "Suie",
+    "Noir",
+    "Toit",
+    "Brosse"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Routier",
+   "taboo": [
+    "Camion",
+    "Poids lourd",
+    "Livraison",
+    "Cabine",
+    "Kilomètres"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Guide touristique",
+   "taboo": [
+    "Visite",
+    "Musée",
+    "Groupe",
+    "Parapluie",
+    "Monument"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Ingénieur",
+   "taboo": [
+    "Diplôme",
+    "Technique",
+    "Calculs",
+    "Projet",
+    "Usine"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Vigile",
+   "taboo": [
+    "Sécurité",
+    "Magasin",
+    "Surveiller",
+    "Entrée",
+    "Badge"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Videur",
+   "taboo": [
+    "Boîte de nuit",
+    "Entrée",
+    "Costaud",
+    "Porte",
+    "Liste"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Charpentier",
+   "taboo": [
+    "Toit",
+    "Poutres",
+    "Bois",
+    "Marteau",
+    "Compagnon"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Couvreur",
+   "taboo": [
+    "Toit",
+    "Tuiles",
+    "Ardoises",
+    "Échelle",
+    "Gouttière"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Carreleur",
+   "taboo": [
+    "Sol",
+    "Joints",
+    "Faïence",
+    "Salle de bains",
+    "Ciment"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Vitrier",
+   "taboo": [
+    "Verre",
+    "Fenêtre",
+    "Carreau",
+    "Cassé",
+    "Mastic"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Antiquaire",
+   "taboo": [
+    "Meubles",
+    "Anciens",
+    "Brocante",
+    "Objets",
+    "Vieux"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Commissaire-priseur",
+   "taboo": [
+    "Enchères",
+    "Marteau",
+    "Adjugé",
+    "Vente",
+    "Objets"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Trader",
+   "taboo": [
+    "Bourse",
+    "Actions",
+    "Argent",
+    "Écrans",
+    "Wall Street"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Concierge",
+   "taboo": [
+    "Immeuble",
+    "Gardien",
+    "Courrier",
+    "Loge",
+    "Escaliers"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Cascadeur",
+   "taboo": [
+    "Film",
+    "Danger",
+    "Doublure",
+    "Acteur",
+    "Chute"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Potier",
+   "taboo": [
+    "Argile",
+    "Tour",
+    "Vase",
+    "Terre",
+    "Céramique"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Sommelier",
+   "taboo": [
+    "Vin",
+    "Cave",
+    "Dégustation",
+    "Restaurant",
+    "Bouteille"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Archéologue",
+   "taboo": [
+    "Fouilles",
+    "Ruines",
+    "Pinceau",
+    "Antiquité",
+    "Indiana Jones"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Paléontologue",
+   "taboo": [
+    "Dinosaures",
+    "Fossiles",
+    "Os",
+    "Squelette",
+    "Fouilles"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Ophtalmologue",
+   "taboo": [
+    "Yeux",
+    "Vue",
+    "Lunettes",
+    "Lettres",
+    "Myopie"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Cardiologue",
+   "taboo": [
+    "Cœur",
+    "Médecin",
+    "Tension",
+    "Infarctus",
+    "Battements"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Ostéopathe",
+   "taboo": [
+    "Dos",
+    "Craquer",
+    "Manipulation",
+    "Kiné",
+    "Douleur"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Anesthésiste",
+   "taboo": [
+    "Endormir",
+    "Opération",
+    "Piqûre",
+    "Sommeil",
+    "Bloc"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Croque-mort",
+   "taboo": [
+    "Cercueil",
+    "Enterrement",
+    "Cimetière",
+    "Deuil",
+    "Corbillard"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Traiteur",
+   "taboo": [
+    "Buffet",
+    "Mariage",
+    "Réception",
+    "Plats",
+    "Petits fours"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Barbier",
+   "taboo": [
+    "Rasoir",
+    "Moustache",
+    "Coiffeur",
+    "Mousse",
+    "Blaireau"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Ventriloque",
+   "taboo": [
+    "Marionnette",
+    "Voix",
+    "Bouche",
+    "Poupée",
+    "Spectacle"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Mime",
+   "taboo": [
+    "Silence",
+    "Gestes",
+    "Muet",
+    "Marceau",
+    "Marinière"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Astrologue",
+   "taboo": [
+    "Horoscope",
+    "Signes",
+    "Zodiaque",
+    "Étoiles",
+    "Avenir"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Huissier",
+   "taboo": [
+    "Saisie",
+    "Dettes",
+    "Justice",
+    "Meubles",
+    "Expulsion"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Meunier",
+   "taboo": [
+    "Moulin",
+    "Farine",
+    "Blé",
+    "Grain",
+    "Meule"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Dépanneur",
+   "taboo": [
+    "Remorqueuse",
+    "Voiture",
+    "Autoroute",
+    "Garage",
+    "Câbles"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Orthophoniste",
+   "taboo": [
+    "Parler",
+    "Langage",
+    "Enfants",
+    "Bégaiement",
+    "Prononciation"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Diététicienne",
+   "taboo": [
+    "Régime",
+    "Poids",
+    "Alimentation",
+    "Calories",
+    "Maigrir"
+   ],
+   "level": 3
+  }
+ ]
+}

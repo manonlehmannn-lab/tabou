@@ -1,0 +1,1490 @@
+{
+ "category": "musique",
+ "cards": [
+  {
+   "word": "Guitare",
+   "taboo": [
+    "Cordes",
+    "Gratter",
+    "Électrique",
+    "Accords",
+    "Rock"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Batterie",
+   "taboo": [
+    "Tambour",
+    "Baguettes",
+    "Cymbales",
+    "Rythme",
+    "Rock"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Piano",
+   "taboo": [
+    "Touches",
+    "Clavier",
+    "Noir",
+    "Blanc",
+    "Queue"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Violon",
+   "taboo": [
+    "Archet",
+    "Cordes",
+    "Menton",
+    "Orchestre",
+    "Classique"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Flûte",
+   "taboo": [
+    "Souffler",
+    "Trous",
+    "Bec",
+    "Collège",
+    "Traversière"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Trompette",
+   "taboo": [
+    "Souffler",
+    "Cuivre",
+    "Jazz",
+    "Pistons",
+    "Fanfare"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Tambour",
+   "taboo": [
+    "Taper",
+    "Baguettes",
+    "Peau",
+    "Militaire",
+    "Rythme"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Harmonica",
+   "taboo": [
+    "Bouche",
+    "Souffler",
+    "Blues",
+    "Petit",
+    "Poche"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Accordéon",
+   "taboo": [
+    "Musette",
+    "Bal",
+    "Soufflet",
+    "Touches",
+    "Guinguette"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Rap",
+   "taboo": [
+    "Rimes",
+    "Hip-hop",
+    "Paroles",
+    "Flow",
+    "Banlieue"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Rock",
+   "taboo": [
+    "Guitare",
+    "Roll",
+    "Électrique",
+    "Elvis",
+    "Concert"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Opéra",
+   "taboo": [
+    "Chanter",
+    "Diva",
+    "Aigu",
+    "Lyrique",
+    "Garnier"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Karaoké",
+   "taboo": [
+    "Chanter",
+    "Micro",
+    "Paroles",
+    "Écran",
+    "Faux"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Chef d'orchestre",
+   "taboo": [
+    "Baguette",
+    "Musiciens",
+    "Diriger",
+    "Symphonie",
+    "Dos"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Refrain",
+   "taboo": [
+    "Couplet",
+    "Chanson",
+    "Répéter",
+    "Paroles",
+    "Tube"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Fête de la musique",
+   "taboo": [
+    "Juin",
+    "Rue",
+    "Concerts",
+    "Été",
+    "Gratuit"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Eurovision",
+   "taboo": [
+    "Concours",
+    "Chanson",
+    "Pays",
+    "Points",
+    "Vote"
+   ],
+   "level": 1
+  },
+  {
+   "word": "La Marseillaise",
+   "taboo": [
+    "Hymne",
+    "France",
+    "Aux armes",
+    "Révolution",
+    "Citoyens"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Disco",
+   "taboo": [
+    "Boule à facettes",
+    "Danse",
+    "Années 70",
+    "Paillettes",
+    "Boîte de nuit"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Vinyle",
+   "taboo": [
+    "Disque",
+    "Platine",
+    "Tours",
+    "Noir",
+    "Collection"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Playlist",
+   "taboo": [
+    "Chansons",
+    "Spotify",
+    "Écouter",
+    "Aléatoire",
+    "Soirée"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Chanson",
+   "taboo": [
+    "Paroles",
+    "Musique",
+    "Refrain",
+    "Couplet",
+    "Radio"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Concert",
+   "taboo": [
+    "Scène",
+    "Public",
+    "Billet",
+    "Groupe",
+    "Chanteur"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Jazz",
+   "taboo": [
+    "Saxophone",
+    "Improvisation",
+    "Swing",
+    "Trompette",
+    "Nouvelle-Orléans"
+   ],
+   "level": 1
+  },
+  {
+   "word": "DJ",
+   "taboo": [
+    "Mixer",
+    "Platines",
+    "Soirée",
+    "Boîte de nuit",
+    "Casque"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Reggae",
+   "taboo": [
+    "Jamaïque",
+    "Bob Marley",
+    "Rasta",
+    "Dreadlocks",
+    "Détendu"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Festival",
+   "taboo": [
+    "Concerts",
+    "Été",
+    "Camping",
+    "Scène",
+    "Bracelet"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Clip",
+   "taboo": [
+    "Vidéo",
+    "Chanson",
+    "YouTube",
+    "Tourner",
+    "MTV"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Album",
+   "taboo": [
+    "Disque",
+    "Chansons",
+    "Pistes",
+    "Sortir",
+    "Pochette"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Tube",
+   "taboo": [
+    "Succès",
+    "Chanson",
+    "Été",
+    "Radio",
+    "Numéro un"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Saxophone",
+   "taboo": [
+    "Jazz",
+    "Souffler",
+    "Cuivre",
+    "Anche",
+    "Doré"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Slow",
+   "taboo": [
+    "Danser",
+    "Collé-serré",
+    "Boum",
+    "Lent",
+    "Couple"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Duo",
+   "taboo": [
+    "Deux",
+    "Ensemble",
+    "Chanter",
+    "Paire",
+    "Binôme"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Partition",
+   "taboo": [
+    "Notes",
+    "Portée",
+    "Lire",
+    "Musicien",
+    "Solfège"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Applaudissements",
+   "taboo": [
+    "Mains",
+    "Taper",
+    "Bravo",
+    "Public",
+    "Fin"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Xylophone",
+   "taboo": [
+    "Lames",
+    "Maillets",
+    "Enfants",
+    "Couleurs",
+    "Taper"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Maracas",
+   "taboo": [
+    "Secouer",
+    "Mexique",
+    "Grains",
+    "Rythme",
+    "Paire"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Berceuse",
+   "taboo": [
+    "Bébé",
+    "Dormir",
+    "Chanter",
+    "Douce",
+    "Lit"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Frère Jacques",
+   "taboo": [
+    "Dormez-vous",
+    "Matines",
+    "Canon",
+    "Comptine",
+    "Ding dang dong"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Au clair de la lune",
+   "taboo": [
+    "Pierrot",
+    "Plume",
+    "Comptine",
+    "Ami",
+    "Chandelle"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Petit Papa Noël",
+   "taboo": [
+    "Tino Rossi",
+    "Décembre",
+    "Cadeaux",
+    "Ciel",
+    "Soulier"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Chorale",
+   "taboo": [
+    "Chanteurs",
+    "Voix",
+    "Ensemble",
+    "Église",
+    "Chef"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Musique classique",
+   "taboo": [
+    "Mozart",
+    "Orchestre",
+    "Beethoven",
+    "Symphonie",
+    "Violon"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Triangle",
+   "taboo": [
+    "Métal",
+    "Baguette",
+    "Forme",
+    "Trois côtés",
+    "Tinter"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Danse des canards",
+   "taboo": [
+    "Mariage",
+    "Ailes",
+    "Coin-coin",
+    "Bec",
+    "Fête"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Vive le vent",
+   "taboo": [
+    "Hiver",
+    "Noël",
+    "Neige",
+    "Jingle Bells",
+    "Chanson"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Harpe",
+   "taboo": [
+    "Cordes",
+    "Ange",
+    "Pincer",
+    "Grande",
+    "Celtique"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Violoncelle",
+   "taboo": [
+    "Archet",
+    "Cordes",
+    "Genoux",
+    "Grave",
+    "Assis"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Djembé",
+   "taboo": [
+    "Afrique",
+    "Tambour",
+    "Mains",
+    "Taper",
+    "Peau"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Cornemuse",
+   "taboo": [
+    "Écosse",
+    "Kilt",
+    "Sac",
+    "Souffler",
+    "Bretagne"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Orgue",
+   "taboo": [
+    "Église",
+    "Tuyaux",
+    "Messe",
+    "Clavier",
+    "Bach"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Techno",
+   "taboo": [
+    "Électronique",
+    "Rave",
+    "DJ",
+    "Berlin",
+    "Boîte de nuit"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Blues",
+   "taboo": [
+    "Triste",
+    "Guitare",
+    "Harmonica",
+    "Jazz",
+    "Mississippi"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Country",
+   "taboo": [
+    "Cowboy",
+    "Banjo",
+    "Texas",
+    "Chapeau",
+    "Guitare"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Punk",
+   "taboo": [
+    "Crête",
+    "Rebelle",
+    "Anarchie",
+    "Cuir",
+    "Épingles"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Pop",
+   "taboo": [
+    "Michael Jackson",
+    "Madonna",
+    "Tubes",
+    "Radio",
+    "Commercial"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Valse",
+   "taboo": [
+    "Danse",
+    "Trois temps",
+    "Vienne",
+    "Tourner",
+    "Strauss"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Fanfare",
+   "taboo": [
+    "Défilé",
+    "Cuivres",
+    "Trompettes",
+    "Tambours",
+    "Kermesse"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Solfège",
+   "taboo": [
+    "Notes",
+    "Do ré mi",
+    "Lire",
+    "Conservatoire",
+    "Portée"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Gamme",
+   "taboo": [
+    "Do ré mi",
+    "Notes",
+    "Monter",
+    "Piano",
+    "Exercice"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Fausse note",
+   "taboo": [
+    "Erreur",
+    "Chanter",
+    "Oreilles",
+    "Grincer",
+    "Justesse"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Diva",
+   "taboo": [
+    "Chanteuse",
+    "Caprices",
+    "Star",
+    "Opéra",
+    "Exigeante"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Tournée",
+   "taboo": [
+    "Concerts",
+    "Villes",
+    "Bus",
+    "Groupe",
+    "Dates"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Boum",
+   "taboo": [
+    "Fête",
+    "Adolescents",
+    "Slow",
+    "Danser",
+    "Parents"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Juke-box",
+   "taboo": [
+    "Pièce",
+    "Bar",
+    "Chansons",
+    "Choisir",
+    "Américain"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Boîte à musique",
+   "taboo": [
+    "Danseuse",
+    "Manivelle",
+    "Mélodie",
+    "Ouvrir",
+    "Bijoux"
+   ],
+   "level": 2
+  },
+  {
+   "word": "The Voice",
+   "taboo": [
+    "Fauteuils",
+    "Coachs",
+    "Télévision",
+    "Chanter",
+    "Buzzer"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Star Academy",
+   "taboo": [
+    "Château",
+    "Élèves",
+    "Télé-réalité",
+    "Chanter",
+    "TF1"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Macarena",
+   "taboo": [
+    "Danse",
+    "Été",
+    "Espagnol",
+    "Mains",
+    "Hanches"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Bella ciao",
+   "taboo": [
+    "Italie",
+    "Résistance",
+    "Casa de Papel",
+    "Partisans",
+    "Adieu"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Comptine",
+   "taboo": [
+    "Enfants",
+    "Chanson",
+    "Maternelle",
+    "Frère Jacques",
+    "Apprendre"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Ukulélé",
+   "taboo": [
+    "Hawaï",
+    "Petit",
+    "Guitare",
+    "Cordes",
+    "Quatre"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Clarinette",
+   "taboo": [
+    "Bois",
+    "Souffler",
+    "Anche",
+    "Noire",
+    "Jazz"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Trombone",
+   "taboo": [
+    "Coulisse",
+    "Cuivre",
+    "Fanfare",
+    "Bureau",
+    "Papier"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Tuba",
+   "taboo": [
+    "Gros",
+    "Cuivre",
+    "Grave",
+    "Fanfare",
+    "Lourd"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Cymbales",
+   "taboo": [
+    "Taper",
+    "Métal",
+    "Batterie",
+    "Bruit",
+    "Dorées"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Castagnettes",
+   "taboo": [
+    "Espagne",
+    "Flamenco",
+    "Bois",
+    "Claquer",
+    "Mains"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Flamenco",
+   "taboo": [
+    "Espagne",
+    "Danse",
+    "Guitare",
+    "Castagnettes",
+    "Talons"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Couplet",
+   "taboo": [
+    "Refrain",
+    "Strophe",
+    "Chanson",
+    "Paroles",
+    "Partie"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Playback",
+   "taboo": [
+    "Lèvres",
+    "Mimer",
+    "Enregistré",
+    "Tricher",
+    "Micro"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Synthétiseur",
+   "taboo": [
+    "Clavier",
+    "Électronique",
+    "Sons",
+    "Années 80",
+    "Boutons"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Conservatoire",
+   "taboo": [
+    "Musique",
+    "École",
+    "Instruments",
+    "Solfège",
+    "Élèves"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Boys band",
+   "taboo": [
+    "Garçons",
+    "Groupe",
+    "Danser",
+    "Fans",
+    "Années 90"
+   ],
+   "level": 2
+  },
+  {
+   "word": "La Chenille",
+   "taboo": [
+    "Danse",
+    "Mariage",
+    "File",
+    "Épaules",
+    "Fête"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Métal",
+   "taboo": [
+    "Hard rock",
+    "Cheveux longs",
+    "Guitare",
+    "Hurler",
+    "Hellfest"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Hip-hop",
+   "taboo": [
+    "Rap",
+    "Breakdance",
+    "Rue",
+    "Casquette",
+    "Graffiti"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Samba",
+   "taboo": [
+    "Brésil",
+    "Carnaval",
+    "Rio",
+    "Danse",
+    "Plumes"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Bal populaire",
+   "taboo": [
+    "Quatorze juillet",
+    "Danser",
+    "Pompiers",
+    "Village",
+    "Accordéon"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Comédie musicale",
+   "taboo": [
+    "Chanter",
+    "Danser",
+    "Spectacle",
+    "Broadway",
+    "Notre-Dame de Paris"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Solo",
+   "taboo": [
+    "Seul",
+    "Guitare",
+    "Improviser",
+    "Batterie",
+    "Briller"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Mélodie",
+   "taboo": [
+    "Air",
+    "Notes",
+    "Chanson",
+    "Fredonner",
+    "Musique"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Fredonner",
+   "taboo": [
+    "Chantonner",
+    "Air",
+    "Mélodie",
+    "Bouche",
+    "Doucement"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Chanter sous la douche",
+   "taboo": [
+    "Salle de bain",
+    "Eau",
+    "Faux",
+    "Savon",
+    "Voix"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Scène",
+   "taboo": [
+    "Concert",
+    "Théâtre",
+    "Monter",
+    "Public",
+    "Planches"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Paroles",
+   "taboo": [
+    "Texte",
+    "Chanson",
+    "Mots",
+    "Refrain",
+    "Écrire"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Rythme",
+   "taboo": [
+    "Tempo",
+    "Battre",
+    "Danser",
+    "Mesure",
+    "Cadence"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Mariachi",
+   "taboo": [
+    "Mexique",
+    "Sombrero",
+    "Trompette",
+    "Guitare",
+    "Groupe"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Blind test",
+   "taboo": [
+    "Deviner",
+    "Chansons",
+    "Titre",
+    "Extrait",
+    "Jeu"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Tambourin",
+   "taboo": [
+    "Grelots",
+    "Taper",
+    "Rond",
+    "Secouer",
+    "Peau"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Gospel",
+   "taboo": [
+    "Église",
+    "Chorale",
+    "Dieu",
+    "Américain",
+    "Amen"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Slam",
+   "taboo": [
+    "Poésie",
+    "Grand Corps Malade",
+    "Texte",
+    "Parler",
+    "Rimes"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Hymne à la joie",
+   "taboo": [
+    "Beethoven",
+    "Europe",
+    "Symphonie",
+    "Neuvième",
+    "Ode"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Les Quatre Saisons",
+   "taboo": [
+    "Vivaldi",
+    "Printemps",
+    "Été",
+    "Hiver",
+    "Automne"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Boléro",
+   "taboo": [
+    "Ravel",
+    "Répétitif",
+    "Crescendo",
+    "Tambour",
+    "Danse"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Lettre à Élise",
+   "taboo": [
+    "Beethoven",
+    "Piano",
+    "Mélodie",
+    "Classique",
+    "Apprendre"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Marche nuptiale",
+   "taboo": [
+    "Mariage",
+    "Église",
+    "Orgue",
+    "Robe blanche",
+    "Autel"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Le Lac des cygnes",
+   "taboo": [
+    "Tchaïkovski",
+    "Ballet",
+    "Tutu",
+    "Danseuses",
+    "Oiseaux"
+   ],
+   "level": 3
+  },
+  {
+   "word": "La Vie en rose",
+   "taboo": [
+    "Édith Piaf",
+    "Amour",
+    "Chanson",
+    "Bonheur",
+    "Paris"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Contrebasse",
+   "taboo": [
+    "Cordes",
+    "Grande",
+    "Grave",
+    "Jazz",
+    "Archet"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Hautbois",
+   "taboo": [
+    "Anche",
+    "Orchestre",
+    "Souffler",
+    "Canard",
+    "Pierre et le Loup"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Mandoline",
+   "taboo": [
+    "Cordes",
+    "Italie",
+    "Cuisine",
+    "Légumes",
+    "Trancher"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Zouk",
+   "taboo": [
+    "Antilles",
+    "Danser",
+    "Martinique",
+    "Guadeloupe",
+    "Collé-serré"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Raï",
+   "taboo": [
+    "Algérie",
+    "Khaled",
+    "Maghreb",
+    "Oran",
+    "Cheb"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Crescendo",
+   "taboo": [
+    "Monter",
+    "Fort",
+    "Progressif",
+    "Intensité",
+    "Volume"
+   ],
+   "level": 3
+  },
+  {
+   "word": "A cappella",
+   "taboo": [
+    "Voix",
+    "Instruments",
+    "Chanter",
+    "Chœur",
+    "Bouche"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Beatbox",
+   "taboo": [
+    "Bouche",
+    "Bruits",
+    "Rythme",
+    "Batterie",
+    "Imiter"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Remix",
+   "taboo": [
+    "Version",
+    "DJ",
+    "Mélanger",
+    "Original",
+    "Moderne"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Hit-parade",
+   "taboo": [
+    "Classement",
+    "Top 50",
+    "Chansons",
+    "Numéro un",
+    "Ventes"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Disque d'or",
+   "taboo": [
+    "Ventes",
+    "Album",
+    "Récompense",
+    "Exemplaires",
+    "Platine"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Jingle",
+   "taboo": [
+    "Publicité",
+    "Radio",
+    "Court",
+    "Mélodie",
+    "Reconnaître"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Bande originale",
+   "taboo": [
+    "Film",
+    "Musique",
+    "Compositeur",
+    "Générique",
+    "Thème"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Rappel",
+   "taboo": [
+    "Concert",
+    "Applaudir",
+    "Bis",
+    "Encore",
+    "Revenir"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Pogo",
+   "taboo": [
+    "Sauter",
+    "Concert",
+    "Bousculer",
+    "Punk",
+    "Foule"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Air guitar",
+   "taboo": [
+    "Imaginaire",
+    "Mimer",
+    "Rock",
+    "Faire semblant",
+    "Instrument"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Gramophone",
+   "taboo": [
+    "Pavillon",
+    "Disque",
+    "Ancien",
+    "Manivelle",
+    "Aiguille"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Métronome",
+   "taboo": [
+    "Tic-tac",
+    "Rythme",
+    "Tempo",
+    "Battement",
+    "Piano"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Ténor",
+   "taboo": [
+    "Voix",
+    "Opéra",
+    "Pavarotti",
+    "Chanteur",
+    "Aigu"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Woodstock",
+   "taboo": [
+    "Festival",
+    "Hippies",
+    "Peace and love",
+    "Boue",
+    "Jimi Hendrix"
+   ],
+   "level": 3
+  },
+  {
+   "word": "N'oubliez pas les paroles",
+   "taboo": [
+    "Nagui",
+    "Chanter",
+    "Émission",
+    "Maestro",
+    "Karaoké"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Musique d'ascenseur",
+   "taboo": [
+    "Attente",
+    "Téléphone",
+    "Ennuyeuse",
+    "Fond",
+    "Douce"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Oreille absolue",
+   "taboo": [
+    "Note",
+    "Reconnaître",
+    "Musicien",
+    "Don",
+    "Entendre"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Médiator",
+   "taboo": [
+    "Guitare",
+    "Gratter",
+    "Plastique",
+    "Triangle",
+    "Cordes"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Ampli",
+   "taboo": [
+    "Guitare",
+    "Son",
+    "Fort",
+    "Brancher",
+    "Larsen"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Didgeridoo",
+   "taboo": [
+    "Australie",
+    "Aborigènes",
+    "Tube",
+    "Souffler",
+    "Bois"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Pipeau",
+   "taboo": [
+    "Flûte",
+    "Mentir",
+    "Bluff",
+    "Faux",
+    "Souffler"
+   ],
+   "level": 3
+  }
+ ]
+}

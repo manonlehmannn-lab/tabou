@@ -1,0 +1,1501 @@
+{
+ "category": "situations",
+ "cards": [
+  {
+   "word": "Fou rire",
+   "taboo": [
+    "Rigoler",
+    "Arrêter",
+    "Larmes",
+    "Incontrôlable",
+    "Ventre"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Panne d'oreiller",
+   "taboo": [
+    "Réveil",
+    "Retard",
+    "Dormir",
+    "Sonner",
+    "Matin"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Rater le bus",
+   "taboo": [
+    "Arrêt",
+    "Courir",
+    "Retard",
+    "Chauffeur",
+    "Partir"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Oublier ses clés",
+   "taboo": [
+    "Porte",
+    "Maison",
+    "Serrurier",
+    "Dehors",
+    "Enfermé"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Coup de soleil",
+   "taboo": [
+    "Rouge",
+    "Peau",
+    "Plage",
+    "Crème",
+    "Brûlure"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Râteau",
+   "taboo": [
+    "Refus",
+    "Draguer",
+    "Non",
+    "Séduire",
+    "Vexé"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Ronfler",
+   "taboo": [
+    "Dormir",
+    "Bruit",
+    "Nez",
+    "Nuit",
+    "Bouchons d'oreilles"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Hoquet",
+   "taboo": [
+    "Hic",
+    "Peur",
+    "Eau",
+    "Respiration",
+    "Spasme"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Gaffe",
+   "taboo": [
+    "Maladresse",
+    "Erreur",
+    "Bourde",
+    "Dire",
+    "Oups"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Éternuer",
+   "taboo": [
+    "Atchoum",
+    "Nez",
+    "Rhume",
+    "Mouchoir",
+    "Allergie"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Bâiller",
+   "taboo": [
+    "Fatigue",
+    "Bouche",
+    "Sommeil",
+    "Ennui",
+    "Contagieux"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Rougir",
+   "taboo": [
+    "Gêne",
+    "Joues",
+    "Timide",
+    "Honte",
+    "Tomate"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Chatouilles",
+   "taboo": [
+    "Rire",
+    "Pieds",
+    "Doigts",
+    "Ventre",
+    "Sensible"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Grimace",
+   "taboo": [
+    "Visage",
+    "Langue",
+    "Moche",
+    "Drôle",
+    "Enfant"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Rater une marche",
+   "taboo": [
+    "Escalier",
+    "Tomber",
+    "Trébucher",
+    "Pied",
+    "Chute"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Renverser son verre",
+   "taboo": [
+    "Table",
+    "Boisson",
+    "Nappe",
+    "Maladroit",
+    "Eau"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Batterie à plat",
+   "taboo": [
+    "Téléphone",
+    "Chargeur",
+    "Éteint",
+    "Pourcentage",
+    "Prise"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Être en retard",
+   "taboo": [
+    "Heure",
+    "Excuses",
+    "Attendre",
+    "Montre",
+    "Rendez-vous"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Se perdre",
+   "taboo": [
+    "GPS",
+    "Chemin",
+    "Carte",
+    "Direction",
+    "Égaré"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Lacet défait",
+   "taboo": [
+    "Chaussure",
+    "Attacher",
+    "Nœud",
+    "Tomber",
+    "Refaire"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Piqûre de moustique",
+   "taboo": [
+    "Gratter",
+    "Bouton",
+    "Été",
+    "Nuit",
+    "Insecte"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Caprice",
+   "taboo": [
+    "Enfant",
+    "Crier",
+    "Pleurer",
+    "Supermarché",
+    "Colère"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Poisson d'avril",
+   "taboo": [
+    "Blague",
+    "Farce",
+    "Dos",
+    "Papier",
+    "Premier"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Marcher dans une crotte",
+   "taboo": [
+    "Chien",
+    "Trottoir",
+    "Chaussure",
+    "Odeur",
+    "Chance"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Se tromper de prénom",
+   "taboo": [
+    "Nom",
+    "Appeler",
+    "Gêne",
+    "Erreur",
+    "Confondre"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Bouder",
+   "taboo": [
+    "Fâché",
+    "Moue",
+    "Parler",
+    "Enfant",
+    "Vexé"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Selfie raté",
+   "taboo": [
+    "Photo",
+    "Téléphone",
+    "Flou",
+    "Grimace",
+    "Instagram"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Coup de marteau sur le doigt",
+   "taboo": [
+    "Clou",
+    "Bricolage",
+    "Pouce",
+    "Douleur",
+    "Aïe"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Fête surprise",
+   "taboo": [
+    "Anniversaire",
+    "Secret",
+    "Cacher",
+    "Lumières",
+    "Crier"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Plus de papier toilette",
+   "taboo": [
+    "Rouleau",
+    "WC",
+    "Crier",
+    "Coincé",
+    "Vide"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Araignée dans la douche",
+   "taboo": [
+    "Pattes",
+    "Crier",
+    "Peur",
+    "Phobie",
+    "Toile"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Glisser sur une peau de banane",
+   "taboo": [
+    "Tomber",
+    "Fruit",
+    "Jaune",
+    "Dessin animé",
+    "Chute"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Tomber de sa chaise",
+   "taboo": [
+    "Balancer",
+    "Assis",
+    "Arrière",
+    "Pieds",
+    "Chute"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Crampe",
+   "taboo": [
+    "Muscle",
+    "Mollet",
+    "Douleur",
+    "Sport",
+    "Nuit"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Mal de mer",
+   "taboo": [
+    "Bateau",
+    "Vomir",
+    "Vagues",
+    "Nausée",
+    "Estomac"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Se brûler la langue",
+   "taboo": [
+    "Chaud",
+    "Soupe",
+    "Café",
+    "Bouche",
+    "Souffler"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Se mordre la langue",
+   "taboo": [
+    "Dents",
+    "Bouche",
+    "Douleur",
+    "Manger",
+    "Saigner"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Tache sur la chemise",
+   "taboo": [
+    "Café",
+    "Sauce",
+    "Vêtement",
+    "Sale",
+    "Laver"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Pull à l'envers",
+   "taboo": [
+    "Vêtement",
+    "Retourné",
+    "Devant",
+    "Derrière",
+    "Étiquette"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Chaussette trouée",
+   "taboo": [
+    "Orteil",
+    "Pieds",
+    "Usée",
+    "Gêne",
+    "Dépasser"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Crevaison",
+   "taboo": [
+    "Pneu",
+    "Roue",
+    "Vélo",
+    "Voiture",
+    "Clou"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Pleurer devant un film",
+   "taboo": [
+    "Larmes",
+    "Émotion",
+    "Triste",
+    "Mouchoir",
+    "Cinéma"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Plus d'eau chaude",
+   "taboo": [
+    "Douche",
+    "Froid",
+    "Ballon",
+    "Glacé",
+    "Crier"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Croiser son ex",
+   "taboo": [
+    "Ancien",
+    "Couple",
+    "Rue",
+    "Gêne",
+    "Amour"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Pousser au lieu de tirer",
+   "taboo": [
+    "Porte",
+    "Poignée",
+    "Écrit",
+    "Erreur",
+    "Bête"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Parler en dormant",
+   "taboo": [
+    "Sommeil",
+    "Nuit",
+    "Rêve",
+    "Somnambule",
+    "Lit"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Gueule de bois",
+   "taboo": [
+    "Alcool",
+    "Lendemain",
+    "Mal de tête",
+    "Soirée",
+    "Boire"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Trou de mémoire",
+   "taboo": [
+    "Oublier",
+    "Blanc",
+    "Examen",
+    "Tête",
+    "Rappeler"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Se cogner le petit orteil",
+   "taboo": [
+    "Meuble",
+    "Pied",
+    "Douleur",
+    "Crier",
+    "Coin"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Fourmis dans les jambes",
+   "taboo": [
+    "Picotements",
+    "Engourdi",
+    "Assis",
+    "Sang",
+    "Pieds"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Blague de tonton",
+   "taboo": [
+    "Oncle",
+    "Repas",
+    "Nul",
+    "Famille",
+    "Rire"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Silence gênant",
+   "taboo": [
+    "Parler",
+    "Bruit",
+    "Malaise",
+    "Personne",
+    "Conversation"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Prendre un vent",
+   "taboo": [
+    "Ignorer",
+    "Bonjour",
+    "Main",
+    "Saluer",
+    "Vexé"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Message à la mauvaise personne",
+   "taboo": [
+    "Texto",
+    "Erreur",
+    "Téléphone",
+    "Destinataire",
+    "Gêne"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Braguette ouverte",
+   "taboo": [
+    "Pantalon",
+    "Fermeture",
+    "Zip",
+    "Remarquer",
+    "Gêne"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Pantalon craqué",
+   "taboo": [
+    "Fesses",
+    "Déchiré",
+    "Couture",
+    "Serré",
+    "Accroupi"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Salade entre les dents",
+   "taboo": [
+    "Sourire",
+    "Manger",
+    "Persil",
+    "Miroir",
+    "Coincé"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Mauvaise haleine",
+   "taboo": [
+    "Bouche",
+    "Odeur",
+    "Ail",
+    "Chewing-gum",
+    "Dentifrice"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Ventre qui gargouille",
+   "taboo": [
+    "Faim",
+    "Estomac",
+    "Bruit",
+    "Silence",
+    "Manger"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Coincé dans l'ascenseur",
+   "taboo": [
+    "Panne",
+    "Bloqué",
+    "Étage",
+    "Bouton",
+    "Alarme"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Téléphone qui sonne au cinéma",
+   "taboo": [
+    "Film",
+    "Silence",
+    "Gêne",
+    "Éteindre",
+    "Portable"
+   ],
+   "level": 2
+  },
+  {
+   "word": "S'endormir en réunion",
+   "taboo": [
+    "Collègues",
+    "Ennui",
+    "Sieste",
+    "Bâiller",
+    "Patron"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Baver en dormant",
+   "taboo": [
+    "Oreiller",
+    "Bouche",
+    "Salive",
+    "Sieste",
+    "Tache"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Somnambule",
+   "taboo": [
+    "Dormir",
+    "Marcher",
+    "Nuit",
+    "Yeux",
+    "Réveiller"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Excuse bidon",
+   "taboo": [
+    "Mensonge",
+    "Retard",
+    "Inventer",
+    "Prétexte",
+    "Chien"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Couper la parole",
+   "taboo": [
+    "Interrompre",
+    "Discussion",
+    "Impoli",
+    "Finir",
+    "Phrase"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Parler tout seul",
+   "taboo": [
+    "Fou",
+    "Soi-même",
+    "Voix",
+    "Personne",
+    "Rue"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Yeux fermés sur la photo",
+   "taboo": [
+    "Cligner",
+    "Flash",
+    "Paupières",
+    "Raté",
+    "Souriez"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Parapluie retourné",
+   "taboo": [
+    "Vent",
+    "Tempête",
+    "Baleines",
+    "Averse",
+    "Cassé"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Éclaboussé par une voiture",
+   "taboo": [
+    "Flaque",
+    "Eau",
+    "Trottoir",
+    "Mouillé",
+    "Pluie"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Se prendre une porte vitrée",
+   "taboo": [
+    "Verre",
+    "Transparent",
+    "Nez",
+    "Cogner",
+    "Bosse"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Bébé qui pleure dans l'avion",
+   "taboo": [
+    "Bruit",
+    "Voyage",
+    "Hurler",
+    "Parents",
+    "Vol"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Coiffure ratée",
+   "taboo": [
+    "Cheveux",
+    "Coupe",
+    "Frange",
+    "Pleurer",
+    "Moche"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Chercher ses lunettes",
+   "taboo": [
+    "Nez",
+    "Tête",
+    "Voir",
+    "Myope",
+    "Distrait"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Perdre la télécommande",
+   "taboo": [
+    "Canapé",
+    "Coussins",
+    "Chercher",
+    "Zapper",
+    "Chaînes"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Oublier où on s'est garé",
+   "taboo": [
+    "Parking",
+    "Voiture",
+    "Chercher",
+    "Place",
+    "Perdu"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Téléphone dans les toilettes",
+   "taboo": [
+    "Tomber",
+    "Eau",
+    "Riz",
+    "Cuvette",
+    "Plouf"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Faire brûler le dîner",
+   "taboo": [
+    "Four",
+    "Fumée",
+    "Cuisine",
+    "Noir",
+    "Alarme"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Confondre sel et sucre",
+   "taboo": [
+    "Café",
+    "Gâteau",
+    "Erreur",
+    "Goût",
+    "Blanc"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Pull moche de Noël",
+   "taboo": [
+    "Laine",
+    "Renne",
+    "Décembre",
+    "Grand-mère",
+    "Cadeau"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Bise ratée",
+   "taboo": [
+    "Joue",
+    "Nez",
+    "Combien",
+    "Côté",
+    "Cogner"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Mauvais perdant",
+   "taboo": [
+    "Jeu",
+    "Triche",
+    "Colère",
+    "Bouder",
+    "Gagner"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Premier rendez-vous",
+   "taboo": [
+    "Stress",
+    "Restaurant",
+    "Séduire",
+    "Rencontre",
+    "Amoureux"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Phrase de drague",
+   "taboo": [
+    "Séduire",
+    "Bar",
+    "Ringard",
+    "Flirter",
+    "Râteau"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Rencontrer les beaux-parents",
+   "taboo": [
+    "Famille",
+    "Copain",
+    "Présenter",
+    "Stress",
+    "Dîner"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Question gênante",
+   "taboo": [
+    "Indiscret",
+    "Malaise",
+    "Répondre",
+    "Famille",
+    "Curieux"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Chanson dans la tête",
+   "taboo": [
+    "Refrain",
+    "Musique",
+    "Coincé",
+    "Fredonner",
+    "Répéter"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Mot sur le bout de la langue",
+   "taboo": [
+    "Oublier",
+    "Souvenir",
+    "Chercher",
+    "Trouver",
+    "Presque"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Sortir en chaussons",
+   "taboo": [
+    "Pantoufles",
+    "Pieds",
+    "Rue",
+    "Oubli",
+    "Maison"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Trac",
+   "taboo": [
+    "Scène",
+    "Stress",
+    "Peur",
+    "Public",
+    "Ventre"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Seul déguisé à la soirée",
+   "taboo": [
+    "Costume",
+    "Fête",
+    "Thème",
+    "Ridicule",
+    "Honte"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Appeler la maîtresse maman",
+   "taboo": [
+    "École",
+    "Lapsus",
+    "Enfant",
+    "Erreur",
+    "Prof"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Monter un meuble en kit",
+   "taboo": [
+    "Ikea",
+    "Notice",
+    "Vis",
+    "Clé Allen",
+    "Pièces"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Poussé dans la piscine",
+   "taboo": [
+    "Eau",
+    "Mouillé",
+    "Habillé",
+    "Blague",
+    "Plouf"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Marque de bronzage",
+   "taboo": [
+    "Lunettes",
+    "Blanc",
+    "Maillot",
+    "Peau",
+    "Soleil"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Billet oublié dans une poche",
+   "taboo": [
+    "Argent",
+    "Pantalon",
+    "Trouver",
+    "Surprise",
+    "Lessive"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Pull qui a rétréci",
+   "taboo": [
+    "Lessive",
+    "Laine",
+    "Taille",
+    "Machine",
+    "Petit"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Carte bancaire refusée",
+   "taboo": [
+    "Paiement",
+    "Caisse",
+    "Code",
+    "Compte",
+    "Gêne"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Avaler de travers",
+   "taboo": [
+    "Tousser",
+    "Étouffer",
+    "Gorge",
+    "Boire",
+    "Fausse route"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Chewing-gum collé",
+   "taboo": [
+    "Chaussure",
+    "Semelle",
+    "Cheveux",
+    "Mâcher",
+    "Table"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Panne sèche",
+   "taboo": [
+    "Voiture",
+    "Essence",
+    "Réservoir",
+    "Station",
+    "Route"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Mains moites",
+   "taboo": [
+    "Transpirer",
+    "Serrer",
+    "Humide",
+    "Stress",
+    "Sueur"
+   ],
+   "level": 1
+  },
+  {
+   "word": "Sable partout",
+   "taboo": [
+    "Plage",
+    "Serviette",
+    "Pieds",
+    "Voiture",
+    "Grains"
+   ],
+   "level": 2
+  },
+  {
+   "word": "Cheveu sur la langue",
+   "taboo": [
+    "Zozoter",
+    "Zézayer",
+    "Prononcer",
+    "Défaut",
+    "Lettre"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Lapsus",
+   "taboo": [
+    "Erreur",
+    "Mot",
+    "Langue",
+    "Freud",
+    "Dire"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Cerveau gelé",
+   "taboo": [
+    "Glace",
+    "Froid",
+    "Tête",
+    "Douleur",
+    "Manger"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Correcteur automatique",
+   "taboo": [
+    "Téléphone",
+    "Message",
+    "Mot",
+    "Erreur",
+    "Changer"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Porter la même tenue",
+   "taboo": [
+    "Vêtements",
+    "Soirée",
+    "Pareil",
+    "Robe",
+    "Identique"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Étiquette qui dépasse",
+   "taboo": [
+    "Vêtement",
+    "Col",
+    "Taille",
+    "Prix",
+    "Dos"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Auréoles",
+   "taboo": [
+    "Aisselles",
+    "Sueur",
+    "Chemise",
+    "Chaleur",
+    "Taches"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Démarchage téléphonique",
+   "taboo": [
+    "Appel",
+    "Vendeur",
+    "Publicité",
+    "Raccrocher",
+    "Agaçant"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Rentrer en douce",
+   "taboo": [
+    "Nuit",
+    "Parents",
+    "Silence",
+    "Pointe des pieds",
+    "Porte"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Se faire griller",
+   "taboo": [
+    "Mentir",
+    "Démasqué",
+    "Flagrant délit",
+    "Attraper",
+    "Main dans le sac"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Fausse alerte",
+   "taboo": [
+    "Alarme",
+    "Pompiers",
+    "Panique",
+    "Rien",
+    "Erreur"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Épi rebelle",
+   "taboo": [
+    "Cheveux",
+    "Mèche",
+    "Dressé",
+    "Coiffer",
+    "Gel"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Tartine tombée côté beurre",
+   "taboo": [
+    "Sol",
+    "Confiture",
+    "Murphy",
+    "Petit-déjeuner",
+    "Malchance"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Faire semblant d'aimer un cadeau",
+   "taboo": [
+    "Sourire",
+    "Hypocrite",
+    "Paquet",
+    "Remercier",
+    "Déçu"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Micro ouvert en visio",
+   "taboo": [
+    "Réunion",
+    "Couper",
+    "Entendre",
+    "Ordinateur",
+    "Caméra"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Message vocal interminable",
+   "taboo": [
+    "WhatsApp",
+    "Écouter",
+    "Long",
+    "Téléphone",
+    "Parler"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Ghosting",
+   "taboo": [
+    "Disparaître",
+    "Fantôme",
+    "Répondre",
+    "Message",
+    "Rencontre"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Liker une vieille photo",
+   "taboo": [
+    "Instagram",
+    "Profil",
+    "Ex",
+    "Erreur",
+    "Doigt"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Répondre à tous",
+   "taboo": [
+    "Mail",
+    "Collègues",
+    "Erreur",
+    "Envoyer",
+    "Bouton"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Musique d'attente",
+   "taboo": [
+    "Téléphone",
+    "Standard",
+    "Patienter",
+    "Ascenseur",
+    "Hotline"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Mouchoir dans la machine",
+   "taboo": [
+    "Lessive",
+    "Papier",
+    "Peluches",
+    "Vêtements",
+    "Oublier"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Croiser son prof au supermarché",
+   "taboo": [
+    "Maîtresse",
+    "École",
+    "Courses",
+    "Bizarre",
+    "Élève"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Se dire au revoir deux fois",
+   "taboo": [
+    "Partir",
+    "Rue",
+    "Même chemin",
+    "Gêne",
+    "Salut"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Fiente de pigeon",
+   "taboo": [
+    "Oiseau",
+    "Tête",
+    "Chance",
+    "Tomber",
+    "Ciel"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Déjà-vu",
+   "taboo": [
+    "Impression",
+    "Passé",
+    "Bizarre",
+    "Revivre",
+    "Souvenir"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Faire semblant d'écouter",
+   "taboo": [
+    "Hocher",
+    "Distrait",
+    "Penser",
+    "Ailleurs",
+    "Conversation"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Saluer un inconnu",
+   "taboo": [
+    "Main",
+    "Bonjour",
+    "Erreur",
+    "Derrière",
+    "Gêne"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Piste de danse vide",
+   "taboo": [
+    "Seul",
+    "Soirée",
+    "Musique",
+    "Personne",
+    "Bouger"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Bafouiller",
+   "taboo": [
+    "Mots",
+    "Mélanger",
+    "Parler",
+    "Hésiter",
+    "Stress"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Collant filé",
+   "taboo": [
+    "Maille",
+    "Jambes",
+    "Femme",
+    "Trou",
+    "Vernis"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Applaudir trop tôt",
+   "taboo": [
+    "Concert",
+    "Silence",
+    "Mains",
+    "Fin",
+    "Seul"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Tatouage raté",
+   "taboo": [
+    "Encre",
+    "Peau",
+    "Faute",
+    "Regretter",
+    "Dessin"
+   ],
+   "level": 3
+  },
+  {
+   "word": "Écharde",
+   "taboo": [
+    "Bois",
+    "Doigt",
+    "Pince à épiler",
+    "Planter",
+    "Aiguille"
+   ],
+   "level": 3
+  }
+ ]
+}
